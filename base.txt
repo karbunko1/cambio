@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="PELICULAS ACESTREAM" tvg-id="Paint(2023) BR1080" tvg-logo="https://www.ecartelera.com/carteles/17800/17825/001_p.jpg" ,Paint(2023) BR1080
 acestream://d2e2843e07fbb99dc36585f7b01c5167be1dbbab
 
+#EXTINF:-1 group-title="PELICULAS ACESTREAM" tvg-id="Los olvidados cicatrices(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" ,Los olvidados cicatrices BR1080
+acestream://a6588e38cff59fe20c84743c2470ab1a7eff6f14
+
 
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD ep  c021
