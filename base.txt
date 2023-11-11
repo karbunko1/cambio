@@ -209,25 +209,25 @@ acestream://246a5a09a82458b15d429565c41abf77c564e283
 #EXTINF:-1 group-title="PELICULAS ACESTREAM" tvg-id="Vesper (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" ,Vesper (2023)
 acestream://37117441e259bbdb8ffc3a73bef0ae284fd7faf8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 2
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/104
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 3
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/105
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 4
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/106
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 5
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/107
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 6
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/108
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 7
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/109
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 8
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 9" tvg-logo="http://xtitan.xyz:2082/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 9" tvg-logo="http://xtitan.xyz:2082/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 9
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE Y SERIES ESPAÑA",ALQUILER 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALQUILER 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="CINE ALQUILER ESPAÑA(iptv)",ALQUILER 10
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/112
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SERIES NETFLIX #1" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-275-5694.png" group-title="SERIES NETFLIX",SERIES NETFLIX #1
@@ -273,7 +273,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10285
 #EXTINF:-1 tvg-id="IPTV Dazn 5 FHD" tvg-name="Finetwork Dazn 5 FHD" tvg-logo="https://www.linkpicture.com/q/eEES.png" group-title="DAZN FEMENINO", Dazn 5 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10286
 
-#EXTINF:-1 tvg-id="LA 1" group-title="ZAPEANDO MOVISTAR IPTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR",ES : LA 1
+#EXTINF:-1 tvg-id="LA 1" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR",ES : LA 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46464
 #EXTINF:-1 tvg-id="LA 2" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="ZAPEANDO MOVISTAR",ES : LA 2
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46465
