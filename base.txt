@@ -273,7 +273,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10285
 #EXTINF:-1 tvg-id="IPTV Dazn 5 FHD" tvg-name="Finetwork Dazn 5 FHD" tvg-logo="https://www.linkpicture.com/q/eEES.png" group-title="DAZN FEMENINO", Dazn 5 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10286
 
-#EXTINF:-1 tvg-id="LA 1" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR",ES : LA 1
+#EXTINF:-1 tvg-id="LA 1" group-title="ZAPEANDO MOVISTAR IPTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR",ES : LA 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46464
 #EXTINF:-1 tvg-id="LA 2" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="ZAPEANDO MOVISTAR",ES : LA 2
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46465
