@@ -324,7 +324,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4283
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4284
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Resident Evil" tvg-logo="https://iili.io/H8iwsYQ.jpg" group-title="ESPAÑA 24/7(iptv)",Resident Evil
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4285
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Transformer" tvg-logo="https://iili.io/H8p9iYB.jpg" group-title="ESPAÑA 24/7",Transformer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Transformer" tvg-logo="https://iili.io/H8p9iYB.jpg" group-title="ESPAÑA 24/7(iptv)",Transformer
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4286
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Peor Bruja" tvg-logo="https://iili.io/H84wxcB.jpg" group-title="ESPAÑA 24/7(iptv)",La Peor Bruja
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4287
@@ -348,7 +348,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4295
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4296
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jungla de Cristal" tvg-logo="https://iili.io/HS60v6J.jpg" group-title="ESPAÑA 24/7(iptv)",Jungla de Cristal
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4297
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Parque Jurasico" tvg-logo="https://iili.io/Hr5zCIp.jpg" group-title="ESPAÑA 24/7",Parque Jurasico
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Parque Jurasico" tvg-logo="https://iili.io/Hr5zCIp.jpg" group-title="ESPAÑA 24/7(iptv)",Parque Jurasico
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4298
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel  1" tvg-logo="https://iili.io/HS4C1Yx.jpg" group-title="ESPAÑA 24/7(iptv)",Marvel  1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4299
