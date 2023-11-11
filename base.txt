@@ -534,7 +534,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46495
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46496
 #EXTINF:-1 tvg-id="M+ Documentales" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ DOCUMENTALES
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46497
-#EXTINF:-1 tvg-id="M+ Música" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ZAPEANDO MOVISTAR",ES : M+ MÚSICA
+#EXTINF:-1 tvg-id="M+ Música" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ MÚSICA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46498
 #EXTINF:-1 tvg-id="M+ La Resistencia" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : LA RESISTENCIA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46499
@@ -542,7 +542,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46499
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46500
 #EXTINF:-1 tvg-id="M+ ACCIÓN" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ ACCIÓN
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46501
-#EXTINF:-1 tvg-id="M+ COMEDIA" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="ZAPEANDO MOVISTAR",ES : M+ COMEDIA
+#EXTINF:-1 tvg-id="M+ COMEDIA" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ COMEDIA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46502
 #EXTINF:-1 tvg-id="M+ DRAMA" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ DRAMA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46503
@@ -594,7 +594,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46525
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46526
 #EXTINF:-1 tvg-id="NEOX" group-title="ZAPEANDO MOVISTAR(IPTV) tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : NEOX
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46527
-#EXTINF:-1 tvg-id="Atreseries HD" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png" group-title="ZAPEANDO MOVISTAR",ES : ATRESERIES
+#EXTINF:-1 tvg-id="Atreseries HD" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : ATRESERIES
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46528
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : M+ LALIGA TV
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
@@ -656,7 +656,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46564
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46565
 #EXTINF:-1 tvg-id="HISTORIA" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : HISTORIA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46566
-#EXTINF:-1 tvg-id="DISCOVERY" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="ZAPEANDO MOVISTAR",ES : DISCOVERY
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : DISCOVERY
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46567
 #EXTINF:-1 tvg-id="CANAL ODISEA" group-title="ZAPEANDO MOVISTAR(IPTV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" group-title="ZAPEANDO MOVISTAR(iptv)",ES : ODISEA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46568
