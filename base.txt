@@ -260,12 +260,16 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 1" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 1
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7T1gsbvVa4g0zuxLgsWjUD/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 2" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 2
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV4Xl72p6fw8Eq7JF5K03qXg/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 3" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 3
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV6Q9nzQH4RiL6CYl6AibTwo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 4" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 4
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7mvVazxfzFWvCcntak0-7Y/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 5" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 5
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV6SNU0NY65JfBlOhtYAkM6q/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 6" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 6
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV489UUSyyQLcIk6pLaHOmNF/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 7" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 7
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV42288-tfDUqW8faW91MkvJ/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 8" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 8
@@ -283,9 +287,7 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV4nnEJO3Lm_A
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 14" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 14
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV6BJZHveReLbp6Nb6vTuA0B/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 15" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 15
-
-
-
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV42DUkxiNpexoPikh_hQcrI/ts
 
 
 
