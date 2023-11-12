@@ -233,6 +233,604 @@ acestream://8bd3010b192c88b5fdcfc48d903f5106da41ef50
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(1976)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",(1976)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPqO1kFkffCrDZgq52DULvQgm_nJ3STAc6cHcS_eTNPcw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6 de enero ataque al Capitolio" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",6 de enero ataque al Capitolio
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOUPeu0c4s-AOVW4-Wt4wHPqJKFukW0kUZYTVrPQfiTVQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 días de un buen hombre (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",10 días de un buen hombre (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO3SVj50TeP2vCmoFG4Hn1YKTEU3Cj7Fscqs0MV2bh7vw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30 noches con mi ex (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",30 noches con mi ex (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANX3vrm9q0gTkscaA2Xw76w0PAsU0VIeYDyNzqpL8IzcA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="65 (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",65 (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOHe1d4nl1T_U9KYEhUcaex4IJ1T7V0slN1W1ap7utGaQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abandonada (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Abandonada (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPvKh-zGJuhqGH4eeANbDs4WRcZBZiToqDGrJNsX2z8Ww#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abbey Road Si las paredes cantasen \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Abbey Road Si las paredes cantasen \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPGYBYJhHQJccaFBUhYfELgFrTpgcTMWLFxZRMp0gKfKQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adicción perfecta (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Adicción perfecta (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN9XxNwAgXNXTryxxAqaZT_Bcu316V8VnlyhreDY6pszQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="After: Amor infinito (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",After: Amor infinito (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOMubY_Rdc5CQxCWDyXJJ3dyr_1ofhOsNcZpodHyBGFxg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor al cuadrado otra vez (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Amor al cuadrado otra vez (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANAXtaQANjMWKe-b9Ba5GGtS3sFS0FMuaiClVdsDQ6RTg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Amor en Rye Lane (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN-igOd0-m1jEo6w9g6XON3Jd0PiMQz2HjifadL4BpteQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amén: Francisco responde (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Amén: Francisco responde (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOxzy4vmEypoStE1nb47_SWfVK2PTWTdYYikdyrUCFLLg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ant-Man y la Avispa: Quantumanía (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ant-Man y la Avispa: Quantumanía (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO6M4F58T9JSWbJhX7EiQjDA5IFmE1RWzLCllaJ07pMjA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aníkúlápó (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Aníkúlápó (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMlpbH8UFHJrx-Fd3llp4QgNVHzNlVExgVZPQbd60Y4Yg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A por todas: Anima o muere (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",A por todas: Anima o muere (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPgVt8NXtmvRl7WMLVuiu3gMnlnEU7PEvcYmAEk7kp1PQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Así se hizo The Last of Us (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Así se hizo The Last of Us (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANfxll1pznvyDs8UGF9zbOK8oBxh6JT-_CvMTjKxOHK3A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Todas Partes (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",A Todas Partes (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOlU1bPshW-BJVi724MhXeO5odVSI8x7vp0329dX4vfLg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A todo tren 2: Sí les ha pasado otra vez (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",A todo tren 2: Sí les ha pasado otra vez (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANep6urHuTkKTy518yClB65SZNcvGpSBwVl7j4ZzKWqpw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atrapadas en familia (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Atrapadas en familia (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOhM3jUzURg9VY1rpdzj49EpxM4th3OQmT1UikqsAPsOw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avatar: El sentido del agua (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Avatar: El sentido del agua (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMW2HGaE08nE99XgPYLQueKNIJlocnthuh4k4bsVNKwfA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bajo vigilancia (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Bajo vigilancia (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANiVDefPNpZekP5iieEQb1eG2VrhhuFX-2z1yS0yRAuYQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbarian (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Barbarian (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANmxHt6y5Gc_x2EhT9Lq5LesgKrm5KODt-uAgfl9mgFdA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie: Skipper y su gran aventura como canguro (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Barbie: Skipper y su gran aventura como canguro (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP8j7Adw-VpnwhswjC207CNxt5lLHaTg0exODngnUoG-w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BDE (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",BDE (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMVzRkI9RuUYe4vmhFYgzVCbByHich0lqIgS77iHnlNmA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Mäck: Gánsteres y oro (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Big Mäck: Gánsteres y oro (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMTSoLnmX3k3WarmHhRnMCT95vMIjaXCYce6YFL55GT9A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blackout (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Blackout (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPy2RlaEYVvbxilGyOUlJWToT4ZepPUZ7fMORkYYXJISQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Black Panther: Wakanda Forever (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN83fPLQ3_cyYsdUxS2-bMgq-LfCtp6YGOcg5CcOZkNWA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boksoon debe morir (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Boksoon debe morir (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOMlMalA_glSST1xItDNsdoQLs9XNPnbGK9wlpBMS2t3w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bonita (Cici) (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Bonita (Cici) (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPh3v-hDO2VsswLpoAqZTbx9eUf7PsG--SE9LCGxG4uDQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bring It On: Worldwide #Cheersmack (2017)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Bring It On: Worldwide #Cheersmack (2017)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN7cJgh6u0UkzxqPM0TLB_uOKNgDtKNAiPXXkoWs46Mvw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Burbuja (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Burbuja (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANhOjee817YvSYQ8f2hA7OMBfPUzcfmvsYU2Yx4UTNLpA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caja de memorias (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Caja de memorias (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN9U9rCu93CRte4buop8Hd0ZdPWkfXgJhwqk87IdRBlJg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Camino de la venganza (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Camino de la venganza (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPGoxMNcnARVLkoSZKDZDPf8tSTMWCNOZzY_mOD3_PiSA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cantando en las azoteas (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cantando en las azoteas (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPf3SHwcZKU0Aoim4q5QNUkyE8yFBslliYRXhKV-AbZrw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casando a mi Ex (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Casando a mi Ex (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPZC20tQ8jK5zM1Ku_h2MEjuAWzZ4T2yU4lPYp9aty4IA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cazadora (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cazadora (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPilnCquaJkVuOlzi12YTPtRoTvwMNYAvnsau7lFhzBbQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cerdita (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cerdita (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANkccRPtfBD3ngEB6LyRZywVTkDTYY6trQyeEGLAIh58Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chang machaca (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Chang machaca (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPqmDnopl8Hvk3Cr1EhigFkr6fA4SKGiQizacJP4ZfqIw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clerks III (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Clerks III (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPAxxGPBH5dNmJ28u3pqgV5WO-HpQ1zQpkWNpeMZpIGfw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clock (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Clock (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOu_8eCMrIyaM9jX0dcY9WIbqtQpk0JgW9zsF69B0PUYg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNCO: los últimos cinco días (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",CNCO: los últimos cinco días (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMPqn_89KPUQV1Oxh0nvgEt2BwokcuKi6MGfrzX8qOs9A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como el buen vino (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Como el buen vino (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPOiXjd5Y0bToCwfVNemm2YLw0i_xU1bpu47CiS7OxCQQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Con la soga al cuello (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Con la soga al cuello (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANZootQzEp-wrAtc-ep9ogu2Lxxtm1BJcqVZyorNwEg4A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Creed III (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Creed III (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM03Cj7m_AxNhiuc3le6lKVvDN4KPtTp7eaPLdmFjcdBg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Criminales a la vista (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Criminales a la vista (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMBH3DCJ4ocRZvk65H_2ZeuBNooAosI8NQsl_MTo9r8kQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuando la miro (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cuando la miro (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOSwePKXo1KawY1N--ppV1KLDMevNv9Tot2SP6ZI41tGA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Código Revancha (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Código Revancha (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPpASUT_Gncd5C_03QHakaxgsCprQwBSsfI-pOzauic8g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cómo satisfacer a una mujer (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cómo satisfacer a una mujer (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMk7NkvJ7xraQiNaX3ba_qAjVyf9RBrrpQz8U7PCsampg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cómo sobrevivir al instituto (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Cómo sobrevivir al instituto (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOUbv8bJTXCcRqtFavParvgodrTa66huTt5kX5_Ee6GeA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Danny León: El alquimista del skate (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Danny León: El alquimista del skate (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANR1pE0egzhPCMsKLnsZfrLQE9MmzXk2LmMLd9TopNE4Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darby y los espíritus (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Darby y los espíritus (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANe4oJrcMJk1bIHchOUm3yML3PPXRuhNhJDlP25KjaxUA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deinfluencer (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Deinfluencer (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPk1C5_zqHNBqonRufdn2zE2Cw4-3cb1CM9WPZApWAdQA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Descendientes (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Descendientes (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP088NwQtb05XcrULkIeDvzmi0-s07mnbVUgHtgimMo7Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desde Viena: Concierto de Ano Nuevo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Desde Viena: Concierto de Ano Nuevo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAODf98gOksn0NQedJ0SjIQcxabJuc4F30ceMP-gVP-7HA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desde Viena: Concierto de Ano Nuevo \ (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Desde Viena: Concierto de Ano Nuevo \ (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPcAz31uOqExLn1C8nj0C0Yw9D00DP51NGE3iCVCNfPew#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dieciocho otra vez (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Dieciocho otra vez (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANxtaADPwJTLozwB5pudTGvR5ErpAlnOmRAuMjcNsY-mw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disconnect: El organizador de bodas (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Disconnect: El organizador de bodas (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOqSyYvzaiOND-b0cOwg-w-hSGT3nh_mqrm60ksJFcxgw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disquiet (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Disquiet (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPOGOi50rJQpps6ysbgafAVDXKh6GXObcvVvTUmMJheIA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dos son multitud (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Dos son multitud (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMCYjkPrhBQ9EGGgKdk0fasOYscW7cEheayJmNmKjcAbQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El abismo del infierno (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El abismo del infierno (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPA7FeGkiaYOBwjotMoMo1UYTw8hQ0t8AJpXjr8kj2uzg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El arrecife: Atrapadas (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El arrecife: Atrapadas (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPn3VfoP6d9v-HMXZXuV28owF68YZzh6kwGZeW73M9-_A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El asistente (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El asistente (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMnsVsbDUs-Bt7CgBkF1tFVcwjAHirqZsaytyjrqPIVAA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elefante blanco (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Elefante blanco (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPs8zmalFX1KhTZp1gjI-zpumxqnvxO-ZG3hSYxh8pzaQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El entresuelo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El entresuelo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOw1CiJ3I8GIfabNEwwFJIAlZyeycyr42QnVpIZiw3OXA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El equipo redentor (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El equipo redentor (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOLPjtHsX4WNO2xfruAUsPJqLs4654J-TRKgDnBlOdS0w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El escándalo Norbourg (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El escándalo Norbourg (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOVGPpnee74xPxfRv_hqHoUX8SJLLLIvDAcofhvnnEi0Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El espíritu de Bridge Hollow (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El espíritu de Bridge Hollow (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOxxej9_N5gQFsDZujsO34cWVZ4kFKaB4X__d2lDoenMw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El estrangulador de Boston (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El estrangulador de Boston (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPGFGobScgWIYB7TposWhJdW5S7TkEHieYi-G6CGGV1ig#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El exorcismo de mi mejor amiga (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El exorcismo de mi mejor amiga (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOV4mQwCGsMD7YVKYIrREuFaturV1XlQZkaD6Vj9ViVLg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El extraño (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El extraño (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM8fO8_TUmT3Fn29UqEpqels7vBOtmIxi5zOXa7uEU2aA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El gerente (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El gerente (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMGl5U0yZosdnbFhx4xX7xN5sDg0PYd2vPditK_TN5ktw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El hambre de invierno (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El hambre de invierno (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMnGTbyZ8cdU7bwwZwCviryesVPZ4YOD2FfvZ1h7YlEAg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El joven Berlanga (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El joven Berlanga (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOQoZ4bbqWeRg-HR5mONYhzgv5-57M4N1286aTTrqKXKQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El juicio de Nuremberg. El testimonio perdido (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El juicio de Nuremberg. El testimonio perdido (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN1ETfTMvoWHJxwiLnexj1loAT4gm2unUq9BvI5lgiv6g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El juicio de Nuremberg. El testimonio perdido \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El juicio de Nuremberg. El testimonio perdido \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOoGa9NFiYaCS2RkajYumEh0jcbrirpFNZTM-g--fiO7Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El libro de Catherine (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El libro de Catherine (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANja0x6-CRfdsX1qToOMEjTex0IdybqtsBYog7svyNBcw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El menú (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El menú (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOwZRFFjMQvaeCJuZh7RlL9iUVzzkTBwViQqMNWwwZuGA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El mochilero del hacha (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El mochilero del hacha (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANzGIpBFODh1r__ZKjHjXNCWGAG38x4Mu4G4U4-2QGkig#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El niño delfín (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El niño delfín (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP2Lv2wtdESSCbTpopHz7demcW_4yR7letAcL0JYsi2pA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El norte sobre el vacío (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El norte sobre el vacío (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM2UhjBcXdcqcZMm9OUsOXMzc3K0W0ATD4ToX-T-x5KuQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El peor trabajo de mi vida (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El peor trabajo de mi vida (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMN5tPLUc9FzEv6ia6LtcYvddGRBVaN7348DpeA2ict6w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El piloto (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El piloto (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMRS7g7ZzHAw22HFr3a6NMx3ihAG6oQ65VCx-aH9A6PEw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El retorno de las brujas 2 (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El retorno de las brujas 2 (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOIMsUMH4w3-DaJD-6QzQJVqfwHrUYxIe2N2w0pYJpu_g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El rey de las sombras (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El rey de las sombras (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOe7kf9CSX9-jETnOF4oZycdpOCDjNzxpTiBjXovhD9kg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El rey Shakir: ¡A reciclar! (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El rey Shakir: ¡A reciclar! (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOpC6aSLX368cv7yqkY7216xFJddsj5ZmUXNkKw_VW0OA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El robo a Mussolini (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El robo a Mussolini (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANrL8MGWPNJP4keoePia1NFceHXKK5bnw_udRHbbmVCpA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El suplente (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El suplente (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPsgiX7-meQW65xDTo8rQTLiUWu3Al0zXnzW_4qmGN2kA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El teléfono del señor Harrigan (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El teléfono del señor Harrigan (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPfoPiMblwG49dc1XoZBXqs4_L0s3N6HpefIX6fl1AxPQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El test (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El test (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP19Xf-EOaRtajXLNDQVOD3nDoUwL0P4YkZF-QbFo6Bww#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El universo de Óliver (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El universo de Óliver (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOP9WTStq2ketLrCjBbk1zCf2olG3qKQ0Tn-gpUGOA5JA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El viaje a París de la señora Harris (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El viaje a París de la señora Harris (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN8bP3jcfMjaidc6F8rNmBNnKwvh5CfbpIv1ql-iYJFhg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El violín de mi padre (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El violín de mi padre (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN9jRiuU0kbtbMA6W_Ft21h4pFdXCG2cISfeoPJfg3dKQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ángel de la muerte (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El ángel de la muerte (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOusB61hf6xooch2hoQZ4WaZPcXs1Q3p2HqtkzvILocvg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El último baile de Magic Mike (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",El último baile de Magic Mike (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOi74g0SMXJiCsMu3Ix_hb7ol9G_IeqimXpd1k4kw-X7Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Embaucadores (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Embaucadores (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPOWKmGLhRSjgkoPujVeK241YB0Duk-gTa-mZXc-DZUxg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encanto en el Hollywood Bowl (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Encanto en el Hollywood Bowl (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPJZ6RKVSycIAP_AnmTIhxbvl1es9iJvhqPBfzc9g_9vw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En los márgenes (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",En los márgenes (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOG-eIy9gJW6FFvbh1Hnpq6IBXQAD0Co24iCqaU468tTw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Entergalactic (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Entergalactic (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP3rGVBw9uSSFq6733PocRaFpXjtRjPkcog83bg6OQ84A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres tú (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Eres tú (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMlt7nx_HRPkwcA0Chk9oNPaAD5KD4OLtNzM1Cq9Axi6w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espiritu Libre (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Espiritu Libre (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM_bmlOwiAt-U6kBM2S6nz1NeoFHoKDYdJllUf1Lk1WSQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espiritu Libre \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Espiritu Libre \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPlsYQmglcVn9ummObYD9rabI7HwAdyfIm5JJM38mTQEA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esta noche duermes conmigo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Esta noche duermes conmigo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO2EtSKAbIg17f50L-PFSRwQJJe0kzLoDtxQHACXcKDQA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fall (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Fall (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPbmsuAQANMDT5eifMnn165bSNsEYHCXJ0bfXzmDmw2Lw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fenómenas (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Fenómenas (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP9RZMdAxwJPkrsFKymW1phnoT6eSwP7OUlzlXA2xMtWw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Folie à Famille (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Folie à Famille (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOMFcmy8YJvIYmxLW2Sb8rgCExQTxHP1ce71Wg1PdmGBA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Franco Escamilla: Voyerista Auditivo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Franco Escamilla: Voyerista Auditivo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANbAMFpoD7TW5TovkFpi17g2HYTHpL7srtaJXYMD8JvGA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuga de Reinas (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Fuga de Reinas (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOKrjaVkmtZDoKsxdgiavEDGPAFJJ5r3hGGIa70nzxKxA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fugitivo: El curioso caso de Carlos Ghosn (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Fugitivo: El curioso caso de Carlos Ghosn (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMSDgTyAh9rVvchHG_ux-BzgShj8sAgcN42mMTCwaXfUg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ghosting (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ghosting (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMcazzPBqfcHJrzgB9C7pMGwtojy2MrgYJm_51uos-r4A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Girasoles silvestres (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Girasoles silvestres (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP_yDP7gNsYgiCCfLDXOIUF4XNNeZIfoHVuHn1lOYJO9A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gospel (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Gospel (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMZWChwMQn3m7jurDYWO59maKFKeQRhJxMgoa3TxS9hXQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grimcutty: Asesino implacable (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Grimcutty: Asesino implacable (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP1l0ETvndoP8WxIOaPzd_f49HHJE2hNM2TurREXniEQQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Guía de viaje hacia el amor (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Guía de viaje hacia el amor (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMinq4iezuT9r_p-xOk-xcAErlhFoWTG0TUFnqzKhuBgQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hans Zimmer. La BSO de Hollywood (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Hans Zimmer. La BSO de Hollywood (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMvyrZkN-wsoBh8nonhF4cNgviYFsUcAfm4B240jL9AoA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harry la entrevista (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Harry la entrevista (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANQoAdC5ksPWrgqmmp4_Yc8ej5TFQgzXm-WRwqFPExq3w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harry la entrevista \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Harry la entrevista \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPWGUivRyzk1FqQCaFlIN_Aj75LqyBj-ESc6_A0WvxLSA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HiGH&LOW THE WORST X (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",HiGH&LOW THE WORST X (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM8Yd1blApqYvSGtwYWvMkbRqxIAaaJD5F4F57v_FEOhA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hinterland (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Hinterland (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPOzOHJsYgy7CJhYLOC3g2-hUp3SV1K3l7KbW3wi4tdqQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hinterland \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Hinterland \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANiG_Ntu0tIOffoZdkTypEBJZoo2Ld7nDGqyKsKVoGfKw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="House Party (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",House Party (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMJYWNktF7VGCKXsHTEqmxGDY9OM4ekuM6ajBneEVOb7A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huesera (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Huesera (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM0lu1cqqNMvIx88a-YB8oaHyjvedudc7Id3mMf_JTEsg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infelices para Siempre (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Infelices para Siempre (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMnk_FGzv3SRY1-ean8B2Rd0q1H5TroOLtRONJsYYrE-g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infiesto (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Infiesto (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANenCNpKFQOeP7z-EUBFrB5FuSIQ3DX0j9o0xq-BmLJVQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infiesto \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Infiesto \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPSqjSjNYG-Erse-hLGmeiPeq6Bb_YqaGxCY6eNK7mf1Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="It: Capítulo 2 (2019)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",It: Capítulo 2 (2019)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMb5jiOkeOI03uJV9TqtL2use2lfO-NkKBbl_xapkW2KA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jason: Buscado por el FBI (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Jason: Buscado por el FBI (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMigLB9nnlcx5f9_TYkNEKhDTu4HgqcMREGqgAx5db46Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaula mental (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Jaula mental (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO8a8lu31MrtAPIrXNsEWyUhgtWN7pwO3N2PoLysOqT_w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jethica (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Jethica (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM9mx7fPvos7oN_Qn7Hq0MHsvswUgyJvg6deqjUA8MqKQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juego de espias (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Juego de espias (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM4xt2RWKBDAiIK0rG8Syt8S12yvBdRYzdQ1Fkb42TNlQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUNG_E (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",JUNG_E (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOT6Sn58Lm_07f2N1fGUK04490imkNHGi5u_eyqiDi4Ug#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kautela el fotógrafo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Kautela el fotógrafo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPXIBeyi6y3NCi9awmSA-1_ZKWSeES-T4vu6olLTupWEA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kim Novak el alma rebelde de Hollywood (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Kim Novak el alma rebelde de Hollywood (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPsuA1-RONE5-m1UfZoub-RQnH3NEEDVrogqNsJGQ_dpw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="L'immensità (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",L'immensità (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANRDzy2sMI-Dw2wDUjnbnd9WYewk2aAwbnENhQ7aPaJ2w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La batalla del lago Changjin II (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La batalla del lago Changjin II (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPqzcgcsh73tX7VAnQxJh-hTlUx3D6zJMVEb8tSKNCHBA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La bella y la bestia. Celebracion del 30 aniversario (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La bella y la bestia. Celebracion del 30 aniversario (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM-O1WdiE37cTci9HPODdjn5vjGW6NPlJyDMhNXoqoaIQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La brigada de la cocina (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La brigada de la cocina (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPIaGG0wbzEDw4C9uCAAvApzL-VlBY0XGwQGUCYDt9ZFg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La casa entre los cactus (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La casa entre los cactus (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPmtf62-n2gThyI9RdtvITgiiYrFUbq1FmNOYDQ0q19mg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La cena perfecta (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La cena perfecta (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOwQOgSbVdMjaul0VG1D-YlIVIr-jXVKJzuiPVuqLzthg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La chica de la ventana (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La chica de la ventana (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO_DpSCnkNcfwPKkTFBcj4KHfKVkW_EhW57Qtwzwbs89Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La chica que lo tenía todo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La chica que lo tenía todo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP7OZ-zG5v8hEjfSQILuIdXmwCWpNv_iLhAfzcuUtvokQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La conferencia (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La conferencia (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMu3mBOErQvS25ER30ms7cU775tFipwNHx8sDgT6uWcPQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La desaparición (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La desaparición (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP5pmrPwanisnfgXy1lB4699j7Vgnk6kaZ5GQky9BBtMg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La desaparición del Skymaster (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La desaparición del Skymaster (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANahEStA11b48l8W0aKenlGSxw-qejGGXuvQUO-m1fN8Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La elefanta del mago (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La elefanta del mago (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOWRg__wmNRfRAB7HQHsupBme5mUz_W4qCqWJq4YLg4sQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La escuela del bien y del mal (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La escuela del bien y del mal (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOsnYJtyym56XOkwOUlpC8RA_s_-AVeU3n8WfTfAiFgJw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia tiene un precio (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La familia tiene un precio (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANCgXhhq5tOKG-yxyqDrn2SCz1WX8TYBsgBv99hVaq8mQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La forja de un campeón (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La forja de un campeón (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMA16AC8sTlBp6m6kkItgzyBzpAEGetG8ajPFJPE42sWA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La furia de una madre (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La furia de una madre (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN2DtNWDy47P63Y-iVwcLU0lK6WEaTuCiflaSzCN3-RGg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La gente como vosotros (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La gente como vosotros (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOHIHjXeV-6qUZj0z26kQBvOw9kZsUp1a9LP7K8lFblIQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La gente como vosotros \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La gente como vosotros \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANM6RwkQiw9-ZSnT9mxPWH7fHdqSghkIRcVrRZcqm6Wug#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La historia secreta del Monopoly (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La historia secreta del Monopoly (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOVUSbnY5_sKb4l5u2ALLgo--1JjOaV1TN4qF-Yt56TuA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La huérfana: Primer asesinato (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La huérfana: Primer asesinato (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMqb6z86Ck3c0Jk1aNWjXNozewg3BftTGtWDR6uVGnDTw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Laia Sanz Quien tiene la voluntad tiene la fuerza (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Laia Sanz Quien tiene la voluntad tiene la fuerza (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPRY1Bf6zzhn2gl0K2AvfWwvQbnTCjpSzw9pxE8nSEauA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La mala semilla regresa (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La mala semilla regresa (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMZ_XagvU2MqwhUkLs7X2p_6ntuNmQB_eOGcD1QHsteuQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La maldición del hombre lobo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La maldición del hombre lobo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANroFfKQyQuGAfeW8ddb6AfVtjcZVtOBZ8vEXgjfs65Pw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Máquina infernal (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La Máquina infernal (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANbkUF7a2aZEPC7aHonZFveX6qV8Z0QJjEGtXoZEG5DzQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La niña de la comunión (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La niña de la comunión (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOM8uMHE6FyFUDlZt9bXwKZhUC2VsRuLOwnaApM1LWrkA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La novia de América (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La novia de América (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN4E5YZ6PK_DXqVQ2DpcupBXVJtZzfyRpkF_8dpUt2Xsw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La red Ponzán (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La red Ponzán (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMqOMwBHK00emmqyLe6TLmcGvCdB1T24X3E4KV6i_I_gA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las gentiles (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Las gentiles (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO6R0xooNO7qRbfq8KBhlhLYtYdTfrtExF2FQCDy82DDQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La ultima aventura (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La ultima aventura (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMudnTGs46iYjfdg9z9yE1Dx0UW5m-UHdfKDgrgmWZFrg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La voluntaria (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La voluntaria (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPLpNKeV-DKX8sCils_sb_U2G2Mlr622aIow_0HfnhiIA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La última cacería (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",La última cacería (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPWtm_wRk_kS90eE6ApB3ZhOHySneXKkmj63mCyvLCEmA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legado de sangre (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Legado de sangre (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANCuJSgy1AAfh-g6e5rpxNstnErEnn-JywLM1sqkLzj4Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legión de superhéroes (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Legión de superhéroes (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANqWtY6S1f-IsKbhEYDCW1scXhDL_jKDK9y16_UTQi6dw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lieja-Bastogne-Lieja (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Lieja-Bastogne-Lieja (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANJYIKtSZcnOdNcg2VjgomrxpfeUN9CrdLocM_RGYQnmA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Linoleum (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Linoleum (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN2Nohnd7do-BZXUAVLg26P_lLQqhzqaanoDp69wKdWJA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Llaman a la puerta (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPUCukKOUoDg278NIjS4qkHSJ9tKkQzpUK-3tNrHodOBQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo Feroz (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Lobo Feroz (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANqF9LWw1_fqfMXcwSwqqxadVLrHevXw2PM25g-NnhbLw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo vikingo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Lobo vikingo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPmA7VyiQtAkIz90LrgMjq-vZ3mAdVITIWaV5dsN7_i7w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lo que dejamos atrás (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Lo que dejamos atrás (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOUpVh_RIJZzrhJi4FMjq2lAmKGjdYA1yIJrvnZFvfbug#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los ancianos (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Los ancianos (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOGVIvWsiDpkm7WvrcSLUqp22JBLAnXdjmRCu0XcKy0wA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los crímenes de la academia (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Los crímenes de la academia (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPwHlEAm0B6LGl76cmAe4c5d1XU1cOyQVH4FREkL8so6w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los olvidados: Cicatrices (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Los olvidados: Cicatrices (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOs5WaUexWn-AYbo33G0Gku6_Rc1-KQ1S9V0Y24N8-Mlg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los reyes del mundo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Los reyes del mundo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANiFq_gJZhsuehtRSE1KQlUsW0fhdFGUwcpwatLUoBdxA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Secretos del Fútbol (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Los Secretos del Fútbol (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOFrAe2HEm89ZdIKOWLr6kKX7St-i2WnMbOHsX6HpUuKA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luther: Cae la noche (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Luther: Cae la noche (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOvCD5oCi2ej4wOmXP9MJvST5MFDNboOyQiWM_iDc1E6A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mafia de Mumbai: Policía contra el inframundo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mafia de Mumbai: Policía contra el inframundo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPRUhNv0jCEwJr9qqOb09mM90qquZJi_VDrTnIyqv-1KQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcriados (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Malcriados (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANJvaBmycSV8bBUCaH0YgwwlZVA52n1HJ6bcpMCiXqLRw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maleficio (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Maleficio (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMeVuN0umexL6Ef2kY8QDJk3-ULqJFtLWLO6Y73zJklBA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manto de gemas (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Manto de gemas (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO7VgfmtVfvMugzVViD6uH0u4YM-whQqKcclvyV1US5Zg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mas allá del universo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mas allá del universo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOFeVbpkZ_3ZY8JlbER3MM9ae-CkrKMw5ee9mxbmX1q-g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matar a la Bestia (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Matar a la Bestia (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANn3pMA4MJrjSZLR0gl-AShzSw3QDfPwF6c-gFVC4K11w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mete miedo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mete miedo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPULxV4poxT8EXV7B5fE2XmYrUCo7mX5e5qe22z_KY-Mw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MexZombies (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",MexZombies (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOuzVlN8LQSwNOV6d30i3JilVHXsLGxPJivVk8rsVuqQQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mike Oldfield. The Tubular Bells 50 aniversario. Tour Live (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mike Oldfield. The Tubular Bells 50 aniversario. Tour Live (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOBpTQo2-FwS38t4jgq_T4LtoQrnYoMNu5jPc78wStHjQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mike Oldfield. The Tubular Bells 50 aniversario. Tour Live \ (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mike Oldfield. The Tubular Bells 50 aniversario. Tour Live \ (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPCTognjPn4kI0qebXHFeVGfe1U1KXcVEjEtif43IS-pA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miley Cyrus: Endless Summer Vacation (Backyard Sessions) (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Miley Cyrus: Endless Summer Vacation (Backyard Sessions) (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMYIAcFcTDBPM6g15DF8-u1u1VrN1i_UV8Tvk9ucgyM0w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi maestra se comió a mi amigo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mi maestra se comió a mi amigo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO6OF5CZBWYkUsUwsfyEJn9ov3mLSu_mYTVuImTBiwxtQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mind Games: El Experimento (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Mind Games: El Experimento (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANe947JeOArLZoaCd8LMbfDJHDX9mBOK7LvXTjbqhYH6w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minions: El origen de Gru (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Minions: El origen de Gru (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM4vm4A869hws2Oho5SRG8mXaQk5lxQGls3RKAHSKoCLg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miss Viborg (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Miss Viborg (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMJCH1cvEMRFjHXm16GG-yoTjcvK5hU1zoejGZ93sf4Lg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modelo 77 (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Modelo 77 (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOlw41WEs25jniLh7nnzfXhPveTjKb48SwhqLhE7ZYrwg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Momias (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Momias (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMgm6e6c3eTHsACcbeNfJ47ruNUVoaHDpKZDi8WW4fpXA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muere Hart (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Muere Hart (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP3A3c1BpvScORDzNksc5HJbbgxEDXAn8oGBO7M0UXO8A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Munch (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Munch (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANM-hWTKPJWFHfG5Q_T1P3AuiDVN13oZp1hm74r4w0mDw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muy lejos de aquí (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Muy lejos de aquí (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANRKDROFiWbCDHCsJWSQGD8hhoka-0Sds5nuqfDYg22Aw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Más allá de la sospecha (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Más allá de la sospecha (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMdN3_VZP13PrrgOVs_rJANo05LikOG4YUcSq6h-gJd5w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Más respeto que soy tu madre (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Más respeto que soy tu madre (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPtqHuM7-h9P2Cbe-jbX68ktjn2Zs6aFmsTetHelyCqqA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narvik (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Narvik (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM8VeL2kcrRw0MB0V6PgEITZbHML6zIDpSeqir_WUQxKg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neige (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Neige (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOFf1DWjZypX2kHhAA-LCEHk-3Oc-RJxwkVIo8l8e0t8g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No estarás sola (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",No estarás sola (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMqH6UJ5yKy2Eyd6S0NJFtCSH9eq4PKROxFPU05rbdXrQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No hay santos (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",No hay santos (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMBzZpPq7_efXfqEuWVhRMp-RuRi7vOEEE7sDcWMGZsNg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nos conocimos en realidad virtual (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Nos conocimos en realidad virtual (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN_0LorFah4Hq3Lz1Ic08zoT2CS0-ad4gOwPXCcB-MVTA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No te preocupes querida (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",No te preocupes querida (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM5Ri9FORX9DrbohDaht3XaL5ashqTvXQmYG56uHaSBSQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Obituary - Slowly We Rot: Live & Rotting (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Obituary - Slowly We Rot: Live & Rotting (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOhdReUckQFuqMnUY7CaIR91Z8aNJFrg6kIKsm76b8liA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Objetos (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Objetos (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMP7Q5Sm_cZcaiYvrUhe04Y7SyXd7YybkWDNUT6srX2cg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Obsesiones (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Obsesiones (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMCPURk5rg7A90CzJo-lnbEmjr3zGXG3k6A5iE527kHIw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ojos de fuego (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ojos de fuego (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOE5rNZUmQyLjvjLsWZ7Lqc1rFOtPQo4ofM7xSwGbMdCA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olga (2021)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Olga (2021)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO5Sa6oamLZ1Y1hehqmBI4jK-xokGtOLu7n7aIN3NboFw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operación Bebé Oso (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Operación Bebé Oso (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN7-YTU1W4lFFdYzddcGEfca1gEbpkSo5ISdeyIIQPeGA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operación Fortune: El gran engaño (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Operación Fortune: El gran engaño (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPqio9sZXVUPR1aWDU2TUq-8HKjPzZ1pEaveqLwwvkALg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pacifiction (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Pacifiction (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMbczvE0Pqt1937-7cZTJAcqyiJVWgDU2wcHf0J43VoPg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pacto de graduación (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Pacto de graduación (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPBVr1Je13UUJmGsBUyump8IsQ-J9vqnSzzWNdlAhCZ_A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Para entrar a vivir (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Para entrar a vivir (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO9xv2pc3jRNHioXNh7VgTG3LaBYqPvsDqwdA22fmE5og#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peligrosos juegos de familia (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Peligrosos juegos de familia (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAONphKohxQkiHw4o_T4J9L-_Y3QKTYUfsXFvMnI_4TowA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Perdidos en el tiempo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Perdidos en el tiempo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP8LKSoNpuM8bhR1IOMoUfyP-0rlnKfSj62J2v4oubHlA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Perro perdido (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Perro perdido (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN15ROMkwkRO8xgtT-yeL7e_PQJ12_pI_JfSOaUXgpnxA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Peter Pan & Wendy (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMawlQqptC8-eFjNzO06yzVcA88ZGgiKLQygHt3hDQT4A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Petit mal (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Petit mal (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPYU7-yxDNrUJM29vbqWfcwS7WRTtyJxG6UB9sXfwCnOA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plan A Plan B (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Plan A Plan B (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP28R2c8_jF0xreEGPp9d931RwczmhV6ZEE6U4rMFB6ng#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polar (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Polar (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPhZPOExDRRoV6o2JRSt2iSFY4UAwyAXiXsaUDU8oXjAw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Project Gemini (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Project Gemini (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMcXF8HcPUaluvyNjDedXHQnu3fOSWr-AIni1wnUWdC8A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quasi (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Quasi (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANj-V-AD1PMp4EGW72k3KEnPFqfuM1ai0mmum_3iZqtKQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rainbow (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Rainbow (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPB_4NJCD_q4I7vLDQCVtKz0P_TSGBDrWjwxhAe2XMzHA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ray Donovan la película (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ray Donovan la película (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOAlgJbt6haRH-TfA7D-5C_P-4y726UZoQ1Oe7elRAz8Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raymond & Ray (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Raymond & Ray (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMMLhiSY6W3QTXnOxZR9Rv-G2i6be8h6aqxRM4tW3ihow#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raymond and Ray 2022" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Raymond and Ray 2022
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOt-ulyLUC308qDNrZ0qAIaPogyG5XhBASy3o8z9-3idA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reno 911: Qué bello es delinquir (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Reno 911: Qué bello es delinquir (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPnpOoo_C67cfboEPxDa_0kxQaCQ73jQ_cmAfwHUcKKcg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rosalina (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Rosalina (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANZM79dWgbJ8Rha8RlOFFsl-RuTD_eBlh6tXl5XJxouVQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruido mental (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ruido mental (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPxjlR9XrfmnwcRhbBUHsYhnvRo-0kDWfYUZLJgywU2WA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salvaje es el viento (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Salvaje es el viento (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMc2qXlYEHxKrn6SHaixePKthnAHo7J_Vur34-JgSxltw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salvajes El Cuento Del Lobo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Salvajes El Cuento Del Lobo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOZQqRfdkV-EZkFcStMtXk5AgTn1uPEtsWGjNOCZfF4dA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scream VI (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Scream VI (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOqnpoVrj2KtTc5buZ7JnUNBA2lT7Px_VnUSH-80rOZ5w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Serenity - Memoria (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Serenity - Memoria (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOCquranE5-YQ2TPCLHrAPpM4Zu4DgBDoUTNIfvzMVfRg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siete reyes deben morir (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Siete reyes deben morir (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMrg-ndQ4wxzrzPv_BmikxTkG8-eU5uTde2UE1pH-7fHg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sinjar (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Sinjar (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMKeesRboPsG0mtOFvmEJn7bQtKBtqQo4XILlgLYnPdNA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sinjar naissance des fantômes (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Sinjar naissance des fantômes (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM-SdzS08aTgluRai5Vg6k_7HwEoJXVz59g6tqu8VWROQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sin miedo a las estrellas (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Sin miedo a las estrellas (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANLIUMfAX_OkGPfPizrS0W60Dxt_sPn-7tAz0wtjvE-Cg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sin novedad en el frente (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Sin novedad en el frente (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN0PUKa1LIbpSfTy7_QTijL4oSANeEChGyL5mOS1EcT8w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soy inocente (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Soy inocente (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPuZo8BIQ1TCiZL5g6xFczk0OezTfxj6ZhVrAUW03ogrg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soy tu fan: La película (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Soy tu fan: La película (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPq9HSmHI8lOdWakFOScQ2tJgH5BQ5-6HT4eqxt81rBUg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stromboli (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Stromboli (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPvMSBT_9bXgugj4dvUFUggHMzybQX1bfDqv-QAfG0EWw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supercell (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Supercell (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM-p9IFnI37BVNaIn_wmDgPd62iaHfdnbJkWs1Q1aP8nA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supervillanos: la investigación (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Supervillanos: la investigación (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANfNQ8mIiG6VtMIongHPWj-K1rh96duteUXbfrfOSr8gw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suro (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Suro (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPupUlMzz3uCwZUJFILWFwtrbdjoPnHiPPiwF8EuKXc_g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terrifier 2 (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Terrifier 2 (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOQjU8-ZT7tVNQhdKwPV9gCMVV1qlokWw7ZAHRaUHcuiA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tetris (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Tetris (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPEz1WrrwlXWf30rVSl0WO55550csUl2AvXxg_FFEvyjA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Fearway (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",The Fearway (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANvacy8xJBMKkXlRT2-Xg_9fqEIvPUYz_byh-yee0-mhA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Togo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Togo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOk-5jKwqQysYUzYSCfVI_jLLnn2soaxYJGEyIpnNvoHg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tormenta infinita (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Tormenta infinita (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN1NNGbq5rx96oz0tJixpah7KmOczM2zdz8fEHYGJLHMg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Total Denim: la historia de los vaqueros (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Total Denim: la historia de los vaqueros (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM2iVlzuWEnUd6nh21j5rN1-cLbPmEOehmKg-YArOOrGw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu casa o la mía (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Tu casa o la mía (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPDMz9s1cBQCINzeHX9n5kt5fUNLpr7cfx8p6th0cTtvQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu mejor fan (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Tu mejor fan (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOAysW_ZfS8vvGR01XIA5fLRB5l8gYVZOQX9DlRgRBz5A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ucrania guerra desde el cielo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ucrania guerra desde el cielo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMeuhxV9b2VDChKV4-ls4kfvy9hQomHqzEEAZSwLEqFyQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una antigua conocida (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Una antigua conocida (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOepjBysrOknn-L7WjRqLYpkuHn_8WUhfK0baY34OMjVA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una boda explosiva (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Una boda explosiva (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM-UOxTcwSJWJnZ_BX8tTIzJwwsdv4Qbvhg0UbJRjDzUw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una buena película de acción (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Una buena película de acción (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP4b1KUhaEt0PXlIuM9mIJmGpmOuUvte_5URsdh2j2vUw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una chica del siglo XX (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Una chica del siglo XX (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANYc_bI-mZgkBCjKYqCWRxprPlfN_mHdcGGUT9v9Ir17g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una familia verdadera (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Una familia verdadera (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO3BworlcJR1QfsKLZdQi4XKaCI1NJI47sClG9sXjJLnA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un crimen argentino (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un crimen argentino (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMZDF8nqMLAkm4h4CVW8XBke9uVdX5idLMihHtcFmeHrQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fantasma anda suelto por casa (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un fantasma anda suelto por casa (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOXeRy_awTZim9y1wqqgFsIKCYI9XByFChOr-WWg2ENRQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fin de semana estupendo (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un fin de semana estupendo (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPX91ed9CZ0IskWu3C-vTJOTelj4ErviL0MBUJBlnK_gA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un héroe anónimo (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un héroe anónimo (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAODX8Yu70CkTJ1G--E6lLfdhCdYQY0UKGoHciyGGWTH3g#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un héroe samurai: La leyenda de Hank (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un héroe samurai: La leyenda de Hank (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPT5zwjo3HG7SJY55Jii11zw-izJqjzjn_XVBB2kZFtUQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unicorn Wars (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Unicorn Wars (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANDmzWCUIA5vMSb5qrVa8mEhbg5v1jrE8dtb84Nd2PG6Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un novio para mi mujer (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un novio para mi mujer (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN9zqfS7gQo25gED-x_d-eRxR5wBoVpDN3oCUubj5q1cw#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un paraíso peligroso (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Un paraíso peligroso (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN3g3ye9eGX6thKGI9UGzruV3oa_p7crtHfNbOWMO3IGA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utama (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Utama (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPJ_FWOE-zGhy1PRPcitmnE6g_d501O3P8fdDmPvKeXjg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V de venganza (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",V de venganza (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN_YgW-VA0myIrYQWF0Wfh6uSPnPMQtAdDp1s5QDw-H2Q#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Venus (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANfmniSBz8llo1VzMix9akwM3zFWPut7VfbxedOELKteg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaje al paraíso (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Viaje al paraíso (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAN_1KZYh8hZxQSEbbDL80r61YkwUvWjnjaOpw8ao5TR_A#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viviendo juntos (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Viviendo juntos (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOZx_T9xAPDUrMJLnG8xesXkW2Ij8bVGD-eGyjG5IUYaQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voy a pasármelo bien (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Voy a pasármelo bien (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP96QtBuCjG0nHTjhif6vlibwNqkbYPN6wocw-hpb_-Ow#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEC 6h de Portimao (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",WEC 6h de Portimao (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAM2FNAe9afgJyI2ttDV-73L9HCP0RzhE37miSbTWgrM5w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weird: The Al Yankovic Story (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Weird: The Al Yankovic Story (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOGBQuNfK9XeprI9LEcZVbOQrQfXxauomthz7PFP1AC4w#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wendell & Wild (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Wendell & Wild (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANDMhFd-EbINlBvRPns_RPML8IMUwkFenuWNE-V92wKLQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ya era hora (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Ya era hora (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOaQ_VnRxRSdRmqhXZ_vcj5nOsXzZ7wFodTbAOk6z4osg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Y esto... de quien es (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Y esto... de quien es (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAO5r898cUw2SDdzqVMykM3fI-eeIYgcVWtXUOf8t6sskQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo me encargo de la cerveza (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",Yo me encargo de la cerveza (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPM8cdd5hR91AnQkOgR1SNios4poSOol1nf4njCgR0xyQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[REC]: terror sin pausa (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",[REC]: terror sin pausa (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANIGsku-5WJmaFkcQwnE9Qv63kRKt5vPMhLp9p2sdu0EA#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Que se besen! (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",¡Que se besen! (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAOHXmWsdygAcNLnTJDhW8rTdbCvg9ZxJ3UNyxPx4A46Og#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",¡Shazam! La furia de los dioses (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAPike7mLnxqCbnMnqrLj9myk6Kh8YfjslB7M31b3vG6VQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Sálvese quien Putin! (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",¡Sálvese quien Putin! (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAMYc_O3vV5ntfMHouIkR6eg-acR0umWwHqkwOp1mRKahQ#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Truco o trato Scooby-Doo! (2022)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",¡Truco o trato Scooby-Doo! (2022)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaANe2DirIk140JphXNs9aEKeoZUUbLhl_hE4JbgjQuD0Cg#.["mp4"]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¿Encontró lo que buscaba? (2023)" tvg-logo="https://w7.pngwing.com/pngs/184/936/png-transparent-tv3-catalonia-logo-television-astra-television-text-trademark.png" group-title="Peliculas Españolas",¿Encontró lo que buscaba? (2023)
+http://1.t432x.lol:80/play/eUD6rNnFJMOWpjBk4UR0ecUleUuW9fd_70G9bbAPaAP7PJ1OsuJmI5BHmYu4gHTlBVky5VQHQJo6AWJ2WBPGRg#.["mp4"]
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #1" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #1
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV5rhjTNm5WTAOHZvotwcggI/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #2" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #2
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV6dLtKGJhx7Zl0pLXxYFRP3/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #3" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #3
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV5Fyradm1JfhiR3gYsRdu02/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #4" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #4
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV4_zGIsLz-XcA4MXloZ0FzN/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #5" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #5
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV4k3bA_aH33RIxcUEImkuSR/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #6" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #6
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV6jgjHKkbdgNr2bpwj6bDAw/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #7" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #7
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV57F1YIM04OFFZendml4z4_/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #8" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #8
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV4QqF5fgeBpavr8hzZ8K6rD/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #9" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #9
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV74cOXm-bSpnrmNFyH6tEuM/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA REPLAY #10" tvg-logo="" group-title="M+ Deportes",LA LIGA REPLAY #10
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7EciCzsI9h7Oq2rv9uoawW/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA INFORMACION" tvg-logo="" group-title="M+ Deportes",LA LIGA INFORMACION
+http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-uwTr-wrG5oP/ts
+
+
 
 
 
