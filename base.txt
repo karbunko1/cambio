@@ -86,8 +86,6 @@ acestream://194fb9ee828b112424743d600c143fe14e594f9d
 acestream://a31bca511c849b73e1fa27eb580702672e127c1a
 #EXTINF:-1 tvg-id="La Ira De Becky (2023)" tvg-name="La Ira De Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Ira De Becky (2023)
 acestream://ebe78fc05483e9964b754f73f225ba8429be299b
-#EXTINF:-1 tvg-id="La ira de Becky (2023)" tvg-name="La ira de Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La ira de Becky (2023)
-acestream://aa5f6ef653fc92bd350d4e29e8e074af964c592b
 #EXTINF:-1 tvg-id="La Maggie moore(2023)" tvg-name="La Maggie moore(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Maggie moore(2023)
 acestream://cb722d42e51eb30d244fb40e221f8e88403da4f3
 #EXTINF:-1 tvg-id="La maravillosa historia de Henry Sugar (2023)" tvg-name="La maravillosa historia de Henry Sugar (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La maravillosa historia de Henry Sugar (2023)
