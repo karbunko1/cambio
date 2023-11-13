@@ -86,6 +86,8 @@ acestream://194fb9ee828b112424743d600c143fe14e594f9d
 acestream://a31bca511c849b73e1fa27eb580702672e127c1a
 #EXTINF:-1 tvg-id="La Ira De Becky (2023)" tvg-name="La Ira De Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Ira De Becky (2023)
 acestream://ebe78fc05483e9964b754f73f225ba8429be299b
+#EXTINF:-1 tvg-id="La ira de Becky (2023)" tvg-name="La ira de Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La ira de Becky (2023)
+acestream://aa5f6ef653fc92bd350d4e29e8e074af964c592b
 #EXTINF:-1 tvg-id="La Maggie moore(2023)" tvg-name="La Maggie moore(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Maggie moore(2023)
 acestream://cb722d42e51eb30d244fb40e221f8e88403da4f3
 #EXTINF:-1 tvg-id="La maravillosa historia de Henry Sugar (2023)" tvg-name="La maravillosa historia de Henry Sugar (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La maravillosa historia de Henry Sugar (2023)
@@ -251,6 +253,473 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV74cOXm-bSpn
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7EciCzsI9h7Oq2rv9uoawW/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA INFORMACION" tvg-logo="" group-title="M+ REPLAY",LA LIGA INFORMACION
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-uwTr-wrG5oP/ts
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pophits.png" group-title="→ MUSIC CHOICE ←",MC Pop Hits
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13379
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop & Country" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pop_and_country.png" group-title="→ MUSIC CHOICE ←",MC Pop & Country
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13380
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Dance" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_dance.png" group-title="→ MUSIC CHOICE ←",MC Dance
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13381
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Y2K" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_y2k.png" group-title="→ MUSIC CHOICE ←",MC Y2K
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13382
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Hit List" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_hitlist.png" group-title="→ MUSIC CHOICE ←",MC Hit List
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13383
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Hip Hop and R&B" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_hiphop.png" group-title="→ MUSIC CHOICE ←",MC Hip Hop and R&B
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13384
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Musica Urbana" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_musicaurbana.png" group-title="→ MUSIC CHOICE ←",MC Musica Urbana
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13385
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Tropicales" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_tropicales.png" group-title="→ MUSIC CHOICE ←",MC Tropicales
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Mexicana" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_mexicana.png" group-title="→ MUSIC CHOICE ←",MC Mexicana
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13387
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rap" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rap.png" group-title="→ MUSIC CHOICE ←",MC Rap
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13388
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Trowback Jamz" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_trhowbackjamz.png" group-title="→ MUSIC CHOICE ←",MC Trowback Jamz
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop Latino" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_poplatino.png" group-title="→ MUSIC CHOICE ←",MC Pop Latino
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Teen Beats" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_teenbeats.png" group-title="→ MUSIC CHOICE ←",MC Teen Beats
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13391
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC R&B Soul" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_RandB.png" group-title="→ MUSIC CHOICE ←",MC R&B Soul
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13392
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Country Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_countryhits.png" group-title="→ MUSIC CHOICE ←",MC Country Hits
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC 90's" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_90.png" group-title="→ MUSIC CHOICE ←",MC 90's
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13394
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Toddler Tunes" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_toddlertunes.png" group-title="→ MUSIC CHOICE ←",MC Toddler Tunes
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13395
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Kidz Only" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_kidsonly.png" group-title="→ MUSIC CHOICE ←",MC Kidz Only
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13396
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rock" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rock.png" group-title="→ MUSIC CHOICE ←",MC Rock
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13397
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Alternative" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_alternative.png" group-title="→ MUSIC CHOICE ←",MC Alternative
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Metal" tvg-logo="http://209.126.82.213/LogosP/Music_choice/musicchoicemax.png" group-title="→ MUSIC CHOICE ←",MC Metal
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13399
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC 80's" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_80.png" group-title="→ MUSIC CHOICE ←",MC 80's
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13400
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Music Choice Max" tvg-logo="http://209.126.82.213/LogosP/Music_choice/musicchoicemax.png" group-title="→ MUSIC CHOICE ←",MC Music Choice Max
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Kidz Bop" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_kidzbop.png" group-title="→ MUSIC CHOICE ←",MC Kidz Bop
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13402
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Learn & Play" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_learn_and_play.png" group-title="→ MUSIC CHOICE ←",MC Learn & Play
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rap 2K" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rap2k.png" group-title="→ MUSIC CHOICE ←",MC Rap 2K
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13404
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Soft Rock" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_softrock.png" group-title="→ MUSIC CHOICE ←",MC Soft Rock
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Today´s Country" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_todaycountrys.png" group-title="→ MUSIC CHOICE ←",MC Today´s Country
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13406
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Family Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_familyhits.png" group-title="→ MUSIC CHOICE ←",MC Family Hits
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Fiesta" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Fiesta
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60481
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Flamenco" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Flamenco
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60482
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Hiphop" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Hiphop
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60483
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY House" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY House
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60484
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Jazz" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Jazz
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60485
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Latino" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Latino
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Lomassonado" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Lomassonado
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60487
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY MegaBASS" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY MegaBASS
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60488
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Metal" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Metal
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Musica8K" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Musica8K
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Nostalgia" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Nostalgia
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60491
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Novaquitarra" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Novaquitarra
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Reggaeton" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Reggaeton
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60493
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Relax" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Relax
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60494
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Resturantes" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Resturantes
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Rock" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Rock
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Romance" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Romance
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60497
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Tropicaldeephouse" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Tropicaldeephouse
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60498
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Verano" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Verano
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estrenos" tvg-logo="https://iili.io/HT63S9V.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Estrenos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion" tvg-logo="https://iili.io/HqnsDCP.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ciencia ficcion" tvg-logo="https://iili.io/HqAY3Ss.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Ciencia ficcion
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60502
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drama" tvg-logo="https://iili.io/HBfNmXe.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Drama
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedia" tvg-logo="https://iili.io/HCOp6Pa.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Comedia
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60504
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suspense" tvg-logo="https://iili.io/HCOproF.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Suspense
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Familia" tvg-logo="https://iili.io/HCOiJpa.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Familia
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terror" tvg-logo="https://iili.io/HCOpJyB.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Terror
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel Castellano" tvg-logo="https://iili.io/HBK3AW7.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Marvel Castellano
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Disney" tvg-logo="https://iili.io/HCpn1fe.png" group-title="→ NETFLIX 24/7 CASTELLANO ←",Cine Disney
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 1" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 1
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 2" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 3" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 3
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 4" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 4
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 5" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 5
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 6" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 6
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60515
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ (FIBRA)" tvg-logo="https://i.ibb.co/g6zPmcQ/MPLUS.png" group-title="→ ESPAÑA (FIBRA) ←",M+ (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61014
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD (FIBRA)" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA (FIBRA) ←",AMC BREAK FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61015
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD (FIBRA)" tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" group-title="→ ESPAÑA (FIBRA) ←",AMC FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61016
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD (FIBRA)" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA (FIBRA) ←",ANTENA 3 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61017
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD (FIBRA)" tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" group-title="→ ESPAÑA (FIBRA) ←",AXN FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61018
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES FHD (FIBRA)" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA (FIBRA) ←",AXN MOVIES FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61019
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 FHD (FIBRA)" tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA (FIBRA) ←",CALLE 13 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61020
+#EXTINF:-1 tvg-id="I99.97471.schedulesdirect.org" tvg-name="CANAL COCINA FHD (FIBRA)" tvg-logo="https://i.ibb.co/x2VVRrS/CACOC.png" group-title="→ ESPAÑA (FIBRA) ←",CANAL COCINA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61021
+#EXTINF:-1 tvg-id="I142.110045.schedulesdirect.org" tvg-name="CLAN FHD (FIBRA)" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA (FIBRA) ←",CLAN FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61022
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDIA CENTRAL FHD (FIBRA)" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA (FIBRA) ←",COMEDIA CENTRAL FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61023
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO TV FHD (FIBRA)" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA (FIBRA) ←",COSMO TV FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61024
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD (FIBRA)" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA (FIBRA) ←",CUATRO FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61025
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL FHD (FIBRA)" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA (FIBRA) ←",DISNEY CHANNEL FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61026
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="DREAMWORKS FHD (FIBRA)" tvg-logo="https://i.ibb.co/L9TqN4N/DWSP.png" group-title="→ ESPAÑA (FIBRA) ←",DREAMWORKS FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61027
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 FHD (FIBRA)" tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA (FIBRA) ←",EUROSPORT 1 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61028
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/1fvRMsJ/ESP2.png" group-title="→ ESPAÑA (FIBRA) ←",EUROSPORT 2 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61029
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD (FIBRA)" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA (FIBRA) ←",FOX FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD (FIBRA)" tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA (FIBRA) ←",HISTORIA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61031
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD FHD (FIBRA)" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA (FIBRA) ←",HOLLYWOOD FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61032
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1  FHD (FIBRA)" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA (FIBRA) ←",LA 1  FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61033
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA (FIBRA) ←",LA 2 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61034
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD (FIBRA)" tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA (FIBRA) ←",LA SEXTA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61035
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+  GOLF FHD (FIBRA)" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA (FIBRA) ←",M+  GOLF FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61036
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="M+  LALIGA HYPERMOTION TV FHD (FIBRA)" tvg-logo="https://i.ibb.co/F0TNpYy/MLIGS.png" group-title="→ ESPAÑA (FIBRA) ←",M+  LALIGA HYPERMOTION TV FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61037
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION FHD (FIBRA)" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA (FIBRA) ←",M+ ACCION FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61038
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL FHD (FIBRA)" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CINE ESPAÑOL FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61039
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS FHD (FIBRA)" tvg-logo="https://i.ibb.co/CV1PPKB/MCLAS.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CLASICOS FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61040
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD (FIBRA)" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA (FIBRA) ←",M+ COMEDIA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61041
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="M+ DAZN 4 FHD (FIBRA)" tvg-logo="https://i.ibb.co/hg7pwBs/DAZN4.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DAZN 4 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61046
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES FHD (FIBRA)" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61047
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 2 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61048
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 FHD (FIBRA)" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 3 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61049
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ DEPORTES 4 FHD (FIBRA)" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 4 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 FHD (FIBRA)" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 5 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61051
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA FHD (FIBRA)" tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DRAMA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61052
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ ELLAS# FHD (FIBRA)" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA (FIBRA) ←",M+ ELLAS# FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61053
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CINE FHD* (FIBRA)" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CINE FHD* (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LA LIGA FHD (FIBRA)" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LA LIGA FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61055
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LA LIGA 3 FHD (FIBRA)" tvg-logo="https://i.ibb.co/tCDG3Z3/MLIG2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LA LIGA 3 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61057
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2 HD" tvg-name="M+ LALIGA HYPERMOTION 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/kStYJxv/MLIGS2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LALIGA HYPERMOTION 2 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61058
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES FHD (FIBRA)" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LIGA DE CAMPEONES FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61059
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+LIGA DE CAMPEONES 3 FHD (FIBRA)" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA (FIBRA) ←",M+LIGA DE CAMPEONES 3 FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61060
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ SERIES FHD (FIBRA)" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ SERIES FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61062
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ SERIES FHD (FIBRA)" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ SERIES FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61063
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD (FIBRA)" tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA (FIBRA) ←",NAT GEO WILD FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61064
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC FHD (FIBRA)" tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" group-title="→ ESPAÑA (FIBRA) ←",NATIONAL GEOGRAPHIC FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61065
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON FHD  (FIBRA)" tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA (FIBRA) ←",NICKELODEON FHD  (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61066
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV FHD (FIBRA)" tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" group-title="→ ESPAÑA (FIBRA) ←",SUNDANCE TV FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61067
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY FHD (FIBRA)" tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA (FIBRA) ←",SYFY FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61068
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD (FIBRA)" tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA (FIBRA) ←",TCM FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61069
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD (FIBRA)" tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA (FIBRA) ←",TELECINCO FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61070
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD (FIBRA)" tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA (FIBRA) ←",TELEDEPORTE FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER FHD (FIBRA)" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA (FIBRA) ←",WARNER FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61072
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD (FIBRA)" tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="→ ESPAÑA (FIBRA) ←",XTRM FHD (FIBRA)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 1 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 1 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 2 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 2 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 3 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 3 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 4 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 4 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 5 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 5 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 6 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 6 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 7 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 7 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 8 LIGUE 2" tvg-logo="https://i.imgur.com/Vx4HjYq.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 8 LIGUE 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 9 FHD" tvg-logo="" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 9 FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 1 FHD" tvg-logo="http://xtitan.xyz:2082/images/7dbd300e89e5c41726d5d52258e6be4e.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 1 FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 2 FHD" tvg-logo="http://xtitan.xyz:2082/images/23c708aac37728cddcdd7fb5ef2a05c6.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 2 FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 3  FHD" tvg-logo="http://xtitan.xyz:2082/images/12a5f42413641657ed3a1747cbd2d753.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 3  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 4  FHD" tvg-logo="http://xtitan.xyz:2082/images/96cd761106932af10b5fe67c09e0cf7f.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 4  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 5  FHD" tvg-logo="http://xtitan.xyz:2082/images/c2c677cf601e47b010dcb1ada3a49053.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 5  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 6  FHD" tvg-logo="http://xtitan.xyz:2082/images/af5a86ae1e3c0063d99bd2008c5be1fa.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 6  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 7  FHD" tvg-logo="http://xtitan.xyz:2082/images/60edef94099e2ac87e786f2bf61e2c91.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 7  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMAZON PRIME 8  FHD" tvg-logo="http://xtitan.xyz:2082/images/e809bc86ff7a1eefcca712d461a5bce9.png" group-title="→ AMAZON PRIME LEAGUE ←",AMAZON PRIME 8  FHD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(FR) - AMAZONE PRIME 1 + (MULTIPLEX)  Full HD" tvg-logo="http://xtitan.xyz:2082/images/7dbd300e89e5c41726d5d52258e6be4e.png" group-title="→ AMAZON PRIME LEAGUE ←",(FR) - AMAZONE PRIME 1 + (MULTIPLEX)  Full HD
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 8 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 8 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61092
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 7 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 7 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 6 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 6 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 5 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 5 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 4 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 4 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 3 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 3 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 2 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 2 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: PRIME VIDEO 1 HEVC" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="→ AMAZON PRIME LEAGUE ←",FR: PRIME VIDEO 1 HEVC
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Kids | Dragon Ball (M)" tvg-logo="http://offshore.lat:8001/images/58590865b4c94aa6d302fffef4a066ad.png" group-title="→ 24/7 II ←",24H Kids | Dragon Ball (M)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Kids | BOB ESPONJA (M)" tvg-logo="http://offshore.lat:8001/images/3b78c878f553da94fe721581f55f5596.png" group-title="→ 24/7 II ←",24H Kids | BOB ESPONJA (M)
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Kids | Hey Arnold" tvg-logo="http://offshore.lat:8001/images/0ea0f58651c7adf69c0f4472dad393e9.png" group-title="→ 24/7 II ←",24H Kids | Hey Arnold
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h Kids | Don gato y su Pandilla" tvg-logo="http://offshore.lat:8001/images/299e6f4ba1be6746978a410b5d08da78.png" group-title="→ 24/7 II ←",24h Kids | Don gato y su Pandilla
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Z - Saga de Freezer" tvg-logo="http://offshore.lat:36995/images/f40d2bc36df55bb3f0483c6a4cb80357.png" group-title="→ 24/7 II ←",24H | Dragon Ball Z - Saga de Freezer
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Super" tvg-logo="http://offshore.lat:8001/images/af1f6c7e49c027dff86a046e0484060b.png" group-title="→ 24/7 II ←",24H | Dragon Ball Super
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Smallville" tvg-logo="http://offshore.lat:8001/images/bd771a80e06982493ac6d021a7cc091b.png" group-title="→ 24/7 II ←",24H | Smallville
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:8001/images/15303d2f3ddd77ea1da844e7bf3ab626.png" group-title="→ 24/7 II ←",24H | Cinema Disney Pixar
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62361
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Chapulin Colorado" tvg-logo="http://offshore.lat:8001/images/289e5a9a58e7bb35cd55443e9e51cf20.png" group-title="→ 24/7 II ←",24H | Chapulin Colorado
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | ALF" tvg-logo="http://offshore.lat:36995/images/90243be3777b51566843b14c96a1ed5f.png" group-title="→ 24/7 II ←",24H | ALF
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62363
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Naruto" tvg-logo="https://w7.pngwing.com/pngs/490/971/png-transparent-naruto-uzumaki-naruto-shipp%C5%ABden-kakashi-hatake-itachi-uchiha-naruto-hand-fictional-character-cartoon-thumbnail.png" group-title="→ 24/7 II ←",24H | Naruto
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La Pantera Rosa" tvg-logo="https://w7.pngwing.com/pngs/121/614/png-transparent-the-pink-panther-black-panther-pink-panthers-drawing-the-pink-panther-television-mammal-animals-thumbnail.png" group-title="→ 24/7 II ←",24H | La Pantera Rosa
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62365
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball GT" tvg-logo="https://w7.pngwing.com/pngs/38/645/png-transparent-dragon-ball-gt-son-goku-illustration-dragon-ball-z-dokkan-battle-dragon-ball-xenoverse-goku-gohan-son-hand-vertebrate-fictional-character-thumbnail.png" group-title="→ 24/7 II ←",24H | Dragon Ball GT
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los PicaPiedra" tvg-logo="https://w7.pngwing.com/pngs/75/194/png-transparent-the-flintstones-thumbnail.png" group-title="→ 24/7 II ←",24H | Los PicaPiedra
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62367
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mr. Bean" tvg-logo="https://w7.pngwing.com/pngs/322/519/png-transparent-rowan-atkinson-mr-bean-s-holiday-film-720p-mr-bean-animado-thumbnail.png" group-title="→ 24/7 II ←",24H | Mr. Bean
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Correcaminos" tvg-logo="https://w7.pngwing.com/pngs/659/518/png-transparent-wile-e-coyote-and-the-road-runner-looney-tunes-greater-roadrunner-bugs-miscellaneous-mammal-vertebrate-thumbnail.png" group-title="→ 24/7 II ←",24H | El Correcaminos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62369
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Chespirito" tvg-logo="http://offshore.lat:8001/images/64d53233e09ffcca0e0a60697784759c.png" group-title="→ 24/7 II ←",24H | Chespirito
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62370
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Doraemon" tvg-logo="http://offshore.lat:8001/images/9561eee31e6e6dad609b9bad93b37be5.png" group-title="→ 24/7 II ←",24H | Doraemon
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Games of Thrones" tvg-logo="https://w7.pngwing.com/pngs/656/206/png-transparent-iron-throne-from-game-of-thrones-daenerys-targaryen-game-of-thrones-iron-throne-7-replica-a-game-of-thrones-throne-miscellaneous-game-monument-thumbnail.png" group-title="→ 24/7 II ←",24H | Games of Thrones
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62372
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball" tvg-logo="http://offshore.lat:8001/images/ad121e9a7b3a265f8bce7449bc494601.png" group-title="→ 24/7 II ←",24H | Dragon Ball
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62373
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Batman" tvg-logo="http://offshore.lat:36995/images/1b6b5873e09da5b5dde162e7ff4922ab.png" group-title="→ 24/7 II ←",24H | Batman
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62374
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dragon Ball Z" tvg-logo="http://offshore.lat:36995/images/2d24ba762c297b3c81d77cf2bff92048.png" group-title="→ 24/7 II ←",24H | Dragon Ball Z
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62375
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Dinosaurios" tvg-logo="http://offshore.lat:36995/images/7c5777cb095ac03fcae15c3a4fdc13f3.png" group-title="→ 24/7 II ←",24H | Dinosaurios
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62376
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Reino Infantil" tvg-logo="http://offshore.lat:36995/images/1e54022e9137aeb9f972f25c7df64748.png" group-title="→ 24/7 II ←",24H | Reino Infantil
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62377
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Bob Esponja" tvg-logo="http://offshore.lat:36995/images/005d85f02b9454b3c5c71790427af71e.png" group-title="→ 24/7 II ←",24H | Bob Esponja
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62378
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Pokémon" tvg-logo="http://offshore.lat:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="→ 24/7 II ←",24H | Pokémon
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62379
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Plim Plim" tvg-logo="http://offshore.lat:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="→ 24/7 II ←",24H | Plim Plim
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62380
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Picapiedra" tvg-logo="http://offshore.lat:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="→ 24/7 II ←",24H | Los Picapiedra
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62381
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Coraje - El Perro Cobarde" tvg-logo="http://offshore.lat:36995/images/33f3023c477b45b9de38eb4e55125adc.png" group-title="→ 24/7 II ←",24H | Coraje - El Perro Cobarde
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62382
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Minimalitos" tvg-logo="http://offshore.lat:36995/images/5b2069782f3b6d550999353b3bd7bc26.png" group-title="→ 24/7 II ←",24H | Minimalitos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62383
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Paw Patrol" tvg-logo="http://offshore.lat:36995/images/1a494d485026a8e0275f199645ba4ec2.png" group-title="→ 24/7 II ←",24H | Paw Patrol
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62384
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Blaze y los Monster Machines" tvg-logo="http://offshore.lat:8001/images/15b5cab0e9b11de85659be679366d769.png" group-title="→ 24/7 II ←",24H | Blaze y los Monster Machines
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62385
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La casa de papel" tvg-logo="http://offshore.lat:8001/images/a7dfa80c8fcf8f47d7c7a8198ac7efb6.png" group-title="→ 24/7 II ←",24H | La casa de papel
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Harry Potter" tvg-logo="http://offshore.lat:36995/images/21f695169f37e6bed16b4359a5232dad.png" group-title="→ 24/7 II ←",24H | Harry Potter
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62387
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Rocky" tvg-logo="http://offshore.lat:8001/images/bcf04d29eb96c4bbdd091e62ff41b0f1.png" group-title="→ 24/7 II ←",24H | Rocky
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62388
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Moisés y los Diez Mandamientos" tvg-logo="http://offshore.lat:36995/images/284d810be0f787f9f27e3d57ed6c50ac.png" group-title="→ 24/7 II ←",24H | Moisés y los Diez Mandamientos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Jessica Jones" tvg-logo="http://offshore.lat:36995/images/5abc80787df1f70ca1bbe94997b23709.png" group-title="→ 24/7 II ←",24H | Jessica Jones
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h | Disney Movies" tvg-logo="http://offshore.lat:36995/images/a42a5e759bd8e7924a831dbd00746685.png" group-title="→ 24/7 II ←",24h | Disney Movies
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62391
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cinema Universe" tvg-logo="http://offshore.lat:36995/images/d98a1ab8a8cced81275e6972c39147b6.png" group-title="→ 24/7 II ←",24H | Cinema Universe
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62392
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | The Walking Dead" tvg-logo="http://offshore.lat:36995/images/11f62427024c15f0240e9e9649be9c3d.png" group-title="→ 24/7 II ←",24H | The Walking Dead
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Peliculas Infantiles" tvg-logo="http://offshore.lat:36995/images/7d7355ebf772fd472493a6fa4cf00dbf.png" group-title="→ 24/7 II ←",24H | Peliculas Infantiles
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62394
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | DRAKKE Y JOSH 2" tvg-logo="http://offshore.lat:8001/images/af9655950b2c3574e33735702475f7e4.png" group-title="→ 24/7 II ←",24H | DRAKKE Y JOSH 2
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62395
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El principe del Rap" tvg-logo="http://offshore.lat:36995/images/f09531d92c523f9daaacb869d2528e6f.png" group-title="→ 24/7 II ←",24H | El principe del Rap
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62396
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | La Familia P. Luche" tvg-logo="http://offshore.lat:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="→ 24/7 II ←",24H | La Familia P. Luche
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62397
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los 3 Chiflados" tvg-logo="http://offshore.lat:36995/images/c1dfb18fdca80cf476e30aa145ea12dc.png" group-title="→ 24/7 II ←",24H | Los 3 Chiflados
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mr Bean" tvg-logo="http://offshore.lat:8001/images/888d2951b408b8be7fba6120187ccad8.png" group-title="→ 24/7 II ←",24H | Mr Bean
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62399
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Simpson *" tvg-logo="http://offshore.lat:8001/images/851041972c97d09bc5796d523ab7ae23.jpg" group-title="→ 24/7 II ←",24H | Los Simpson *
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62400
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Luisito Minidocumental" tvg-logo="http://offshore.lat:36995/images/eba8d9fe4bd32c0d17026eeaef5fc372.jpg" group-title="→ 24/7 II ←",24H | Luisito Minidocumental
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Oxlacx Tops" tvg-logo="" group-title="→ 24/7 II ←",24H | Oxlacx Tops
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62402
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Fútbol Para Fans" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Fútbol Para Fans
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Minuto Para Ganar" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Minuto Para Ganar
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62404
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Estrellas de Acción" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Estrellas de Acción
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Babyfirst" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Babyfirst
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62406
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Archivos Forenses" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Archivos Forenses
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Barney" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Barney
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62408
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | All Elite Wrestling" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | All Elite Wrestling
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62409
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Historias de Ultratumba" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Historias de Ultratumba
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LOS SIMPSONS 1-5" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="→ 24/7 II ←",24/7 LOS SIMPSONS 1-5
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="247 LOS SIMPSONS 6-11" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="→ 24/7 II ←",247 LOS SIMPSONS 6-11
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62412
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="247 LOS SIMPSONS 12-17" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="→ 24/7 II ←",247 LOS SIMPSONS 12-17
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LOS SIMPSONS 18-21" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="→ 24/7 II ←",24/7 LOS SIMPSONS 18-21
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62414
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LOS SIMPSONS 27-30" tvg-logo="http://offshore.lat:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png" group-title="→ 24/7 II ←",24/7 LOS SIMPSONS 27-30
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Humor es los comediantes" tvg-logo="http://offshore.lat:8001/images/cbb0a1f81fc9f4ce9b26c84c057e2a46.jpg" group-title="→ 24/7 II ←",24H | Humor es los comediantes
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cero en Conducta" tvg-logo="http://offshore.lat:8001/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="→ 24/7 II ←",24H | Cero en Conducta
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62417
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Lazy Town" tvg-logo="http://offshore.lat:8001/images/9f652860dfac4d9a966ec01b5aba2653.jpeg" group-title="→ 24/7 II ←",24H | Lazy Town
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Gasparin y sus amigos" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Gasparin y sus amigos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62419
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Gravity Falls" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Gravity Falls
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Los Caballeros del Zodiaco" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Los Caballeros del Zodiaco
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Mi Bella Genio" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Mi Bella Genio
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Cinema Disney Pixar" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Cinema Disney Pixar
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Peppa Pig" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Peppa Pig
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | The Big Bang Theory" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | The Big Bang Theory
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Looney Tunes" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Looney Tunes
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Daniel el Travieso" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Daniel el Travieso
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Malcom el de en medio" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Malcom el de en medio
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | DreamWorks" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | DreamWorks
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Tik Tok Channel" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Tik Tok Channel
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Movie Center Kids" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Movie Center Kids
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Caso Cerrado" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Caso Cerrado
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Avengers" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Avengers
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Peliculas Lego" tvg-logo="http://offshore.lat:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="→ 24/7 II ←",24H | Peliculas Lego
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Asombroso Mundo de Gumball" tvg-logo="http://offshore.lat:8001/images/97dca9269956213a18dc5c41f5114c10.png" group-title="→ 24/7 II ←",24H | El Asombroso Mundo de Gumball
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El Chavo Animado" tvg-logo="http://offshore.lat:8001/images/6d55e3ef085c5c7b474381a8d217c425.jpg" group-title="→ 24/7 II ←",24H | El Chavo Animado
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Pocoyo" tvg-logo="http://offshore.lat:8001/images/f2f6acfb2dee7374c53f76ae25b94d02.jpg" group-title="→ 24/7 II ←",24H | Pocoyo
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | El chavo del 8*" tvg-logo="http://offshore.lat:25461/images/344e8e5b423f7c51b919b34ee28b5b52.png" group-title="→ 24/7 II ←",24H | El chavo del 8*
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62438
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | MasterChef" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | MasterChef
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H | Misterios Medicos" tvg-logo="http://offshore.lat:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="→ 24/7 II ←",24H | Misterios Medicos
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62440
 
 
 #EXTINF:0 tvg-id="CanalPlusToros.es" group-title="PREMIUM ESPAÑA ",TOROS TV
