@@ -258,17 +258,17 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7EciCzsI9h7
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-uwTr-wrG5oP/ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [SD]", (2023)[Bluray][SD][7.3]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [SD]", (2023)[Bluray][SD][7.3]
 acestream://24f4a503cf857813ee2595fd1bc657757051b9d3
-#EXTINF:-1 tvg-id="" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [HD]", (2023)[Bluray][HD][7.3]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [HD]", (2023)[Bluray][HD][7.3]
 acestream://1a9a7b8a10e599f78ad71114a5411da0d32b914b
-#EXTINF:-1 tvg-id="" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [SD]",10 dias de un mal hombre (2023)[Bluray][SD][6.9]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [SD]",10 dias de un mal hombre (2023)[Bluray][SD][6.9]
 acestream://97a67cd5c67156fd8939058a118f769f4c56d764
-#EXTINF:-1 tvg-id="" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [HD]",10 dias de un mal hombre (2023)[Bluray][HD][6.9]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [HD]",10 dias de un mal hombre (2023)[Bluray][HD][6.9]
 acestream://fed008c2244d5165f8b28a4152c0fcb5e8bb3f54
-#EXTINF:-1 tvg-id="" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [SD]",20.000 especies de abejas (2023)[Bluray][SD]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [SD]",20.000 especies de abejas (2023)[Bluray][SD]
 acestream://59291a2c05f3d1e6f1c3d78719afbc9f0ab67500
-#EXTINF:-1 tvg-id="" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [HD]",20.000 especies de abejas (2023)[Bluray][HD]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [HD]",20.000 especies de abejas (2023)[Bluray][HD]
 acestream://3546e0aaa175fc3ff22af9fb58ae000f040dbe18
 #EXTINF:-1 tvg-id="" tvg-name="4 estrellas 57 " tvg-logo="" group-title=" ",4 estrellas 57 
 acestream://1fce2e5487c775a86fe44b003b85cd8a39749b97
