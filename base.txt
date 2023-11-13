@@ -268,13 +268,13 @@ acestream://97a67cd5c67156fd8939058a118f769f4c56d764
 acestream://fed008c2244d5165f8b28a4152c0fcb5e8bb3f54
 #EXTINF:-1 tvg-id="" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="SAGERAO",20.000 especies de abejas (2023)[Bluray][SD]
 acestream://59291a2c05f3d1e6f1c3d78719afbc9f0ab67500
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="SAGERAO",20.000 especies de abejas (2023)[Bluray][HD]
+#EXTINF:-1 tvg-id="" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="SAGERAO",20.000 especies de abejas (2023)[Bluray][HD]
 acestream://3546e0aaa175fc3ff22af9fb58ae000f040dbe18
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 57 " tvg-logo="" group-title="SAGERAO ",4 estrellas 57 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 57 " tvg-logo="" group-title="",4 estrellas 57 
 acestream://1fce2e5487c775a86fe44b003b85cd8a39749b97
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 59 " tvg-logo="" group-title="SAGERAO ",4 estrellas 59 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 59 " tvg-logo="" group-title="",4 estrellas 59 
 acestream://af1dc6d3f6f4dbdb6d4e204e241990f72f725820
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 76 " tvg-logo="" group-title="SAGERAO ",4 estrellas 76 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 76 " tvg-logo="" group-title="",4 estrellas 76 
 acestream://6259a01c5e514e1fe64bdd5939f12441273e56b4
 #EXTINF:-1 tvg-id="" tvg-name="4 estrellas 90 " tvg-logo="https://image.tmdb.org/t/p/w185/rnFuvMp6xC447nul5fxF1cO7rpX.jpg" group-title="SAGERAO ",4 estrellas 90 [8.2]
 acestream://a0b81b670f4b1cea789447496de7322ca8964044
