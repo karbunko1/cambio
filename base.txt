@@ -258,6 +258,723 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7EciCzsI9h7
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-uwTr-wrG5oP/ts
 
 
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="PREMIUM ESPAÑA ",TOROS TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/203473
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TVE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/42717
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TVE INTERNACIONAL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/42720
+#EXTINF:0 tvg-id="LA1.es" group-title="PREMIUM ESPAÑA ",LA 1 FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278027
+#EXTINF:0 tvg-id="LA1.es" group-title="PREMIUM ESPAÑA ",LA 1 SD ?
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278028
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | LA 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31912
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31906
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CUATRO (X)
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (A)
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68748
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (B)
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68747
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TELECINCO HD (C)
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/74831
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | SEXTA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31908
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | FDF.
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NEOX
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NOVA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | A3SERIES HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR ESTRENOS FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/164981
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR SERIES 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/4911
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR COMEDIA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/33493
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR DRAMA SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/33496
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR DISNEY + FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/33494
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR ACCION HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/164028
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR #0
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/164982
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR VAMOS SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/165046
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR VAMOS SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/182436
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR CINE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/190754
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",MOVISTAR PLUS
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/454343
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | M SERIES XTRA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67541
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | SERIESMANIA HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67555
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DISNEY +
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55849
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NICKELODEON  HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55850
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | AXN WHITE HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55853
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CALLE 13
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55854
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | SYFY HD(A)
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31910
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | COSMO
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55855
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | PARAMOUNT
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55857
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NAT GEO WILD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55858
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | HISTORIA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55859
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DISCOVERY CHANNEL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55860
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MEZZO LIVE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55861
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | BE MAD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55865
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CANAL COCINA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55867
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TELEMADRID
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55869
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | EXTREMADURA TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55870
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MEGA HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DIVINITY
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55891
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | ENERGY
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | HOLLYWOOD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55896
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | FOX HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55898
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DISNEY CHANNEL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55901
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TCM HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55902
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NAT GEO HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55905
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | BOING
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55914
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NICK JR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55923
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CLAN TVE HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67522
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | BLAZE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67513
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TELEDEPORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | EL TORO TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67515
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CANAL ODISEA HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67518
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | CAZYPESCA HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67521
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DECASA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67527
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DMAX
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67530
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | EUROSPORT 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67533
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | SUNDANCE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67556
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TNT
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67562
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | AMC
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67564
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | AXN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67566
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | COMEDY CENTRAL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67571
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | NATIONAL GEOGRAPHIC
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67577
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | SYFY HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67581
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TCM HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/190776
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",24H
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/194761
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | DARK
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/196085
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="PREMIUM ESPAÑA ",TOROS TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/196452
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",MUNDOTORO TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/364416
+#EXTINF:0 tvg-id="esp" group-title="PREMIUM ESPAÑA ",EUROSPORT
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/266751
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | MOVISTAR ESTRENOS 2 FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/298112
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="PREMIUM ESPAÑA ",Canal Sur Andalucía
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/289666
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP l XTRM HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/291626
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | AMC CRIME
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/351195
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",CASTILLA LA MANCHA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="PREMIUM ESPAÑA ",CAZA Y PESCA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/379487
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="PREMIUM ESPAÑA ",DREAMWORKS
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/396233
+#EXTINF:0 tvg-id="stb" group-title="PREMIUM ESPAÑA ",MEGA FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/447168
+#EXTINF:0 tvg-id="mega" group-title="PREMIUM ESPAÑA ",MEGA SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/447169
+
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SAT | UNIVERSAL CHANNEL FHD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/292824
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SAT | CINE | CINEMAX SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/292834
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SAT | DEP | CLARO SPORTS 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/292835
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SAT | EC | TELEAMAZONAS SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/292873
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CUL | DISCOVERY WORLD FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299219
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CUL | HISTORY FHD NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299220
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CO | CARACOL FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299221
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="PREMIUM SATELITE",PANAMERICANA SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299235
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",DEP | ESPN EXTRA ARGENTINA FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299265
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",DEP | ESPN 4 FHD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299266
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",INF | CARTOON NETWORK FHD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299273
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",DEP | ESPN 4 SD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299283
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CINE | STAR CHANNEL FHD NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299303
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CUL | DISCOVERY HOME & HEALTH FHD NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299307
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CINE | TNT NORTE FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299312
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",RTS ECUADOR FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/299329
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ESPN 4- SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/311477
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Golden- SD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/311484
+#EXTINF:0 tvg-id="set" group-title="PREMIUM SATELITE",Sony sd*
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/311510
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Maschic sd*
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/311511
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",History Channel SD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440730
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO SD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440731
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery Kids SD SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440732
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Warner Channel SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440733
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",STAR CHANNEL SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440734
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO POP SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440735
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440736
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440737
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE O NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440738
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440739
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",TNT NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440740
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Sony Movies NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440741
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CARTOON NT NORTE
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440742
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR WILLAX
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440743
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Universal
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440744
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Unicanal
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440745
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Trece
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440746
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telepacifico
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440747
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telefuturo
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440748
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telefe
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440749
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Teleamazonas
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440750
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TV Peru
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440751
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR SURTV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440752
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Panamericana TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440753
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR NPY
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440754
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR I-Sat
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440755
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR HomeandHealth
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440756
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Enlace
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440757
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Ecuavisa
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440758
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Claro Cinema
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440759
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal Uno
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440760
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal RCN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440761
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal Caracol
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440762
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ATV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440763
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Zona Latina
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440764
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Win Sports+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440765
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Win Sports
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440766
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Warner Channel
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440767
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Venezolana de Televisiðn
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440768
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Venevisiðn
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440769
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Universal
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440770
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TyC Sports
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440771
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Teletrak
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440772
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telenovelas
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440773
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Teleislas
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440774
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telemundo
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440775
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TelefØ
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440776
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telecaribe
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440777
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Telecafe
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440778
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Teen Nick
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440779
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TVN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440780
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TVES
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440781
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TV+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440782
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TV PERU
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440783
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TNT
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440786
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TLT
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440787
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR TCM
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440788
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Sun Channel
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440789
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Studio Universal
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440790
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Space
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440791
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Seæal Colombia
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440792
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR STAR TVE HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440793
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR STAR CHANNEL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440794
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR STAR CHANNEL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440795
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR STAR CHANNEL
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440796
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR RPP
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440797
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR RED Televisiðn
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440798
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR REC TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440799
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR RCN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440800
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Perœ MÆgico
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440801
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Pasiones
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440802
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Paramount Channel
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440803
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Panamericana
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440804
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Nuestra Tele
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440806
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Nickelodeon
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440807
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Nick Jr
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440808
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR NTN 24 Horas
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440809
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Movistar TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440810
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Movistar Plus
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440811
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Movistar Deportes
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440812
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Meridiano
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440813
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR MTV 00s
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440814
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR MEGA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440815
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Love Nature
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440816
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Lolly Kids
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440817
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Lifetime
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440818
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Latina
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440819
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Las Estrellas
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440820
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Kanal D Drama
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440821
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ID - Investigation Discovery
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440822
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR HTV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440823
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR HGTV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440824
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR HBO2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440825
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR HBO MUNDI
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440826
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Golden Edge
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440828
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Golden
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440829
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Glitz*
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440830
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR France 24
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440831
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Fox Sports 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440832
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Film&Arts
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440833
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR FX
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440834
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR FANB
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440835
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Europa Europa
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440836
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Enlace
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440837
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR El Trece
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440838
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR El Gourmet
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440839
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ETC TV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440840
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ET Canal El Tiempo
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440841
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ESPN2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440842
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR |ESPN| 4 |AR|
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440843
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR |ESPN| 4
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440844
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ESPN 3
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440845
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR |ESPN |CO|
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440846
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR |ESPN| |AR|
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440847
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Disney Junior
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440848
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Disney Channel
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440849
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Discovery Turbo
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440850
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Discovery Science
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440851
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Discovery H&H
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440852
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Discovery Channel
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440853
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR De PelŦcula
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440854
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Cristovisiðn
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440855
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Conciencia
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440856
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Comedy Central
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440857
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Cinemax
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440858
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Cinecanal
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440859
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Cartoonito
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440860
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal N
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440861
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal 13
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440862
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal 1
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440863
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Canal  Capital
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440864
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR CableNoticias
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440865
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR CHV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440866
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR CD0 Premium
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440867
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR CDO BÆsico
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440868
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR Animal Planet
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440869
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR América Televisión
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440870
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR AXN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440871
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ATV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440872
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR ANTV
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440873
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR AMC
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440874
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR 24 Horas TVN
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440875
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",SD SUR 13 C
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440876
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Canal 10 - ESA
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440888
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Win Sports+ SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440898
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Win Sports SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440899
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",UNIVERSAL CHANNEL SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440900
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",TyC Sports SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440901
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",TNT Series SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440902
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",TNT SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440903
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Sun Channel SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440904
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Studio Universal SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440905
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Space SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440906
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Sony SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440907
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",RCN SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440908
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Nat Geo SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440910
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Movistar Deportes SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440911
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",MEGA SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440912
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Latina SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440913
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Las Estrellas SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440914
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",La Red SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440915
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Kanal D Drama SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440916
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ID SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440917
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",History Channel SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440918
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",History 2 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440919
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO XTREME SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440920
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO Family SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440921
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",HBO 2 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440922
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Golden SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440923
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",GolTV SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440924
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",GOLPERU SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440925
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Fox Sports 3 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440926
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Fox Sports 1 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440927
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",E! SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440928
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",FX SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440929
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",FOX Sports 2 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440930
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",El Gourmet SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440932
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ESPN SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440933
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ESPN EXTRA SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440934
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ESPN 2 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440937
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",ESPN 2  SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440938
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",TNT SPORT SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440939
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Disney SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440940
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery World SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440941
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery Theater SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440942
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery Kids SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440943
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Discovery H&H SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440944
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",DHE SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440945
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Cinemax SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440946
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Cinecanal SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440947
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Cartoon Network SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440948
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Caracol SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440949
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Canal 13 SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440950
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",CHV SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440951
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",Animal Planet SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440952
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",America TV SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440953
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",AXN SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440954
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",A&E SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440955
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",AMC SUR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440956
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Discovery kids.
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440957
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Golden premiere 2
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440958
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Golden premiere
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440959
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Canal 4
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440960
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Canal 7 CR
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440961
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE TD +
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440962
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE TD + 2.
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440963
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Golf Channel 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440964
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Discovery Channel 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440965
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE WARNER 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440966
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Univision 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440967
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE UNIVERSAL REALITY 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440968
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE UNIVERSAL CRIME HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440969
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE UNIVERSAL COMEDY 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440970
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE UNIVERSAL CINEMA ESTE HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440971
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Tigo Sports 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440972
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Telemundo 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440973
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE TNT Series 4K
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440974
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Studio Universal 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440975
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE SPACE 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440976
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE SONY 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440977
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Pasiones 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440978
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Paramount 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440979
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Nat Geo 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440980
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Home & Health 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440981
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE HOLA! TV 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440982
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE HBO2 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440983
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE HBO Plus 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440984
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE HBO 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440985
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE HBO Family HD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440986
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Film & arts 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440987
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE FX 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440988
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",FUTV 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440989
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE FOX SPORTS 3 4K
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440990
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE ESPN 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440991
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE ESPN 4  4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440992
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE ESPN 3 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440993
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE E! Entertairment 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440995
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Discovery World 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440996
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Discovery ID 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440997
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE DISC THEATHER 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440998
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE DHE 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/440999
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Comedy Central 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441000
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Claro Sports 2 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441001
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Claro Sports 1 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441002
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Canal Claro 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441003
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE CINECANAL 4K+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441004
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE Animal Planet 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441005
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE AZ click 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441006
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE AXN 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441007
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE AMC 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441008
+#EXTINF:0 tvg-id="ext" group-title="PREMIUM SATELITE",NORTE A&E 4k+
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/441009
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 1" tvg-logo="http://1.t432x.lol:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="M+ FEF TV",FEF TV 1
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7T1gsbvVa4g0zuxLgsWjUD/ts
