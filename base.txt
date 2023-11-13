@@ -257,54 +257,54 @@ http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV7EciCzsI9h7
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA INFORMACION" tvg-logo="" group-title="M+ REPLAY",LA LIGA INFORMACION
 http://1.t432x.lol:80/play/Gyi0ufyiWcyvpfbu2rXOahh1kZ8ZUo-rKn11TSbzLV54gaNLr8ts-uwTr-wrG5oP/ts
 
-
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [SD]", (2023)[Bluray][SD][7.3]
+#EXTINF:-1 tvg-id="" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="SAGERAO",(2023)
+#EXTINF:-1 tvg-id="" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="SAGERAO", (2023)
 acestream://24f4a503cf857813ee2595fd1bc657757051b9d3
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="2023 [HD]", (2023)[Bluray][HD][7.3]
+#EXTINF:-1 tvg-id="" tvg-name=" (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/8LPC4o4JxiYf0gbfD0r47lvNlV1.jpg" group-title="SAGERAO", (2023)
 acestream://1a9a7b8a10e599f78ad71114a5411da0d32b914b
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [SD]",10 dias de un mal hombre (2023)[Bluray][SD][6.9]
+#EXTINF:-1 tvg-id="" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="SAGERAO",10 dias de un mal hombre (2023)[Bluray][SD][6.9]
 acestream://97a67cd5c67156fd8939058a118f769f4c56d764
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="2023 [HD]",10 dias de un mal hombre (2023)[Bluray][HD][6.9]
+#EXTINF:-1 tvg-id="" tvg-name="10 dias de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="SAGERAO",10 dias de un mal hombre (2023)
 acestream://fed008c2244d5165f8b28a4152c0fcb5e8bb3f54
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [SD]",20.000 especies de abejas (2023)[Bluray][SD]
+#EXTINF:-1 tvg-id="" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="SAGERAO",20.000 especies de abejas (2023)[Bluray][SD]
 acestream://59291a2c05f3d1e6f1c3d78719afbc9f0ab67500
-#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="2023 [HD]",20.000 especies de abejas (2023)[Bluray][HD]
+#EXTINF:-1 tvg-id="SAGERAO" tvg-name="20.000 especies de abejas (2023)" tvg-logo="" group-title="SAGERAO",20.000 especies de abejas (2023)[Bluray][HD]
 acestream://3546e0aaa175fc3ff22af9fb58ae000f040dbe18
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 57 " tvg-logo="" group-title=" ",4 estrellas 57 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 57 " tvg-logo="" group-title="SAGERAO ",4 estrellas 57 
 acestream://1fce2e5487c775a86fe44b003b85cd8a39749b97
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 59 " tvg-logo="" group-title=" ",4 estrellas 59 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 59 " tvg-logo="" group-title="SAGERAO ",4 estrellas 59 
 acestream://af1dc6d3f6f4dbdb6d4e204e241990f72f725820
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 76 " tvg-logo="" group-title=" ",4 estrellas 76 
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 76 " tvg-logo="" group-title="SAGERAO ",4 estrellas 76 
 acestream://6259a01c5e514e1fe64bdd5939f12441273e56b4
-#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 90 " tvg-logo="https://image.tmdb.org/t/p/w185/rnFuvMp6xC447nul5fxF1cO7rpX.jpg" group-title=" ",4 estrellas 90 [8.2]
+#EXTINF:-1 tvg-id="" tvg-name="4 estrellas 90 " tvg-logo="https://image.tmdb.org/t/p/w185/rnFuvMp6xC447nul5fxF1cO7rpX.jpg" group-title="SAGERAO ",4 estrellas 90 [8.2]
 acestream://a0b81b670f4b1cea789447496de7322ca8964044
-#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="2023 [FHD]",97 minutos (2023)[Bluray][FHD][8.8]
+#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="SAGERAO",97 minutos (2023)[Bluray][FHD][8.8]
 acestream://272c7a43320804a730c4d1398e97967aba5527c5
-#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="2023 [SD]",97 minutos (2023)[Bluray][SD][8.8]
+#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="SAGERAO",97 minutos (2023)[Bluray][SD][8.8]
 acestream://350af0a766aba1e68ba96f2c2e4b358e96445d34
-#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="2023 [HD]",97 minutos (2023)[Bluray][HD][8.8]
+#EXTINF:-1 tvg-id="" tvg-name="97 minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="SAGERAO",97 minutos (2023)[Bluray][HD][8.8]
 acestream://8953cdd8a0f5621a3bc972c78259f65b30a5decc
-#EXTINF:-1 tvg-id="" tvg-name="A Dios pongo por testigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="2023 [SD]",A Dios pongo por testigo (2023)[Bluray][SD][8.8]
+#EXTINF:-1 tvg-id="" tvg-name="A Dios pongo por testigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="SAGERAO",A Dios pongo por testigo (2023)[Bluray][SD][8.8]
 acestream://4fb6df9b5b23edf22d2d9c62561559a4bc055b00
-#EXTINF:-1 tvg-id="" tvg-name="A Dios pongo por testigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="2023 [HD]",A Dios pongo por testigo (2023)[Bluray][HD][8.8]
+#EXTINF:-1 tvg-id="" tvg-name="A Dios pongo por testigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg" group-title="SAGERAO",A Dios pongo por testigo (2023)[Bluray][HD][8.8]
 acestream://eb7b116f378c41ce601b186db0031d83d7793d9f
-#EXTINF:-1 tvg-id="" tvg-name="A traves del mar (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="2023 [4K]",A traves del mar (2023)[4K][8.0]
+#EXTINF:-1 tvg-id="" tvg-name="A traves del mar (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="SAGERAO",A traves del mar (2023)[4K][8.0]
 acestream://1fd09802b7b6d1af14ee1142a8ae69e8a2bfa01d
-#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="2023 [4K]",A un millon de millas (2023)[4K][8.0]
+#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="SAGERAO",A un millon de millas (2023)[4K][8.0]
 acestream://116c0a33f6fdf9c49ea606681afc91e88e7a8c0d
-#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="2023 [SD]",A un millon de millas (2023)[Bluray][SD][8.0]
+#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="SAGERAO",A un millon de millas (2023)[Bluray][SD][8.0]
 acestream://23b9ece584f01c4a2053ca788293006bc3591cfb
-#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="2023 [FHD]",A un millon de millas (2023)[HDTV][FHD][8.0]
+#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="SAGERAO",A un millon de millas (2023)[HDTV][FHD][8.0]
 acestream://c256e29250916a272ea0cb2b035ef42e7f53ee07
-#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="2023 [HD]",A un millon de millas (2023)[HDTV][HD][8.0]
+#EXTINF:-1 tvg-id="" tvg-name="A un millon de millas (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg" group-title="SAGERAO",A un millon de millas (2023)[HDTV][HD][8.0]
 acestream://38d98dee9eb45636452e23af02b15de00f2959bc
-#EXTINF:-1 tvg-id="" tvg-name="Abrazame fuerte (2021)" tvg-logo="" group-title="2021 [SD]",Abrazame fuerte (2021)[Bluray][SD]
+#EXTINF:-1 tvg-id="" tvg-name="Abrazame fuerte (2021)" tvg-logo="" group-title="SAGERAO",Abrazame fuerte (2021)[Bluray][SD]
 acestream://9d99660cd08e4f13bc9ed3473c94260faab09cf5
-#EXTINF:-1 tvg-id="" tvg-name="Abrazame fuerte (2021)" tvg-logo="" group-title="2021 [HD]",Abrazame fuerte (2021)[Bluray][HD]
+#EXTINF:-1 tvg-id="" tvg-name="Abrazame fuerte (2021)" tvg-logo="" group-title="SAGERAO",Abrazame fuerte (2021)[Bluray][HD]
 acestream://0c1db01640ed027b6c74974926ba45a2981fe5de
-#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="2023 [4K]",Agente Stone (2023)[4K][0.0]
+#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="SAGERAO",Agente Stone (2023)[4K][0.0]
 acestream://9a05582af8af7e14352f7340f2d1c3adddd7e886
-#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="2023 [FHD]",Agente Stone (2023)[Bluray][FHD][0.0]
+#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="SAGERAO",Agente Stone (2023)[Bluray][FHD][0.0]
 acestream://f7b4815227b58258cc2ac7d744fe4d40dfc41563
 #EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w185/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" group-title="2023 [SD]",Agente Stone (2023)[Bluray][SD][6.0]
 acestream://0f329ce1c32962046abaab3ccbffd5447c93db7d
