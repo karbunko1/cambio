@@ -722,6 +722,423 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62439
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62440
 
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 1 FHD" tvg-logo="https://www.linkpicture.com/q/e_29.png" group-title="DAZN FEMENINO",Finetwork Dazn 1 FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/10282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 2 FHD" tvg-logo="https://www.linkpicture.com/q/e-copia.png" group-title="DAZN FEMENINO",Finetwork Dazn 2 FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/10283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 3 FHD" tvg-logo="https://www.linkpicture.com/q/e-1-W.png" group-title="DAZN FEMENINO",Finetwork Dazn 3 FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/10284
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 4 FHD" tvg-logo="https://www.linkpicture.com/q/eE.png" group-title="DAZN FEMENINO",Finetwork Dazn 4 FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/10285
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 5 FHD" tvg-logo="https://www.linkpicture.com/q/eEES.png" group-title="DAZN FEMENINO",Finetwork Dazn 5 FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/10286
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Series" tvg-logo="https://iili.io/HX40H2s.png" group-title="HBO 24/7",HBO Series
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4243
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO peliculas" tvg-logo="https://iili.io/HX40H2s.png" group-title="HBO 24/7",HBO peliculas
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4276
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7: DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="INFANTILES 24/7",24/7: DRAGON BALL
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/8707
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7: DRAGON BALL GT" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="INFANTILES 24/7",24/7: DRAGON BALL GT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/8709
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7: DRAGON BALL HEROES" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="INFANTILES 24/7",24/7: DRAGON BALL HEROES
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/8710
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADA MAGNIFICA" tvg-logo="" group-title="INFANTILES 24/7",ADA MAGNIFICA
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4308
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alvin y las Ardillas" tvg-logo="https://iili.io/HN5yUS1.jpg" group-title="INFANTILES 24/7",Alvin y las Ardillas
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Esponja" tvg-logo="https://iili.io/HXECRx1.png" group-title="INFANTILES 24/7",Bob Esponja
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calle Dalmatas 101" tvg-logo="https://iili.io/HN7FqUQ.jpg" group-title="INFANTILES 24/7",Calle Dalmatas 101
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4265
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Charlie en Villa" tvg-logo="" group-title="INFANTILES 24/7",Charlie en Villa
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cocomelon ES" tvg-logo="https://iili.io/HWYgR2I.jpg" group-title="INFANTILES 24/7",Cocomelon ES
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4253
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRAGONES CARRERA" tvg-logo="" group-title="INFANTILES 24/7",DRAGONES CARRERA
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gudetama DelCascaronAL Aventura" tvg-logo="https://iili.io/HN7f3cx.jpg" group-title="INFANTILES 24/7",Gudetama DelCascaronAL Aventura
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Banda Del Pat" tvg-logo="" group-title="INFANTILES 24/7",La Banda Del Pat
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Micky Mouse 1" tvg-logo="https://iili.io/HWYgLZJ.jpg" group-title="INFANTILES 24/7",La Casa De Micky Mouse 1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4250
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Micky Mouse 2" tvg-logo="https://iili.io/HWYgLZJ.jpg" group-title="INFANTILES 24/7",La Casa De Micky Mouse 2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Micky Mouse 3" tvg-logo="https://iili.io/HWYgLZJ.jpg" group-title="INFANTILES 24/7",La Casa De Micky Mouse 3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4252
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Muñecas De Gabby" tvg-logo="https://iili.io/HXEnKep.jpg" group-title="INFANTILES 24/7",La Casa De Muñecas De Gabby
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Patrulla Canina" tvg-logo="https://iili.io/HWYre9t.jpg" group-title="INFANTILES 24/7",La Patrulla Canina
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4256
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="la sirenita" tvg-logo="https://iili.io/HN7IYn2.webp" group-title="INFANTILES 24/7",la sirenita
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO Ninjago Maestros del Spinjitzu" tvg-logo="https://iili.io/HN78jxs.webp" group-title="INFANTILES 24/7",LEGO Ninjago Maestros del Spinjitzu
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Little Einsteins" tvg-logo="https://iili.io/H84XVwb.jpg" group-title="INFANTILES 24/7",Little Einsteins
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes ES" tvg-logo="https://iili.io/HWY4lf4.jpg" group-title="INFANTILES 24/7",Looney Tunes ES
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="los osos Gummie" tvg-logo="https://iili.io/HN76We2.jpg" group-title="INFANTILES 24/7",los osos Gummie
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Vengadores unidos" tvg-logo="https://iili.io/HN7sPXS.jpg" group-title="INFANTILES 24/7",Los Vengadores unidos
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4270
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha y eloso" tvg-logo="https://iili.io/HXEIOAv.jpg" group-title="INFANTILES 24/7",Masha y eloso
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miraculous" tvg-logo="https://iili.io/HWYi4I9.jpg" group-title="INFANTILES 24/7",Miraculous
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oggy Oggy" tvg-logo="" group-title="INFANTILES 24/7",Oggy Oggy
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patatín y Patatón" tvg-logo="https://iili.io/H84jNv1.jpg" group-title="INFANTILES 24/7",Patatín y Patatón
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4388
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patoaventuras" tvg-logo="" group-title="INFANTILES 24/7",Patoaventuras
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Patrulla De Cachorros" tvg-logo="https://iili.io/HWYs9hF.jpg" group-title="INFANTILES 24/7",Patrulla De Cachorros
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig ES" tvg-logo="https://iili.io/HVCvuJ2.png" group-title="INFANTILES 24/7",Peppa Pig ES
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4255
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POCOYO" tvg-logo="https://w7.pngwing.com/pngs/515/457/png-transparent-pocoyo-movie-poster-pocoyo-playset-learning-games-animation-child-television-show-pocoyo-cartoon-material-desktop-wallpaper-thumbnail.png" group-title="INFANTILES 24/7",POCOYO
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4254
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon ES" tvg-logo="https://iili.io/HN7mrFI.jpg" group-title="INFANTILES 24/7",Pokemon ES
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pregunta StoryBo" tvg-logo="" group-title="INFANTILES 24/7",Pregunta StoryBo
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rapidos y furios" tvg-logo="" group-title="INFANTILES 24/7",Rapidos y furios
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sam ElBombero" tvg-logo="" group-title="INFANTILES 24/7",Sam ElBombero
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby Doo" tvg-logo="https://iili.io/HWYPpiG.jpg" group-title="INFANTILES 24/7",Scooby Doo
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Talking Tom and friends spanish" tvg-logo="https://iili.io/HNYTJEB.jpg" group-title="INFANTILES 24/7",Talking Tom and friends spanish
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tibucan" tvg-logo="" group-title="INFANTILES 24/7",Tibucan
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry 1" tvg-logo="https://iili.io/HMb96nj.jpg" group-title="INFANTILES 24/7",Tom & Jerry 1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry 2" tvg-logo="https://iili.io/HMb96nj.jpg" group-title="INFANTILES 24/7",Tom & Jerry 2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4246
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry 3" tvg-logo="https://iili.io/HMb96nj.jpg" group-title="INFANTILES 24/7",Tom & Jerry 3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4247
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry 4" tvg-logo="https://iili.io/HMb96nj.jpg" group-title="INFANTILES 24/7",Tom & Jerry 4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry 5" tvg-logo="https://iili.io/HMb96nj.jpg" group-title="INFANTILES 24/7",Tom & Jerry 5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4249
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultimate Spider Man" tvg-logo="https://iili.io/HNY5pf4.jpg" group-title="INFANTILES 24/7",Ultimate Spider Man
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4273
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="vamos aprender" tvg-logo="https://iili.io/HNYlzGa.png" group-title="INFANTILES 24/7",vamos aprender
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viva el Rey Julien" tvg-logo="https://iili.io/H84hp71.jpg" group-title="INFANTILES 24/7",Viva el Rey Julien
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4387
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo-Kai Watch" tvg-logo="https://iili.io/HNY1d5Q.jpg" group-title="INFANTILES 24/7",Yo-Kai Watch
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #1" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29736
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #2" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29737
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #3" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29738
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #4" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29739
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #5" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #6" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #6
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29741
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #7" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #7
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29742
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #8" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #8
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29743
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #9" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #9
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29744
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #10" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #10
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29745
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #11" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #11
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29746
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #12" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #12
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29747
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #13" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #13
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29748
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #14" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #14
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29749
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #15" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #15
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29750
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHAMPION REPLAY #16" tvg-logo="https://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #16
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/29751
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : MOTO ADV FHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/motoadv.png" group-title="MOTOS GP",ES : MOTO ADV FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/8662
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto GP" tvg-logo="https://iili.io/HJAEOMu.png" group-title="MOTOS GP",Moto GP
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto GP Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto GP Carrera
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/417
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto GP Clasificacion" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto GP Clasificacion
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto GP Tests." tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto GP Tests.
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto2 y 3 Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto2 y 3 Carrera
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto2 y 3 Clasificación" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto2 y 3 Clasificación
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto2 y 3 Tests" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="MOTOS GP",Moto2 y 3 Tests
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/419
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Atmos (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: Atmos (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/764
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Gran Premio| not Comentery" tvg-logo="" group-title="MOTOS GP",MotoGP: Gran Premio| not Comentery
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9464
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Gran Premio| With Comentery" tvg-logo="" group-title="MOTOS GP",MotoGP: Gran Premio| With Comentery
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/761
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Helicopter (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: Helicopter (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/763
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Live Timing (Main Race Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: Live Timing (Main Race Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/762
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: Live Tracking (Main Race Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: Live Tracking (Main Race Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/765
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: On Board Camera 1 (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: On Board Camera 1 (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/766
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: On Board Camera 2 (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: On Board Camera 2 (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/767
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: On Board Camera 3 (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: On Board Camera 3 (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/768
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP: On Board Camera 4 (Events Only)" tvg-logo="" group-title="MOTOS GP",MotoGP: On Board Camera 4 (Events Only)
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/769
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY MOTO GP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="MOTOS GP",SKY MOTO GP
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superbikes Carrera" tvg-logo="https://iili.io/HviorQt.png" group-title="MOTOS GP",Superbikes Carrera
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superbikes Clasificación" tvg-logo="https://iili.io/HviorQt.png" group-title="MOTOS GP",Superbikes Clasificación
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superbikes Tests" tvg-logo="https://iili.io/HviorQt.png" group-title="MOTOS GP",Superbikes Tests
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC DRAMA [Español]" tvg-logo="https://logodix.com/logo/2090887.png" group-title="RAKUTEN",BBC DRAMA [Español]
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4438
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iHola Play" tvg-logo="" group-title="RAKUTEN",iHola Play
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN ACCION" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",RAKUTEN ACCION
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN CINE DRAMA HD" tvg-logo="" group-title="RAKUTEN",RAKUTEN CINE DRAMA HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN CINE Ñ" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",RAKUTEN CINE Ñ
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN COMEDIA HD" tvg-logo="" group-title="RAKUTEN",RAKUTEN COMEDIA HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN MOVIES CENTRAL FHD" tvg-logo="" group-title="RAKUTEN",RAKUTEN MOVIES CENTRAL FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN PELIS TOP HD" tvg-logo="" group-title="RAKUTEN",RAKUTEN PELIS TOP HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN ROMANTICO HD" tvg-logo="" group-title="RAKUTEN",RAKUTEN ROMANTICO HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TOP PELIS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",RAKUTEN TOP PELIS
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME CINE" tvg-logo="" group-title="RAKUTEN",RUN TIME CINE
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME CLASICCOS HD" tvg-logo="" group-title="RAKUTEN",RUN TIME CLASICCOS HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME COMEDIA HD" tvg-logo="" group-title="RAKUTEN",RUN TIME COMEDIA HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME COMEDIAS HD" tvg-logo="" group-title="RAKUTEN",RUN TIME COMEDIAS HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME ROMANCE HD" tvg-logo="" group-title="RAKUTEN",RUN TIME ROMANCE HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/445
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME THRILLER HD" tvg-logo="" group-title="RAKUTEN",RUN TIME THRILLER HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/443
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUN TIME TRASH HD" tvg-logo="" group-title="RAKUTEN",RUN TIME TRASH HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/441
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TASTEMADE HD" tvg-logo="" group-title="RAKUTEN",TASTEMADE HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP GEAR HD [ESPAÑOL]" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Top-Gear-Logo.png" group-title="RAKUTEN",TOP GEAR HD [ESPAÑOL]
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/4437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA INFORMACION" tvg-logo="" group-title="REPLAY LA LIGA",REPLAY LA LIGA INFORMACION
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 1" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9405
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 2" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9406
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 3" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 4" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9408
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 5" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9409
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 6" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 6
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 7" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 7
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 8" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 8
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9412
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 9" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 9
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPLAY LA LIGA 10" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="REPLAY LA LIGA",REPLAY LA LIGA 10
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/9414
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destino final" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Destino final
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El padrino" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",El padrino
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13252
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Señor de los Anillos" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",El Señor de los Anillos
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13253
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X - Men" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",X - Men
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13254
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fast & Furious" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Fast & Furious
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13255
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Wars" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Star Wars
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13256
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Piratas Del Caribe" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Piratas Del Caribe
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harry Potter" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Harry Potter
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Resident Evil" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="SAGAS PELICULAS 24/7 ESP",Resident Evil
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Transformer" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Transformer
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arma Letal" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="SAGAS PELICULAS 24/7 ESP",Arma Letal
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mision Imposible" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Mision Imposible
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Juegos del H" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Los Juegos del H
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matrix" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Matrix
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="spider man" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",spider man
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13265
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saw" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",Saw
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="scream" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",scream
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="007Jamesbond1" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",007Jamesbond1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="007Jamesbond2" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",007Jamesbond2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="007Jamesbond" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",007Jamesbond
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13270
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="007Jamesbond4" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",007Jamesbond4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="007Jamesbond5" tvg-logo="" group-title="SAGAS PELICULAS 24/7 ESP",007Jamesbond5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDOTORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO SD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",MUNDOTORO HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDOTORO FHD" tvg-logo="" group-title="TOROS ESP",MUNDOTORO FHD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/348
+#EXTINF:-1 tvg-id="Torole TV" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/349
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/6551
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/6552
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/12113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay info" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay info
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 1" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 2" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 3" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 4" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 5" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 6" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 6
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 7" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 7
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 8" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 8
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 9" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 9
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 10" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 10
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 11" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 11
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 12" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 12
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 13" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 13
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 14" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 14
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 15" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 15
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 16" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 16
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 17" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 17
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 18" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 18
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 19" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 19
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 20" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 20
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 21" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 21
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 22" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 22
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 23" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 23
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 24" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 24
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 25" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 25
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 26" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 26
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 27" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 27
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 28" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 28
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 29" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 29
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Replay 30" tvg-logo="http://m.reddxc.com/de/srf1.png" group-title="REPLAY NBA",NBA Replay 30
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13144
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE INFO" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE INFO
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #1" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #1
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #2" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #2
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13148
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #3" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #3
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13149
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #4" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #4
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13150
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #5" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #5
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #6" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #6
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13152
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #7" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #7
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #8" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #8
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #9" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #9
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #10" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #10
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIER LEAGUE REPLAY #10" tvg-logo="" group-title="REPLAY PREMIER LEAGUE",PREMIER LEAGUE REPLAY #10
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/13157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 01 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 01 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23786
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 02 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 02 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23787
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 03 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 03 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23788
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 04 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 04 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23789
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 05 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 05 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23790
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 06 SAT" tvg-logo="https://logos.xbots.com.mx/europaleague.png" group-title="UEFA Europa League",UEFA Europa League 06 SAT
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23791
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 00" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 00
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23792
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 01" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 01
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23793
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 02" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 02
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23794
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 03" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 03
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23795
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 04" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 04
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23796
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 05" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 05
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23797
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Conference League 06" tvg-logo="http://live.detodotvplay.com:8080/images/86954b11c17a95dda98bfa67bac98273.png" group-title="UEFA Conference League",UEFA Conference League 06
+http://apk.pinals.xyz:8080/Leafar/fQE5BM66Hc/23798
+
+
 #EXTINF:0 tvg-id="CanalPlusToros.es" group-title="PREMIUM ESPAÑA ",TOROS TV
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/203473
 #EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TVE
