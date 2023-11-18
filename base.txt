@@ -384,6 +384,11 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60513
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60514
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion 6" tvg-logo="" group-title="→ NETFLIX 24/7 CASTELLANO ←",Accion 6
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60515
+
+
+
+
+
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ (FIBRA)" tvg-logo="https://i.ibb.co/g6zPmcQ/MPLUS.png" group-title="→ ESPAÑA (FIBRA) ←",M+ (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61014
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD (FIBRA)" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA (FIBRA) ←",AMC BREAK FHD (FIBRA)
@@ -402,8 +407,10 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61020
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61021
 #EXTINF:-1 tvg-id="I142.110045.schedulesdirect.org" tvg-name="CLAN FHD (FIBRA)" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA (FIBRA) ←",CLAN FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61022
+
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDIA CENTRAL FHD (FIBRA)" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA (FIBRA) ←",COMEDIA CENTRAL FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61023
+
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO TV FHD (FIBRA)" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA (FIBRA) ←",COSMO TV FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61024
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD (FIBRA)" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA (FIBRA) ←",CUATRO FHD (FIBRA)
@@ -416,8 +423,10 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61027
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61028
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/1fvRMsJ/ESP2.png" group-title="→ ESPAÑA (FIBRA) ←",EUROSPORT 2 FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61029
+
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD (FIBRA)" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA (FIBRA) ←",FOX FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
+
 #EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD (FIBRA)" tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA (FIBRA) ←",HISTORIA FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61031
 #EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD FHD (FIBRA)" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA (FIBRA) ←",HOLLYWOOD FHD (FIBRA)
@@ -434,14 +443,17 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61036
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61037
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION FHD (FIBRA)" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA (FIBRA) ←",M+ ACCION FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61038
+
 #EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL FHD (FIBRA)" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CINE ESPAÑOL FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61039
+
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS FHD (FIBRA)" tvg-logo="https://i.ibb.co/CV1PPKB/MCLAS.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CLASICOS FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61040
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD (FIBRA)" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA (FIBRA) ←",M+ COMEDIA FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61041
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="M+ DAZN 4 FHD (FIBRA)" tvg-logo="https://i.ibb.co/hg7pwBs/DAZN4.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DAZN 4 FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61046
+
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES FHD (FIBRA)" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61047
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 FHD (FIBRA)" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 2 FHD (FIBRA)
@@ -452,12 +464,15 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61049
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 FHD (FIBRA)" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DEPORTES 5 FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61051
+
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA FHD (FIBRA)" tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA (FIBRA) ←",M+ DRAMA FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61052
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ ELLAS# FHD (FIBRA)" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA (FIBRA) ←",M+ ELLAS# FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61053
+
 #EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CINE FHD* (FIBRA)" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA (FIBRA) ←",M+ CINE FHD* (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LA LIGA FHD (FIBRA)" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LA LIGA FHD (FIBRA)
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61055
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LA LIGA 3 FHD (FIBRA)" tvg-logo="https://i.ibb.co/tCDG3Z3/MLIG2.png" group-title="→ ESPAÑA (FIBRA) ←",M+ LA LIGA 3 FHD (FIBRA)
@@ -723,6 +738,136 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/62440
 
 
 
+
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrQZvyy.png" group-title="Musica", MX || AZTECA CLICK SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81835
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AegVdL.jpg" group-title="Musica", MX || BANDAMAX SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81668
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wr5I9XY.png" group-title="Musica", MX || MTV HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81843
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="Musica", MX || MTV Live HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81847
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="Musica", MX || Telehit HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81846
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica", MX || VH1 HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81845
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fr4mNnU.png" group-title="Musica", MX || MTV Hits
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81842
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="Musica", MX || Telehit
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81840
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wr5I9XY.png" group-title="Musica", MX || MTV SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81642
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="Musica", MX || MTV LIVE SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81675
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="Musica", MX || Telehit SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81669
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="Musica", MX || Telehit_ SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81671
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="Musica", MX || TELEHIT SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81674
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948281240762896384/2ITqZ7Sq_400x400.jpg" group-title="Musica", MX || TELERITMO SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81799
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/serbia/logo/mtv_00s.png" group-title="Musica", MX || MTV 00s SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81667
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica", MX || VH1 P SD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81673
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YN9L6CV.png" group-title="Musica", MX || VH1 HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/81838
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wr5I9XY.png" group-title="Musica", CLARO2: MTV HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/19435
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fr4mNnU.png" group-title="Musica", CLARO2: MTV HITS
+http://adamnk.me:8080/negritaC69/6dN328ThKA/19431
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="Musica", CLARO2: MTV LIVE HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/19348
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/serbia/logo/mtv_00s.png" group-title="Musica", CLARO2: MTV 00s
+http://adamnk.me:8080/negritaC69/6dN328ThKA/19369
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/272-2722146_vh1-classic-vh1-classic-logo-png.png" group-title="Musica", CLARO2: VH1 CLASSIC
+http://adamnk.me:8080/negritaC69/6dN328ThKA/19344
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | 90s
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105362
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Alternative
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105354
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Dance/EDM
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105349
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Hip-Hop and R&B
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105369
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Indie
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105353
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Kidz Only!
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105360
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Mexicana
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105356
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Rap
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105363
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Rap 2K
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105351
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Rock
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105355
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Teen Beats
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105368
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Throwback Jamz
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105350
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Today's Country
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105366
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Toddler Tunes
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105361
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Tropicales
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105357
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Y2K
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105348
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Hit List
+http://adamnk.me:8080/negritaC69/6dN328ThKA/105370
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Musica", Chile || Retro Plus
+http://adamnk.me:8080/negritaC69/6dN328ThKA/1161854
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/serbia/logo/mtv_00s.png" group-title="Musica", Music - MTV 00s HD
+http://adamnk.me:8080/negritaC69/6dN328ThKA/34692
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/MusicChoice/music%20choice.jpg" group-title="Musica", Music Choice | 90's
+http://adamnk.me:8080/negritaC69/6dN328ThKA/64980
 
 
 
