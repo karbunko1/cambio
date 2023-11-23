@@ -873,8 +873,6 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/25719
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TORO OLE" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TOROLE
 http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONTORO" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="M+ TOROS▶️",ONETORO 
-http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk114r8EF3Cfea-ZsqMMXQ0is
 #EXTINF:-1  tvg-id="(no tvg-id)" tvg-name="El Toro TV" tvg-logo="https://docdog.top/logo/countries/spain/El_Toro_TV.png" group-title="M+ TOROS▶️", ES: El Toro TV
 http://nearor.top:8080/111678876067042072/991692016066339/25932
 
