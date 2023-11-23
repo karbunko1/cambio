@@ -779,13 +779,13 @@ http://adamnk.me:8080/negritaC69/6dN328ThKA/105348
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3lduEm.png" group-title="Musica", ● MC | Hit List
 http://adamnk.me:8080/negritaC69/6dN328ThKA/105370
 
-#EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 1
+#EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="MOVISTAR FEF(NV)",Feftv 1
 http://50.7.168.106:8000/live/vi321198/jyfxADhbnTMB/595391.m3u8?token=H0EMV0RQRl8UVF1XAlcBAAdWBglRCFYAAg8ED1BbBQZUUFMEUQlWVQVDFRZAFkBdBw48WFASDVEMAlUBUhQXRhcGFmleXEZfFFAADANaBhpKQRdYWVUVXgUbREgKXBcJRlJdAQ8MRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFFBHRZdWApcQwlKPEhcV0ZZRgcDClxRFBw=
-#EXTINF:-1 tvg-id="FefTV 2" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 2
+#EXTINF:-1 tvg-id="FefTV 2" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="MOVISTAR FEF(NV)",Feftv 2
 http://50.7.233.26:8000/live/vi0215641/YsTRRaUeCV675/595392.m3u8?token=H0EMV0RQRl8UBQ8MUFVTAFAFWgQAAgNVAlJUCwAAUAVTUFUEUg5XVAFDFRZAFkBdBw48WFASDVEMAlUBURQXRhcGFmleXEZfFFABBAFXChpKQRdYWVUVXgUbREgKXBcJRlFdDg4NRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFBBHRZdWApcQwlKPEhcV0ZZRgQPC1BRFBw=
-#EXTINF:-1 tvg-id="FefTV 3" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 3
+#EXTINF:-1 tvg-id="FefTV 3" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="MOVISTAR FEF(NV)",Feftv 3
 http://50.7.233.26:8000/live/vi0215641/YsTRRaUeCV675/595393.m3u8?token=H0EMV0RQRl8UBwsFUFdTCVNaAABVAwUBAQ9eWQAABApWUFBQBVsHUAZDFRZAFkBdBw48WFASDVEMAlUBUBQXRhcGFmleXEZfFFABBAFXChpKQRdYWVUVXgUbREgKXBcJRlFcBQIBRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFBBHRZdWApcQwlKPEhcV0ZZRgQPClNSFBw=
-#EXTINF:-1 tvg-id="FefTV 4" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 4
+#EXTINF:-1 tvg-id="FefTV 4" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="MOVISTAR FEF(NV)",Feftv 4
 http://50.7.220.2:8000/live/vi0215641/YsTRRaUeCV675/595394.m3u8?token=H0EMV0RQRl8UVQxSBlcGCVZbU1VWUw8GAlYAXVNcBARRAFQPVF1VBAVDFRZAFkBdBw48WFASDVEMAlUBVxQXRhcGFmleXEZfFFABBAFXChpKQRdYWVUVXgUbREgKXBcJRlJWAgMNRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFBBHRZdWApcQwlKPEhcV0ZZRgcGDVRXFBw=
 
 
@@ -869,22 +869,17 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/23973
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/24945
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! ᴴᴰ" tvg-logo="https://i.postimg.cc/X7xDDTZp/Dise-o-sin-t-tulo-39.png" group-title="M+ SERIES▶️",BUEN VIAJE! ᴴᴰ
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/25719
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/1006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/1008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES| MUNDOTORO TV ( REFUERZO)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",ES| MUNDOTORO TV ( REFUERZO)
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/1222
-#EXTINF:-1 tvg-id="LA 1" tvg-name="MUNDOTORO TV ᴴᴰ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᴴᴰ
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/4756
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDOTORO TV ˢᵈ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ˢᵈ
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/4757
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/21468
-#EXTINF:-1 tvg-id="LA 1" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/pXLfKNC0/Dise-o-sin-t-tulo-22.png" group-title="M+ TOROS▶️",EL TORO TV
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/26599
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TORO OLE" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE
+
+
+#EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="MOVISTAR MUNDO TORO",TOROLE
+http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
+#EXTINF:-1 tvg-id="TORO " group-title="MOVISTAR MUNDO TORO" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="MOVISTAR MUNDO TORO",ONETORO 
+http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk114r8EF3Cfea-ZsqMMXQ0is
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TORO OLE" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",EL GATO AL AGUA
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46815
+
+
+
 #EXTINF:-1 tvg-id="laligasmartbanktv.es" tvg-name="O.LaLiga HYPERMOTION  (SATELITE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LA LIGA HYPERMOTION▶️",O.LaLiga HYPERMOTION  (SATELITE)
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/402
 #EXTINF:-1 tvg-id="LA 1" tvg-name="H.LaLiga HYPERMOTION  ᶠᴴᴰ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LA LIGA HYPERMOTION▶️",H.LaLiga HYPERMOTION  ᶠᴴᴰ
