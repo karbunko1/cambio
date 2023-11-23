@@ -1704,7 +1704,97 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcou
 
 
-
+#EXTINF:-1 tvg-id="Unbeaten" group-title="DANZ LIVE" tvg-logo="https://www.spirit-of-metal.com/les%20goupes/U/Unbeaten/pics/logo_5788.jpg" group-title="00.DAZN LIVE",Unbeaten
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd
+#EXTINF:-1 tvg-id="DAZN 1 IT" group-title="DANZ LIVE" tvg-logo="https://i.etsystatic.com/46360592/r/il/f0bf28/5228883964/il_fullxfull.5228883964_e2ey.jpg" group-title="00. DAZN LIVE",DAZN 1 IT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-019/stream.mpd
+#EXTINF:-1 tvg-id="ZONA DAZN IT" group-title="DANZ LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/260px-Logo_del_canale_televisivo_Zona_DAZN.svg.png" group-title="00. DAZN LIVE",ZONA DAZN IT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd
+#EXTINF:-1 tvg-id="DAZN DE" group-title="DANZ LIVE" tvg-logo="https://thebestkeys.com/wp-content/uploads/2021/03/G.png" group-title="00. DAZN LIVE",DAZN DE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+#EXTINF:-1 tvg-id="DAZN 2 DE" group-title="DANZ LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png" group-title="00. DAZN LIVE",DAZN 2 DE 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 tvg-id="DAZN 1 UK" group-title="DANZ LIVE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-uk-2843.png" group-title="00.DAZN LIVE",DAZN 1 UK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-045/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Canal+ Ligue 1 Uber Eats" group-title="DANZ LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Canal%2B_Ligue_1_Uber_Eats.png" group-title="00. DAZN LIVE",DAZN Canal+ Ligue 1 Uber Eats
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 1 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 1 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 2 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 2 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 3 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 3 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 4 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 4 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 5 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 5 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+#EXTINF:-1 tvg-id="DAZN Eleven 6 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DANZ LIVE",DAZN Eleven 6 (POR)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 
 
 #EXTINF:-1 group-title="TOROS ACESTREAM" tvg-id="toros(solo eventos)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" ,toros(solo eventos)
