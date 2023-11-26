@@ -230,6 +230,10 @@ acestream://cb224a951b0441267b1e877c79f15ac612910dc3
 acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pophits.png" group-title="→ MUSIC CHOICE ←",MC Pop Hits
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13379
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop & Country" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pop_and_country.png" group-title="→ MUSIC CHOICE ←",MC Pop & Country
@@ -326,6 +330,10 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60497
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60498
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Verano" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Verano
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60499
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
@@ -366,6 +374,11 @@ http://60038679258595408.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595408.ts
 http://60038679258595409.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595409.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
 http://60038679258595410.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595410.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL INFO FUTSAL" tvg-logo="http://jhonynn.info:8080/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn_DXucIfsdpwS7tqdIHNGDHjVPdOOUdPXjqnpwtiZdf4A.png" group-title="FUTSAL ESPAÑA",CANAL INFO FUTSAL
 http://sevi.2022spn.net:8080/play/SrDcube18-AeJ_GFdF8L_bT9OxZtlCkBTsroxUWGK7c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 1
@@ -394,34 +407,9 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08acPaQwGHOtPmfwksIgkR9s
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08fkDU9GZYbtT_40kGMx7Ggc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 14" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 14
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®|  TNT NOVELAS HD" tvg-logo="https://i.ibb.co/0qhtnvr/TNT-NOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®|  TNT NOVELAS HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®|  DRAMA HD" tvg-logo="https://i.ibb.co/yRzPFCL/KANAL-DRAMA.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®|  DRAMA HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| SABER MAS HD" tvg-logo="https://i.ibb.co/1Tj5HVf/SABER-MAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| SABER MAS HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| SONY NOVELA HD" tvg-logo="https://i.ibb.co/x28KBj0/SONY-NOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| SONY NOVELA HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| NOVELISIMA HD" tvg-logo="https://i.ibb.co/yq2hySR/NOVELISIMA.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| NOVELISIMA HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| STORMCAST HD" tvg-logo="https://i.ibb.co/ncnm1Ct/STORMCAST-NOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| STORMCAST HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| CORTOS HD" tvg-logo="https://i.ibb.co/bRFcZDg/TV-CORTOS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| CORTOS HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| SEO TV NOVELAS HD" tvg-logo="https://i.ibb.co/HxtDNsc/SEO-NOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| SEO TV NOVELAS HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| UNIVISION" tvg-logo="https://i.ibb.co/QfyrYpv/UNIVISION.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| UNIVISION
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| TL NOVELAS" tvg-logo="https://i.ibb.co/VV9xcj3/TLNOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| TL NOVELAS
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Syr9HS7/TELEMUNDO.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| TELEMUNDO INTERNACIONAL
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| RCN NOVELAS" tvg-logo="https://i.ibb.co/t3Rs33y/RCN-NOVELAS.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| RCN NOVELAS
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| PASIONES" tvg-logo="https://i.ibb.co/HNrPxWY/PASIONES-TV.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| PASIONES
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVELAS ®| AZ CORAZON" tvg-logo="https://i.ibb.co/QkTr07w/AZ-CORAZON.jpg" group-title="TELENOVELAS PREMIUM ▶️",NOVELAS ®| AZ CORAZON
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45275
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten cine español" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten cine español
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45824
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Accion" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten Accion
@@ -434,36 +422,8 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45827
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46486
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten drama" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten drama
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46487
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Robotboy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lACo3JKi1ipYUzRth1mZdW4tHuH.jpg" group-title="INFANTILES 24/7",24/7 Robotboy
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Patrulla Canina" tvg-logo="https://iili.io/HWYs9hF.jpg" group-title="INFANTILES 24/7",La Patrulla Canina
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45835
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="kids" tvg-logo="http://135.181.182.61:8080/images/DOT1Os9LdAAzPXrQoBL6daibsBZgyc07WK-bIBGNQdMRpNGZx2-PS-qXNu_Gzt6bOMSAOa6jy89F2DbNEdzgheAQE7DiNJ-Tya39o1b8kOQ.png" group-title="INFANTILES 24/7",kids
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46421
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="los osos Gummie" tvg-logo="https://iili.io/HN76We2.jpg" group-title="INFANTILES 24/7",los osos Gummie
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46422
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="toons" tvg-logo="http://135.181.182.61:8080/images/DOT1Os9LdAAzPXrQoBL6daibsBZgyc07WK-bIBGNQdPyUG-l_9yK4g2Jmke13Adp8diYtYCwD0IrXkdDvkCG8Z5jVaWgJlOlhs32KO0dpGc.png" group-title="INFANTILES 24/7",toons
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46423
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bob esponja" tvg-logo="http://135.181.182.61:8080/images/DOT1Os9LdAAzPXrQoBL6daibsBZgyc07WK-bIBGNQdPPOBAa0bNSu8VUc0KmEfo_dL3DZJVFpieXWrsWq_nkCqP80GX-yM7rbEbozeQ5h24.png" group-title="INFANTILES 24/7",bob esponja
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46424
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="la sirenita" tvg-logo="https://iili.io/HN7IYn2.webp" group-title="INFANTILES 24/7",la sirenita
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46425
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby Doo" tvg-logo="https://iili.io/HWYPpiG.jpg" group-title="INFANTILES 24/7",Scooby Doo
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46426
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa De Muñecas De Gabby" tvg-logo="https://iili.io/HXEnKep.jpg" group-title="INFANTILES 24/7",La Casa De Muñecas De Gabby
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46427
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alvin y las ardillas" tvg-logo="https://iili.io/HN5yUS1.jpg" group-title="INFANTILES 24/7",Alvin y las ardillas
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46428
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7| Play! La casa de Mickey Mouse" tvg-logo="https://elcomercio.pe/resizer/Ao98h7vlbEhAcYe9QO91t3W3oo4=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/LLFDSH23SBBF5G5WL355ZCNNFU.png" group-title="INFANTILES 24/7",24/7| Play! La casa de Mickey Mouse
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/49692
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokemon ES" tvg-logo="https://iili.io/HN7mrFI.jpg" group-title="INFANTILES 24/7",Pokemon ES
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/49693
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H PANTERA ROSA" tvg-logo="https://i.pinimg.com/originals/5b/1e/ac/5b1eacb3fa77d8980142b1750c624998.png" group-title="INFANTILES 24/7",24H PANTERA ROSA
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/49694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=""MASHA Y EL OSO 24/7" tvg-logo="http://www.skytvpluzz.xyz:80/images/_PFPECAfduyBrBSxQu9ZP0-QZqeEgf19i-Cn0B6DWeC1kBuvZY53jGOfL0WkjWqkalVIfkfAkPjSRmkmGQ8LgA.jpg" group-title="INFANTILES 24/7","MASHA Y EL OSO 24/7
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/49695
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JORGE EL CURIOSO 24/7" tvg-logo="http://www.skytvpluzz.xyz:80/images/_PFPECAfduyBrBSxQu9ZP8I1nMkw-eUncgeARTdXZBFUYBAOGyk7_bNDM3xUBOIzi6k3LIh112wgtfTb6-CUUg.jpg" group-title="INFANTILES 24/7",JORGE EL CURIOSO 24/7
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/49696
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO POP HD" tvg-logo="https://i.ibb.co/LSydgvB/VEVO-POP.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO POP HD
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46454
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO R&B 80 HD" tvg-logo="https://i.ibb.co/DWhCK6W/VEVO-R-B-80-S.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO R&B 80 HD
@@ -504,6 +464,9 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46471
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46472
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®|  CADENA ELITE HD" tvg-logo="https://i.ibb.co/bQk1Hvt/CADENA-ELITE.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®|  CADENA ELITE HD
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46473
+
+
+
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV",Los padrinos mágicos
 https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 #EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="PLUTO TV",MTV Vergüenza ajena
@@ -746,6 +709,8 @@ https://i.mjh.nz/PlutoTV/5f1aa7aab66c76000790ee7e-alt.m3u8
 https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="PLUTO TV",iCarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Flooxer" tvg-logo="https://pbs.twimg.com/media/FCGmOQ4VgAoTJCI.jpg" group-title="AtresPlayer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Comedia atresplayer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="AtresPlayer",Comedia atresplayer
@@ -754,6 +719,9 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATRESplayer PREMIUM" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="AtresPlayer",ATRESplayer PREMIUM
 https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Pelis Top" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png" group-title="RAKUTEN TV",Pelis Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=1b9d2488-61ef-4b04-b6c3-4ad6168
 #EXTINF:-1 tvg-id="ext" tvg-name="Acción" tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="RAKUTEN TV",Acción
