@@ -647,21 +647,6 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/50930
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/50931
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 1" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 1
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 3" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 3
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58730
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 4" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 4
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58731
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 5" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 5
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58732
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 7" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 7
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 8" tvg-logo="http://1.kiratv.store:80/images/IFlIrJgrsykkqTtc1l3zbb9Hjy8q6FtVi38f4S3f0iQUiT2x_nP4ndcxA9JXs2LMrv1aqnvh4c_ZYq-OTkyFZg.jpg" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 8
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58734
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 9" tvg-logo="" group-title="FEF TV▶️ (SOLO EVENTOS)",FEF TV 9
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/58735
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrQZvyy.png" group-title="Musica", MX || AZTECA CLICK SD
 http://adamnk.me:8080/negritaC69/6dN328ThKA/81835
 
