@@ -410,20 +410,6 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten cine español" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten cine español
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45824
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Accion" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten Accion
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45825
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedia" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten Comedia
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Naturaleza" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten Naturaleza
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/45827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oficios perdidos" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Oficios perdidos
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46486
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten drama" tvg-logo="https://www.strike-media.com/wp-content/uploads/2019/01/Rakuten-banner.jpg" group-title="RAKUTEN ▶️",Rakuten drama
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46487
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO POP HD" tvg-logo="https://i.ibb.co/LSydgvB/VEVO-POP.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO POP HD
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46454
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO R&B 80 HD" tvg-logo="https://i.ibb.co/DWhCK6W/VEVO-R-B-80-S.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO R&B 80 HD
