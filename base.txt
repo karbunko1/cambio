@@ -410,48 +410,6 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO POP HD" tvg-logo="https://i.ibb.co/LSydgvB/VEVO-POP.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO POP HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO R&B 80 HD" tvg-logo="https://i.ibb.co/DWhCK6W/VEVO-R-B-80-S.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO R&B 80 HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46455
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO 90 HD" tvg-logo="https://i.ibb.co/W55B8Sx/VEVO-90-S.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO 90 HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO HIP HOP HD" tvg-logo="https://i.ibb.co/BnkRfFt/VEVO-HUP-HOP.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO HIP HOP HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VEVO REGGUETON HD" tvg-logo="https://i.ibb.co/wgtWk1V/VEVO-REGUETON.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VEVO REGGUETON HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46458
-#EXTINF:-1 tvg-id="MTV" tvg-name="MUSICA ®| THE RETRO CHANNEL HD" tvg-logo="https://i.ibb.co/80ykXgn/THE-RETRO-CHANNEL.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| THE RETRO CHANNEL HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46459
-#EXTINF:-1 tvg-id="MTV" tvg-name="MUSICA ®| HTV HD" tvg-logo="https://i.ibb.co/zrLWq0p/HTV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| HTV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46460
-#EXTINF:-1 tvg-id="MTV" tvg-name="MUSICA ®| TELE HIT + HD" tvg-logo="https://i.ibb.co/Fx5NhSn/TELEHIT.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| TELE HIT + HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA  ®| VH1 HD" tvg-logo="https://i.ibb.co/vdcRCR2/CLASICO-VH1.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA  ®| VH1 HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46462
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| EL CANAL DE LA MUSICA HD" tvg-logo="https://i.ibb.co/H2KVFKj/El-canal-de-la-musica.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| EL CANAL DE LA MUSICA HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VISION TV HD" tvg-logo="https://i.ibb.co/xfyn2n2/VISION-TV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VISION TV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| MALETA MIX  HD" tvg-logo="https://i.ibb.co/L05rbw4/MALETA-MIX.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| MALETA MIX  HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46465
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| AMORDISCO TV HD" tvg-logo="https://i.ibb.co/fdL6bR8/AMORDISCO-TV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| AMORDISCO TV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46466
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| MUSICA TOP HD" tvg-logo="https://i.ibb.co/P4mt3Sn/MUSIC-TOP.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| MUSICA TOP HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46467
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| HITS 360 HD" tvg-logo="https://i.ibb.co/cckGgk0/HOTS-360.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| HITS 360 HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA | FABULOSA TV HD" tvg-logo="https://i.ibb.co/zGGXZzC/FABULOSA-TV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA | FABULOSA TV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46469
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| TROPICAL TV HD" tvg-logo="https://i.ibb.co/QC4yw2q/TROPICAL-TV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| TROPICAL TV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46470
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®| VALLENATO TV HD" tvg-logo="https://i.ibb.co/Rg3MMLr/VALLENATO-TV.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®| VALLENATO TV HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46471
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®|  THT  HD" tvg-logo="https://i.ibb.co/rv1kkSD/THT-MUSIC.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®|  THT  HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICA ®|  CADENA ELITE HD" tvg-logo="https://i.ibb.co/bQk1Hvt/CADENA-ELITE.jpg" group-title="MUSICA  PREMIUM ▶️",MUSICA ®|  CADENA ELITE HD
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/46473
-
-
 
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV",Los padrinos mágicos
 https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
