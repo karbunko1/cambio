@@ -563,8 +563,26 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 #EXTINF:-1 tvg-id="ext" tvg-name="ATRESplayer PREMIUM" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="AtresPlayer",ATRESplayer PREMIUM
 https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 1 PT
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 2 PT
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 3 PT
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 4 PT
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 5 PT
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 6 PT
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 1  PT
+acestream://c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 2  PT
+acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 3  PT
+acestream://ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 4  PT
+acestream://a600f739438c1b47725617d7a4cc05a04a890e10
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
