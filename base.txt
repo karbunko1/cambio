@@ -233,107 +233,6 @@ acestream://8478a600f92b2709b467bd070b95a442f2ed826a
 
 
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pophits.png" group-title="→ MUSIC CHOICE ←",MC Pop Hits
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13379
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop & Country" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_pop_and_country.png" group-title="→ MUSIC CHOICE ←",MC Pop & Country
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13380
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Dance" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_dance.png" group-title="→ MUSIC CHOICE ←",MC Dance
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13381
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Y2K" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_y2k.png" group-title="→ MUSIC CHOICE ←",MC Y2K
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13382
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Hit List" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_hitlist.png" group-title="→ MUSIC CHOICE ←",MC Hit List
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13383
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Hip Hop and R&B" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_hiphop.png" group-title="→ MUSIC CHOICE ←",MC Hip Hop and R&B
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13384
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Musica Urbana" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_musicaurbana.png" group-title="→ MUSIC CHOICE ←",MC Musica Urbana
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13385
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Tropicales" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_tropicales.png" group-title="→ MUSIC CHOICE ←",MC Tropicales
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13386
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Mexicana" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_mexicana.png" group-title="→ MUSIC CHOICE ←",MC Mexicana
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13387
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rap" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rap.png" group-title="→ MUSIC CHOICE ←",MC Rap
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Trowback Jamz" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_trhowbackjamz.png" group-title="→ MUSIC CHOICE ←",MC Trowback Jamz
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13389
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Pop Latino" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_poplatino.png" group-title="→ MUSIC CHOICE ←",MC Pop Latino
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13390
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Teen Beats" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_teenbeats.png" group-title="→ MUSIC CHOICE ←",MC Teen Beats
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13391
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC R&B Soul" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_RandB.png" group-title="→ MUSIC CHOICE ←",MC R&B Soul
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Country Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_countryhits.png" group-title="→ MUSIC CHOICE ←",MC Country Hits
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13393
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC 90's" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_90.png" group-title="→ MUSIC CHOICE ←",MC 90's
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13394
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Toddler Tunes" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_toddlertunes.png" group-title="→ MUSIC CHOICE ←",MC Toddler Tunes
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13395
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Kidz Only" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_kidsonly.png" group-title="→ MUSIC CHOICE ←",MC Kidz Only
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13396
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rock" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rock.png" group-title="→ MUSIC CHOICE ←",MC Rock
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13397
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Alternative" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_alternative.png" group-title="→ MUSIC CHOICE ←",MC Alternative
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13398
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Metal" tvg-logo="http://209.126.82.213/LogosP/Music_choice/musicchoicemax.png" group-title="→ MUSIC CHOICE ←",MC Metal
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13399
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC 80's" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_80.png" group-title="→ MUSIC CHOICE ←",MC 80's
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13400
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Music Choice Max" tvg-logo="http://209.126.82.213/LogosP/Music_choice/musicchoicemax.png" group-title="→ MUSIC CHOICE ←",MC Music Choice Max
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Kidz Bop" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_kidzbop.png" group-title="→ MUSIC CHOICE ←",MC Kidz Bop
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13402
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Learn & Play" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_learn_and_play.png" group-title="→ MUSIC CHOICE ←",MC Learn & Play
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13403
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Rap 2K" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_rap2k.png" group-title="→ MUSIC CHOICE ←",MC Rap 2K
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Soft Rock" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_softrock.png" group-title="→ MUSIC CHOICE ←",MC Soft Rock
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13405
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Today´s Country" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_todaycountrys.png" group-title="→ MUSIC CHOICE ←",MC Today´s Country
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13406
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MC Family Hits" tvg-logo="http://209.126.82.213/LogosP/Music_choice/mc_familyhits.png" group-title="→ MUSIC CHOICE ←",MC Family Hits
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/13407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Fiesta" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Fiesta
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60481
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Flamenco" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Flamenco
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Hiphop" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Hiphop
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY House" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY House
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60484
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Jazz" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Jazz
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Latino" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Latino
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60486
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Lomassonado" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Lomassonado
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60487
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY MegaBASS" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY MegaBASS
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60488
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Metal" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Metal
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60489
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Musica8K" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Musica8K
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60490
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Nostalgia" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Nostalgia
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60491
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Novaquitarra" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Novaquitarra
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60492
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Reggaeton" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Reggaeton
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60493
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Relax" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Relax
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60494
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Resturantes" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Resturantes
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60495
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Rock" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Rock
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60496
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Romance" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Romance
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60497
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Tropicaldeephouse" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Tropicaldeephouse
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60498
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPOTIFY Verano" tvg-logo="https://iili.io/H8cGud7.png" group-title="→ SPOTIFY MUSIC ←",SPOTIFY Verano
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/60499
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
@@ -666,37 +565,37 @@ https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",Eleven TR Sport [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Eleven TR Sport IT
 acestream://154d111a97b7b18d1f64e9ae697c33c479d01e32
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",TeleSud Trapani [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",TeleSud Trapani IT
 acestream://8ec948677da521da7bb238c0b1968a899edb797d
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",Videolina [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Videolina IT
 acestream://277503b17daeb2bbea26bfe27dc9ffc33c0cb251
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",La7 .it [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7 .it IT
 acestream://48e0f30ccda711ff2894cbc52c6df89ffd05fe22
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",ReteVeneta [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
 acestream://70ba597a6e0f4c6a5868331b11cea6e459ac9f22
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",La7d .it [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7d .it IT
 acestream://f910f4c0374a08379c464c1db49028308557c0eb
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",ReteVeneta [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
 acestream://d2e92dfad22b8258187f622b834b9acedc1e443f
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",RTC TeleCalabria [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RTC TeleCalabria IT
 acestream://735d268177573df80bcadf0a4defebae9811db2f
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",RAI 3 [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RAI 3 IT
 acestream://bbbcbec1b2538fc069f19434185961b1e93ea833
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",San Marino RTV Sport [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV Sport IT
 acestream://753f25945102655dd6fcf856f32695005c912d69
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",San Marino RTV HD [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV HD IT
 acestream://2016e4b3d77149097b6d842df07b7a364c823b9b
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",teleMonteneve [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",teleMonteneve IT
 acestream://af8ea343635dcf9eca32567d32faacc76023a847
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",Italia 2 TV [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Italia 2 TV IT
 acestream://3bf85216745a2a4577f2226628301fded74287bf
-#EXTINF:-1 tvg-id="ext" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",Canale 7 [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Canale 7 IT
 acestream://8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",Milano Pavia TV [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Milano Pavia TV IT
 acestream://0969a38e2b12d718f09e88e0925aed88f24a957b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM [IT]",UniNettuno University TV [IT]
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",UniNettuno University TV IT
 acestream://4e17bac6b2decc70fd7bd704ce7013072fefd1f0
 
 
