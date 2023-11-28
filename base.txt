@@ -1001,7 +1001,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Golf(POR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf(POR)
 acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
-#EXTINF:-1 tvg-id="M+ Golf(BEL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTRAM GOLF",M+ Golf(BEL)
+#EXTINF:-1 tvg-id="M+ Golf(BEL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf(BEL)
 acestream://035e34b791335962ca817f42fd14300382af3797
 
 
