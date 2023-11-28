@@ -345,6 +345,15 @@ http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
 
 
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="CANAL HISTORIA",Historia
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="CANAL HISTORIA",Nat Geo Wild
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="National Geographic(POR)" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" group-title="CANAL HISTORIA",National Geographic(POR)
+acestream://08fc2ddc0b95776368901b22a506fa22a8ff9fe2
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" group-title="CANAL HISTORIA",Odisea
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
+
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV",Los padrinos mágicos
 https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 #EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="PLUTO TV",MTV Vergüenza ajena
@@ -983,18 +992,6 @@ acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="beIN SPORTS ñ  41af" tvg-logo="https://i.imgur.com/XcjYBfj.png" group-title="Otros deportes",beIN SPORTS ñ  41af
 acestream://41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 tvg-id="Barcelona TV" tvg-name="Barça 720  e336" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" group-title="Otros deportes",Barça 720  e336
-acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" group-title="electroperra",Discovery
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="electroperra",Historia
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="electroperra",Nat Geo Wild
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" group-title="electroperra",National Geographic
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" group-title="electroperra",Odisea
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 
 
 #EXTINF:-1 tvg-id="M+ Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf 
