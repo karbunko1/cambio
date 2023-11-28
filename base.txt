@@ -307,7 +307,42 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08fkDU9GZYbtT_40kGMx7Ggc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 14" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 14
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
 
-
+#EXTINF:-1 tvg-id="La 1 " tvg-name="La1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT",La1 
+acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
+#EXTINF:-1 tvg-id="La 2" tvg-name="La2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2 
+acestream://52d3738871536dce27db50f044d3294a4c52253d
+#EXTINF:-1 tvg-id="24 horas" tvg-name="24 horas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",24 horas
+acestream://2191383ed85d20f5f6759785e14a4aff8a3ab8f4
+#EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",canal malaga
+acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",PTV sevilla
+acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
+#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="TDT" Factoria de Ficcion
+httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
+#EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="00. TDT", Neox 
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
+#EXTINF:-1 tvg-id="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT", Energy
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
+#EXTINF:0 tvg-id="Mega" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="TDT",MEGA 
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="TDT", Telecinco
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68748
+#EXTINF:-1 tvg-id="la sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31908
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT", Divinity
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
+#EXTINF:-1 tvg-id="Nova" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT", Nova
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
+#EXTINF:-1 tvg-id="Castilla la Mancha" ch-number="217" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="TDT",Castilla la Mancha
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
+#EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="00. TDT", Antena 3
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="TDT", A3Series
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
+#EXTINF:-1 tvg-id="Cuatro"tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="TDT", Cuatro
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
 
 
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV",Los padrinos mágicos
@@ -960,15 +995,13 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" group-title="electroperra",Odisea
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La1  02b9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="Otros",La1  02b9
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La1 UHD  6636" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="Otros",La1 UHD  6636
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 tvg-id="La 2" tvg-name="La2  6010" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="Otros",La2  6010
-acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO 1080  e8ee" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="Otros",CUATRO 1080  e8ee
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 tvg-id="Be Mad" tvg-name="BeMad 1080  5c26" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BEMAD" group-title="Otros",BeMad 1080  5c26
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco 1080  bb19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5" group-title="Otros",Telecinco 1080  bb19
-acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
+
+#EXTINF:-1 tvg-id="M+ Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf 
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-id="M+ Golf(POR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf(POR)
+acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
+#EXTINF:-1 tvg-id="M+ Golf(BEL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTRAM GOLF",M+ Golf(BEL)
+acestream://035e34b791335962ca817f42fd14300382af3797
+
+
