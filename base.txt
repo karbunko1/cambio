@@ -313,14 +313,12 @@ acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
 acestream://52d3738871536dce27db50f044d3294a4c52253d
 #EXTINF:-1 tvg-id="24 horas" tvg-name="24 horas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",24 horas
 acestream://2191383ed85d20f5f6759785e14a4aff8a3ab8f4
-#EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",canal malaga
+#EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="" group-title="TDT",canal malaga
 acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
-#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" group-title="TDT",PTV sevilla
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="" group-title="TDT",PTV sevilla
 acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
-#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="TDT" Factoria de Ficcion
-httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 #EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT", Neox 
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
 #EXTINF:-1 tvg-id="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT", Energy
