@@ -321,7 +321,7 @@ acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
 #EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="TDT" Factoria de Ficcion
 httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
-#EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="00. TDT", Neox 
+#EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT", Neox 
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
 #EXTINF:-1 tvg-id="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT", Energy
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
@@ -337,7 +337,7 @@ http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
 #EXTINF:-1 tvg-id="Castilla la Mancha" ch-number="217" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="TDT",Castilla la Mancha
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
-#EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="00. TDT", Antena 3
+#EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="TDT", Antena 3
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
 #EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="TDT", A3Series
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
