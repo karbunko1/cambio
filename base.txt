@@ -634,6 +634,24 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="ACESTREAM EUROSPORT(ES)",Eurosport2 Tv ES
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA(DE)", Deluxe music(de)
+acestream://da8c0764bea30d7fe2321383292bb33ff04a5ede
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Euro indi music chartv
+acestream://dc970c1133aed0cd20170a905e0dcea3ec82f228
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA(PL)",Pulsat music(pl)
+acestream://f67af123e7b9dd22da6c4de215f40de4d03cdbb2
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Qmusic
+acestream://743a5bd65718220b0adb51aa6b57ddc7cae77274
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Q-music
+acestream://f65b37adac21933813197366c8328f054a1b1c12
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Reload radio music
+acestream://81c141b641a45671b9fea1d783ded7abdc4e0476
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Marutam music
+acestream://d6e13d5e676e268e0bc333ac3c097c8434de9094
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Arabic music
+acestream://6c581c940657e1006e77d598d12e065ed2e605b2
+
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 2 FR
