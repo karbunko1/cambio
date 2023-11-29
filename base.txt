@@ -369,7 +369,18 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08fkDU9GZYbtT_40kGMx7Ggc
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1006
+#EXTINF:-1 tvg-id="" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1008
+#EXTINF:-1 tvg-id="LA 1" tvg-name="MUNDOTORO TV ᴴᴰ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᴴᴰ
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/4756
+#EXTINF:-1 tvg-id="" tvg-name="K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/21468
+#EXTINF:-1 tvg-id="LA 1" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/pXLfKNC0/Dise-o-sin-t-tulo-22.png" group-title="M+ TOROS▶️",EL TORO TV
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/26599
+#EXTINF:-1 tvg-id="" tvg-name="TORO OLE " tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE 
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/46815
 
 
 
