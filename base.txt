@@ -315,10 +315,6 @@ acestream://52d3738871536dce27db50f044d3294a4c52253d
 acestream://2191383ed85d20f5f6759785e14a4aff8a3ab8f4
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="TDT",GOL PLAY
 http://relectro.xyz:8080/0A3r0lAdTS/RfAR6aBCcs/212
-#EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="" group-title="TDT",canal malaga
-acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
-#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="" group-title="TDT",PTV sevilla
-acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
 #EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT", Neox 
@@ -650,6 +646,19 @@ acestream://81c141b641a45671b9fea1d783ded7abdc4e0476
 acestream://d6e13d5e676e268e0bc333ac3c097c8434de9094
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Arabic music
 acestream://6c581c940657e1006e77d598d12e065ed2e605b2
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
+acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ACESTREAM AUTONOMICOS",TV galicia
+acestream://75ba0f10b9cccd7e0846e9ed95c80d5fd3289742
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/28-Kanala-en-DIRECTO-Online-.png" group-title="ACESTREAM AUTONOMICOS",kanala tv
+acestream://fd6f24a070303cf107479f751d3ec45afac262a1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://pbs.twimg.com/media/Ebbc9VFXYAENa5o.jpg:large" group-title="ACESTREAM AUTONOMICOS",telabista
+acestream://4ea2a263efd31a479541850bec0c148f0e266322
+#EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uksr3vhttzzx.png" group-title="ACESTREAM AUTONOMICOS",canal malaga
+acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="https://pbs.twimg.com/profile_images/1715388786836721664/S_WDM8eV_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",PTV sevilla
+acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
 
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
