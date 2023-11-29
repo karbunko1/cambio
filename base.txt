@@ -646,6 +646,8 @@ acestream://81c141b641a45671b9fea1d783ded7abdc4e0476
 acestream://d6e13d5e676e268e0bc333ac3c097c8434de9094
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Arabic music
 acestream://6c581c940657e1006e77d598d12e065ed2e605b2
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",MTV music(pl)
+acestream://a287c95095dd80b0182d71e414669b314ba805d1
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
@@ -701,7 +703,24 @@ acestream://0969a38e2b12d718f09e88e0925aed88f24a957b
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",UniNettuno University TV IT
 acestream://4e17bac6b2decc70fd7bd704ce7013072fefd1f0
 
-
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK  eab7" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" group-title="DEPORTES ACESTREAM UK",Sky Sports Main Event UK  eab7
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League UK  ec5e" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",Sky Sports Premier League UK  ec5e
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UK  8dbe" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",Sky Sports Football UK  8dbe
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena UK  d317" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",Sky Sports Arena UK  d317
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="Sky Sports F1 DE  b043" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",Sky Sports F1 DE  b043
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="TNT Sports 1 UK  efc6" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",TNT Sports 1 UK  efc6
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="TNT Sports 2 UK  d63d" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",TNT Sports 2 UK  d63d
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="TNT Sports 3 UK  5f96" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",TNT Sports 3 UK  5f96
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="TNT Sports 4 UK  fc50" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",TNT Sports 4 UK  fc50
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",ESPN HD US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
@@ -815,10 +834,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcou
 #EXTINF:-1 tvg-id="toros(solo eventos)" tvg-name="toros(solo eventos)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="TOROS ACESTREAM",toros(solo eventos)
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
-#EXTINF:-1 tvg-id="ufc(solo eventos)" tvg-name="ufc(solo eventos)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc(solo eventos)
+
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc(uk)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc(uk)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="ufc2(solo eventos)" tvg-name="ufc2(solo eventos)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc2(solo eventos)
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc2(ru)
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc3(ru)
+acestream://acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD ep  c021" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 UHD ep  c021
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Multicámara  9686" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 Multicámara  9686
@@ -975,24 +998,8 @@ acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
 acestream://446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name="LaLiga Hypermotion 8  4d52" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" group-title="M+ LaLiga Hypermotion",LaLiga Hypermotion 8  4d52
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK  eab7" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" group-title="British",Sky Sports Main Event UK  eab7
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League UK  ec5e" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",Sky Sports Premier League UK  ec5e
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UK  8dbe" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",Sky Sports Football UK  8dbe
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena UK  d317" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",Sky Sports Arena UK  d317
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="Sky Sports F1 DE  b043" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",Sky Sports F1 DE  b043
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="TNT Sports 1 UK  efc6" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",TNT Sports 1 UK  efc6
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="TNT Sports 2 UK  d63d" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",TNT Sports 2 UK  d63d
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="TNT Sports 3 UK  5f96" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",TNT Sports 3 UK  5f96
-acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="TNT Sports 4 UK  fc50" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="British",TNT Sports 4 UK  fc50
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+
+
 #EXTINF:-1 tvg-id="I216.32281.zap2it.com" tvg-name="NBA TV  e72d" tvg-logo="https://i.imgur.com/4QrPlos.png" group-title="Otros deportes",NBA TV  e72d
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US  4b49" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Otros deportes",ESPN US  4b49
