@@ -1,90 +1,10 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg" group-title="PELICULAS ACESTREAM",The Creator (2023) BluRay 1080p [7.1*]
-acestream://323450ef6bcf37554b25600fb9894a1890f72d99
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="PELICULAS ACESTREAM",Bihter, pasión oculta (2023) BluRay 1080p [5.0*]
-acestream://5c1a0016b592172353b967e7df1423d775bb38eb
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" group-title="PELICULAS ACESTREAM",Amor en aguas turbulentas (2023) BluRay 720p [7.0*]
-acestream://5d3bba98f7ac80805f5645865e917520c9b14702
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg" group-title="PELICULAS ACESTREAM",Los alienígenas (2023) BluRay 1080p [5.0*]
-acestream://0923a408b434e4b99f6fdfd1d8b6ff13a2fe30dd
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTzw1ENuMx8bZpmKekIcdFdXwjq.jpg" group-title="PELICULAS ACESTREAM",Unica superviviente (2022) BluRay 1080p [6.5*]
-acestream://091eafaab3b19e7f8d9020064272783df815c326
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg" group-title="PELICULAS ACESTREAM",Nuevos ricos (2023) BluRay 720pRip [7.5]
-acestream://2daf95676837c1f533e78ee33baf07c9ec1fdcaa
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="PELICULAS ACESTREAM",Believer 2 (Dokjeon 2) (2023) BluRay 720pRip [7.5]
-acestream://3e2737c851a1d64974438b46883fb96d977c4c1b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="PELICULAS ACESTREAM",Rustin (2023) BluRay 720pRip [5.5]
-acestream://1ba825adc58c7741fb22e6d82220df4faec709a2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="PELICULAS ACESTREAM",Menuda Nochebuena  (2023) BluRay 1080Rip [9.5]
-acestream://87372791a47be56459ea72597fbd0930e6f0d521
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r94waWYiNhXoAuCEWBCf2XEEegx.jpg" group-title="PELICULAS ACESTREAM",Te esperare en Venus (2023) BluRay 1080Rip [6.0]
-acestream://42c0efc443323d57a29338a518dedc4227e54960
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8zh9DbnkfGm2IaTZaciyKQd1iM.jpg" group-title="PELICULAS ACESTREAM",Cata de vinos (La degustation) (2023) BluRay 1080Rip [6.2]
-acestream://f75ba69617aac4c4c595730d9b4e20d2557b0e06
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg" group-title="PELICULAS ACESTREAM",Mejor Navidad imposible (2023) BluRay 720pRip [5.5]
-acestream://c2e1155c0094857650af5aca085db13f33aaf4ab
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiLBqxb1AceLSWy8oPKn4w7DXOE.jpg" group-title="PELICULAS ACESTREAM",Amor en aguas turbulentas (2023) BluRay 720pRip [7.0]
-acestream://5d3bba98f7ac80805f5645865e917520c9b14702
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg" group-title="PELICULAS ACESTREAM",Bihter pasion oculta (2023) BluRay 1080Rip [6.5]
-acestream://5c1a0016b592172353b967e7df1423d775bb38eb
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg" group-title="PELICULAS ACESTREAM",Come Out Fighting (2023) BluRay 1080p [5.0*]
-acestream://bd9ae55d7e72246cfa2d0c1f2139dbc9f76ca33d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg" group-title="PELICULAS ACESTREAM",El cuco (2023) BluRay 1080p [6.0*]
-acestream://d57e61fb9a6a8867f4e8158747bb50ff10a1d424
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6shiIHV2XjDK5yErHhoeMphwpwP.jpg" group-title="PELICULAS ACESTREAM",The End of Sex (2023) BluRay 1080p [6.2*]
-acestream://07d4260e5818272f5612d9fb19ca7eb650058de7
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg" group-title="PELICULAS ACESTREAM",Tripped Up (2023) BluRay 720p [6.0*]
-acestream://2ef4ee0f6eaa06037e4c1e6a7b9bda639b6398e3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg" group-title="PELICULAS ACESTREAM",Escuadron de elite 2 (2023) BluRay Rip [6.3*]
-acestream://95f1fe212134c2e21455041031d9ef297187e4a6
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" group-title="PELICULAS ACESTREAM",A pesar de todo (2023) BluRay 720pRip []
-acestream://b923916917c4a84426918bbcf82e477064401227
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg" group-title="PELICULAS ACESTREAM",Ultima noche en Milan (2023) BluRay 720pRip [7.2]
-acestream://947e6fa6965e3b81deb089bcc69518d1489a5586
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="PELICULAS ACESTREAM",Believer 2 (2023) BluRay 720p [7.6*]
-acestream://3e2737c851a1d64974438b46883fb96d977c4c1b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5GJTRHGGvyJpkO5yEsKuGep5RK.jpg" group-title="PELICULAS ACESTREAM",Rustin (2023) BluRay 720p [7.0*]
-acestream://1ba825adc58c7741fb22e6d82220df4faec709a2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQ7XcEOIktQuixSrOyrLCsAE5UT.jpg" group-title="PELICULAS ACESTREAM",Rally Road Racers (2023) BluRay 720p [7.6*]
-acestream://573ed22e3329283b72c87866d6b913ef8f9fcbe7
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" group-title="PELICULAS ACESTREAM",El carnicero (2018) Web dl Hd 1080p [6.2*]
-acestream://f7c15e7926ce2ed69e48a2b92ecfad31df6caf42
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umUBV45gHK2SHMO82YwzSLBOQtI.jpg" group-title="PELICULAS ACESTREAM",Yo, traidor (2022) Web dl Hd 1080p [7.6*]
-acestream://0150393e6594552c43c90fcc4ab6dc07d73c0781
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg" group-title="PELICULAS ACESTREAM" ,Galaxy Games (2023) BluRay 720pRip [4.0]
-acestream://84228a3d80c96a716730cfcda5af52d5ca61271c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg" group-title="PELICULAS ACESTREAM",A Tale of Two Guns (2023) BluRay 1080Rip [5.3]
-acestream://fee9c99f63b53ace201eae16fe5393a2cc798d7b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg"group-title="PELICULAS ACESTREAM",No Name and Dynamite (2023) BluRay 720pRip [5.5]
-acestream://72091ca42b1d51f9db219c8998daf94317551002
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qs0MPcYRZ9HimnO1OoDnl7e89Iv.jpg"group-title="PELICULAS ACESTREAM",Elena sabe (2023) Web dl Hd 1080p [8.0*]
-acestream://89f1c0fd72ed79689c6ae17e3e0b8da81838672d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yiNwznQaK8oJRXvYxsm95vsvYC.jpg"group-title="PELICULAS ACESTREAM",Elf Me (2023) BluRay 1080Rip [5.9]
-acestream://23fe5f30d408c3c2293186dc709d90905f08e743
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlwt27iWubh6DEiQhc3kyVMjCU5.jpg"group-title="PELICULAS ACESTREAM",El monte (2022) Web dl Hd 1080p [6.6*]
-acestream://d5e80350ed1d765f39dec9777ab0327f5cd7be51
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7Hd7tYP7FoxI9uIMK4DOuNfCqv.jpg" group-title="PELICULAS ACESTREAM",Hijos de los talibanes (2023) BluRay 720p [6.0*]
-acestream://b9de4fc8bf9436149c977830d03bdf365339e90b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg" group-title="PELICULAS ACESTREAM",Leo (2023) Web dl Hd 1080p [7.9*]
-acestream://64a775174a004be49b6a77848880c2fa6721edbe
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg" group-title="PELICULAS ACESTREAM",Holy Shit! (2022) BluRay 1080p [6.0*]
-acestream://67feac5d6d9778d4acf049a4bfb9455242012c6b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHrWqTVds8MQ9j6iJZZ6IiQXbEi.jpg" group-title="PELICULAS ACESTREAM",Ultima llamada para Estambul (2023) BluRay 720p [6.8*]
-acestream://a6766704a591d73f1b3291e1607169f2bc07d51e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1JDimECaoNDvW12wNY2FIuTPUhp.jpg" group-title="PELICULAS ACESTREAM",El colegio de los animales magicos 2 (2022) BluRay 1080p [6.2*]
-acestream://e9bb429effa21074541cb6404366b0bcabc3810f
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2w5JSEPrPOnAXBKnXToCNvgaAg.jpg" group-title="PELICULAS ACESTREAM",El fantastico caso del Golem (2023) BluRay 720p [6.0*]
-acestream://1eb1d2ee117baa5733ce37c24b3be9dafbb85c1d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg" group-title="PELICULAS ACESTREAM",El conejo de terciopelo (2023) BluRay 720p [7.3*]
-acestream://51ed8eabe128d62095f88d7e2b56064aa22258e3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZOAe88qvgYBQYVbTdDGEbvm3s4.jpg" group-title="PELICULAS ACESTREAM",No tengas miedo (2023) BluRay 1080p [6.8*]
-acestream://6db9cdf3f5161df38c106500d24eb096dea68c87
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A pesar de todo (2023) BluRay 720pRip []" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" group-title="PELICULAS ACESTREAM",A pesar de todo (2023) BluRay 720pRip []
+acestream://b923916917c4a84426918bbcf82e477064401227
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Tale of Two Guns (2023) BluRay 1080Rip [5.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg" group-title="PELICULAS ACESTREAM",A Tale of Two Guns (2023) BluRay 1080Rip [5.3]
+acestream://fee9c99f63b53ace201eae16fe5393a2cc798d7b
 #EXTINF:-1 tvg-id="A un millón de millas (2023)" tvg-name="A un millón de millas (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",A un millón de millas (2023)
 acestream://e68d6498fad6775113be5923376f105934fe440b
 #EXTINF:-1 tvg-id="Agente Stone(2023)" tvg-name="Agente Stone(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Agente Stone(2023)
@@ -97,6 +17,8 @@ acestream://41ff1d744d367108c7a21e06dc5e66983a05c8a4
 acestream://337f8eac2194125e6a884031e569f20ac5a31803
 #EXTINF:-1 tvg-id="Amor al cuadrado por siempre (2023)" tvg-name="Amor al cuadrado por siempre (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Amor al cuadrado por siempre (2023)
 acestream://49cdf1cd9e452c3db1fa46eb0895bbca9d3f676d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor en aguas turbulentas (2023) BluRay 720p [7.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" group-title="PELICULAS ACESTREAM",Amor en aguas turbulentas (2023) BluRay 720p [7.0*]
+acestream://5d3bba98f7ac80805f5645865e917520c9b14702
 #EXTINF:-1 tvg-id="Apaches(2023) BR1080" tvg-name="Apaches(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Apaches(2023) BR1080
 acestream://7d4897d55117e5808a1d2cd419f1cad9c69113e7
 #EXTINF:-1 tvg-id="Asteroid city (2023)" tvg-name="Asteroid city (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Asteroid city (2023)
@@ -105,22 +27,38 @@ acestream://2f702a2b4aff20f7e542ad281f503ddd9f72c38c
 acestream://7753ae42b3168b6e846a2a40bb190d7abf7f667a
 #EXTINF:-1 tvg-id="Baby Assassins 2(2023)" tvg-name="Baby Assassins 2(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Baby Assassins 2(2023)
 acestream://563b01fd5cc52133a710ffdf38b7c1dc5ac63c26
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Believer 2 (Dokjeon 2) (2023) BluRay 720pRip [7.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="PELICULAS ACESTREAM",Believer 2 (Dokjeon 2) (2023) BluRay 720pRip [7.5]
+acestream://3e2737c851a1d64974438b46883fb96d977c4c1b
 #EXTINF:-1 tvg-id="Blue beetle (2023)" tvg-name="Blue beetle (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Blue beetle (2023)
 acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b
 #EXTINF:-1 tvg-id="Carga maxima (2023)" tvg-name="Carga maxima (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Carga maxima (2023)
 acestream://67a1329280a0c370d70acb864e209e2502f22c8c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cata de vinos (La degustation) (2023) BluRay 1080Rip [6.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8zh9DbnkfGm2IaTZaciyKQd1iM.jpg" group-title="PELICULAS ACESTREAM",Cata de vinos (La degustation) (2023) BluRay 1080Rip [6.2]
+acestream://f75ba69617aac4c4c595730d9b4e20d2557b0e06
 #EXTINF:-1 tvg-id="Cenizas en el cielo (2023)" tvg-name="Cenizas en el cielo (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Cenizas en el cielo (2023)
 acestream://55e86a7da556de03718a8c833c829ab351fd71e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Come Out Fighting (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg" group-title="PELICULAS ACESTREAM",Come Out Fighting (2023) BluRay 1080p [5.0*]
+acestream://bd9ae55d7e72246cfa2d0c1f2139dbc9f76ca33d
 #EXTINF:-1 tvg-id="Corrective Measures (2022)" tvg-name="Corrective Measures (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Corrective Measures (2022)
 acestream://c41ac17f9ff9e7557e4fd9f0fde7f0a254faeb5d
 #EXTINF:-1 tvg-id="El amor esta en el aire (2023)" tvg-name="El amor esta en el aire (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El amor esta en el aire (2023)
 acestream://0d272a45c2caf24952702c2aaa8f520d48c0ee9f
 #EXTINF:-1 tvg-id="El asesino (2023)" tvg-name="El asesino (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El asesino (2023)
 acestream://1f4e295c76c2cfd6d940ad11ed29208896907b28
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El carnicero (2018) Web dl Hd 1080p [6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" group-title="PELICULAS ACESTREAM",El carnicero (2018) Web dl Hd 1080p [6.2*]
+acestream://f7c15e7926ce2ed69e48a2b92ecfad31df6caf42
 #EXTINF:-1 tvg-id="El club de los lectores criminales (2023)" tvg-name="El club de los lectores criminales (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El club de los lectores criminales (2023)
 acestream://1275214e56e388bc7e6bf0b5374cd55700e7ca6e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El colegio de los animales magicos 2 (2022) BluRay 1080p [6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1JDimECaoNDvW12wNY2FIuTPUhp.jpg" group-title="PELICULAS ACESTREAM",El colegio de los animales magicos 2 (2022) BluRay 1080p [6.2*]
+acestream://e9bb429effa21074541cb6404366b0bcabc3810f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El conejo de terciopelo (2023) BluRay 720p [7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg" group-title="PELICULAS ACESTREAM",El conejo de terciopelo (2023) BluRay 720p [7.3*]
+acestream://51ed8eabe128d62095f88d7e2b56064aa22258e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El cuco (2023) BluRay 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg" group-title="PELICULAS ACESTREAM",El cuco (2023) BluRay 1080p [6.0*]
+acestream://d57e61fb9a6a8867f4e8158747bb50ff10a1d424
 #EXTINF:-1 tvg-id="El curandero (2023)" tvg-name="El curandero (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El curandero (2023)
 acestream://6e8e5299e4b09973e950c24037d6f40b42ad5aa1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El fantastico caso del Golem (2023) BluRay 720p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2w5JSEPrPOnAXBKnXToCNvgaAg.jpg" group-title="PELICULAS ACESTREAM",El fantastico caso del Golem (2023) BluRay 720p [6.0*]
+acestream://1eb1d2ee117baa5733ce37c24b3be9dafbb85c1d
 #EXTINF:-1 tvg-id="El final que quiero(2023)" tvg-name="El final que quiero(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El final que quiero(2023)
 acestream://f31a39e3fa1d518c565df4a9f78e4bbf5ee1240c
 #EXTINF:-1 tvg-id="El hombre del saco (2023)" tvg-name="El hombre del saco (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El hombre del saco (2023)
@@ -129,6 +67,8 @@ acestream://643fc718cbc83c422fe7f7b39071fd323046fa0e
 acestream://6904bb52d9d68222b22a9bae91d1bb4a50cd19b9
 #EXTINF:-1 tvg-id="El maestro jardinero (2023)" tvg-name="El maestro jardinero (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El maestro jardinero (2023)
 acestream://8e4a25c7657b9abac48f9be25b9e7b283d41abab
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El monte (2022) Web dl Hd 1080p [6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlwt27iWubh6DEiQhc3kyVMjCU5.jpg" group-title="PELICULAS ACESTREAM",El monte (2022) Web dl Hd 1080p [6.6*]
+acestream://d5e80350ed1d765f39dec9777ab0327f5cd7be51
 #EXTINF:-1 tvg-id="El pico del diablo(2023) BR1080" tvg-name="El pico del diablo(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El pico del diablo(2023) BR1080
 acestream://001b58054e838d4a2063210a0539bc5fde071444
 #EXTINF:-1 tvg-id="El rapto (2023)" tvg-name="El rapto (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El rapto (2023)
@@ -139,10 +79,16 @@ acestream://56c1256eff9e2108afd682d37dbe6a2d471e9a77
 acestream://25340a60559a26438554436d6565643e8ae34d9e
 #EXTINF:-1 tvg-id="Elemental(2023)" tvg-name="Elemental(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Elemental(2023)
 acestream://cf4a58cc584846472c2b9323d7e195839108282b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elena sabe (2023) Web dl Hd 1080p [8.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qs0MPcYRZ9HimnO1OoDnl7e89Iv.jpg" group-title="PELICULAS ACESTREAM",Elena sabe (2023) Web dl Hd 1080p [8.0*]
+acestream://89f1c0fd72ed79689c6ae17e3e0b8da81838672d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elf Me (2023) BluRay 1080Rip [5.9]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yiNwznQaK8oJRXvYxsm95vsvYC.jpg" group-title="PELICULAS ACESTREAM",Elf Me (2023) BluRay 1080Rip [5.9]
+acestream://23fe5f30d408c3c2293186dc709d90905f08e743
 #EXTINF:-1 tvg-id="els encantats - Los encantados (2023)" tvg-name="els encantats - Los encantados (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",els encantats - Los encantados (2023)
 acestream://6bb3e5066eb075d0f9e4aa4c8f87d8bc37c1c222
 #EXTINF:-1 tvg-id="En caída libre(2022)" tvg-name="En caída libre (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",En caída libre (2022)
 acestream://a95589b801e37805961c0f1e9df9a367912a7468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Escuadron de elite 2 (2023) BluRay Rip [6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg" group-title="PELICULAS ACESTREAM",Escuadron de elite 2 (2023) BluRay Rip [6.3*]
+acestream://95f1fe212134c2e21455041031d9ef297187e4a6
 #EXTINF:-1 tvg-id="Esto va a doler(2023)" tvg-name="Esto va a doler(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Esto va a doler(2023)
 acestream://7d7278e42203723628902b175259723aa7f925e4
 #EXTINF:-1 tvg-id="Fast And Furious X(2023) BR1080" tvg-name="Fast And Furious X(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Fast And Furious X(2023) BR1080
@@ -155,12 +101,18 @@ acestream://79fcf23d854d2fff533b0547c1c85937d8f16ccd
 acestream://4fba20308229e49ad4aaff59ed05f0715503f171
 #EXTINF:-1 tvg-id="Frente a frente(2023) BR1080" tvg-name="Frente a frente(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Frente a frente(2023) BR1080
 acestream://53f65f8dffec4a85bea44e32c2721ece5ae06bc7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galaxy Games (2023) BluRay 720pRip [4.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg" group-title="PELICULAS ACESTREAM",Galaxy Games (2023) BluRay 720pRip [4.0]
+acestream://84228a3d80c96a716730cfcda5af52d5ca61271c
 #EXTINF:-1 tvg-id="Gran Turismo (2023)" tvg-name="Gran Turismo (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Gran Turismo (2023)
 acestream://2cd8adbb223decd5ef14a0aaf256c4c059072643
 #EXTINF:-1 tvg-id="Guerra de diamantes (2023)" tvg-name="Guerra de diamantes (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Guerra de diamantes (2023)
 acestream://8d1c0e7e4c4ef6f2887e90adbc54fc9088f0b076
 #EXTINF:-1 tvg-id="Hermana muerte (2023)" tvg-name="Hermana muerte (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Hermana muerte (2023)
 acestream://8bd3010b192c88b5fdcfc48d903f5106da41ef50
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hijos de los talibanes (2023) BluRay 720p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7Hd7tYP7FoxI9uIMK4DOuNfCqv.jpg" group-title="PELICULAS ACESTREAM",Hijos de los talibanes (2023) BluRay 720p [6.0*]
+acestream://b9de4fc8bf9436149c977830d03bdf365339e90b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Holy Shit! (2022) BluRay 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg" group-title="PELICULAS ACESTREAM",Holy Shit! (2022) BluRay 1080p [6.0*]
+acestream://67feac5d6d9778d4acf049a4bfb9455242012c6b
 #EXTINF:-1 tvg-id="Insidius la puerta roja (2023)" tvg-name="Insidius la puerta roja (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Insidius la puerta roja (2023)
 acestream://4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde
 #EXTINF:-1 tvg-id="La fortaleza (2023)" tvg-name="La fortaleza (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La fortaleza (2023)
@@ -193,12 +145,16 @@ acestream://8aa9f1c1e5a3b7591d21f9f07590bfdd454324f2
 acestream://f45390c402a72d66ef6f2083edf339173699d383
 #EXTINF:-1 tvg-id="Lego Marvel Avengers lego(2023)" tvg-name="Lego Marvel Avengers lego(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Lego Marvel Avengers lego(2023)
 acestream://6205277bd67a5a0a3b690cf7cdebac872e1818f4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leo (2023) Web dl Hd 1080p [7.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg" group-title="PELICULAS ACESTREAM",Leo (2023) Web dl Hd 1080p [7.9*]
+acestream://64a775174a004be49b6a77848880c2fa6721edbe
 #EXTINF:-1 tvg-id="León por un día (2023)" tvg-name="León por un día (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",León por un día (2023)
 acestream://57c96618438d0b53a42ec257701875882f7ff7ba
 #EXTINF:-1 tvg-id="Lincessa; Los silencios del bosque(2023) BR1080" tvg-name="Lincessa; Los silencios del bosque(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Lincessa; Los silencios del bosque(2023) BR1080
 acestream://92cf4aa6728d752e953ba13e7f884203630672fb
 #EXTINF:-1 tvg-id="Liuben (2023)" tvg-name="Liuben (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Liuben (2023)
 acestream://7b5daa3560518dfea8c36c8828b01748e162e54d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los alienígenas (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg" group-title="PELICULAS ACESTREAM",Los alienígenas (2023) BluRay 1080p [5.0*]
+acestream://0923a408b434e4b99f6fdfd1d8b6ff13a2fe30dd
 #EXTINF:-1 tvg-id="Los olvidados cicatrices(2023) BR1080" tvg-name="Los olvidados cicatrices BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Los olvidados cicatrices BR1080
 acestream://a6588e38cff59fe20c84743c2470ab1a7eff6f14
 #EXTINF:-1 tvg-id="Mansión encantada (2023)" tvg-name="Mansión encantada (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mansión encantada (2023)
@@ -219,6 +175,10 @@ acestream://a3b30ef1fb265c048faa2cbb50d3ebdef6b0d88c
 acestream://7f647a1500ffe934cd6376865f66e020b1fefda2
 #EXTINF:-1 tvg-id="Medusa Deluxe (2023)" tvg-name="Medusa Deluxe (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Medusa Deluxe (2023)
 acestream://e607a945fdb29ff6e69ec9268df6ce530c5fad11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mejor Navidad imposible (2023) BluRay 720pRip [5.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg" group-title="PELICULAS ACESTREAM",Mejor Navidad imposible (2023) BluRay 720pRip [5.5]
+acestream://c2e1155c0094857650af5aca085db13f33aaf4ab
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Menuda Nochebuena  (2023) BluRay 1080Rip [9.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="PELICULAS ACESTREAM",Menuda Nochebuena  (2023) BluRay 1080Rip [9.5]
+acestream://87372791a47be56459ea72597fbd0930e6f0d521
 #EXTINF:-1 tvg-id="Mi crimen (2023)" tvg-name="Mi crimen (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mi crimen (2023)
 acestream://372abb4323a78318aea8ff841d36cff2c1ae6d27
 #EXTINF:-1 tvg-id="Mi hermano pequeño (2023)" tvg-name="Mi hermano pequeño (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mi hermano pequeño (2023)
@@ -231,24 +191,36 @@ acestream://35c7f39fa7c8b68984f543ea54d656be62a8700e
 acestream://12417552baf65e29cea20d2dd390f8e75652db9c
 #EXTINF:-1 tvg-id="Niyad (2023)" tvg-name="Niyad(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Niyad(2023)
 acestream://ffd998fe601417d32e8dfffcbf22f8de15c4bfbb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Name and Dynamite (2023) BluRay 720pRip [5.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg" group-title="PELICULAS ACESTREAM",No Name and Dynamite (2023) BluRay 720pRip [5.5]
+acestream://72091ca42b1d51f9db219c8998daf94317551002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No tengas miedo (2023) BluRay 1080p [6.8*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZOAe88qvgYBQYVbTdDGEbvm3s4.jpg" group-title="PELICULAS ACESTREAM",No tengas miedo (2023) BluRay 1080p [6.8*]
+acestream://6db9cdf3f5161df38c106500d24eb096dea68c87
 #EXTINF:-1 tvg-id="Noviembre(2023) BR1080" tvg-name="Noviembre(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Noviembre(2023) BR1080
 acestream://924d6225856d0dad120b7c9d14e6bbef664aa311
 #EXTINF:-1 tvg-id="Nuestros hijos  (2023)" tvg-name="Nuestros hijos  (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Nuestros hijos  (2023)
 acestream://f34337fe7cc68d187642bcb39ddc205b024da348
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nuevos ricos (2023) BluRay 720pRip [7.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg" group-title="PELICULAS ACESTREAM",Nuevos ricos (2023) BluRay 720pRip [7.5]
+acestream://2daf95676837c1f533e78ee33baf07c9ec1fdcaa
 #EXTINF:-1 tvg-id="Openheimer (2023)" tvg-name="Openheimer (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Openheimer (2023)
 acestream://f25be9cf261dd77b95c6bfccfcead2ff73053a87
 #EXTINF:-1 tvg-id="Paint(2023) BR1080" tvg-name="Paint(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Paint(2023) BR1080
 acestream://d2e2843e07fbb99dc36585f7b01c5167be1dbbab
 #EXTINF:-1 tvg-id="Para entrar a vivir (2023)" tvg-name="Para entrar a vivir (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Para entrar a vivir (2023)
 acestream://060fc64b8b1a89e0f28031d6493f937d4b8039d9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pasión oculta (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="PELICULAS ACESTREAM",pasión oculta (2023) BluRay 1080p [5.0*]
+acestream://5c1a0016b592172353b967e7df1423d775bb38eb
 #EXTINF:-1 tvg-id="Quedate a mi lado (2023)" tvg-name="Quedate a mi lado (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Quedate a mi lado (2023)
 acestream://440fb31d81a33b8bba9a94b54b35b1c73b2da027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rally Road Racers (2023) BluRay 720p [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQ7XcEOIktQuixSrOyrLCsAE5UT.jpg" group-title="PELICULAS ACESTREAM",Rally Road Racers (2023) BluRay 720p [7.6*]
+acestream://573ed22e3329283b72c87866d6b913ef8f9fcbe7
 #EXTINF:-1 tvg-id="Rebel (2023)" tvg-name="Rebel (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Rebel (2023)
 acestream://b9fecfe8397c0b6c682eed876a3368fe82530528
 #EXTINF:-1 tvg-id="Replicantes(2023)" tvg-name="Replicantes(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Replicantes(2023)
 acestream://91ced1fcd76f2c3fbeae85db7ce00c9557dd63ee
 #EXTINF:-1 tvg-id="Rojo blanco y sangre(2023)" tvg-name="Rojo blanco y sangre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Rojo blanco y sangre(2023)
 acestream://1807ae98aa8bf87234337bada2142516a7bff055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rustin (2023) BluRay 720pRip [5.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="PELICULAS ACESTREAM",Rustin (2023) BluRay 720pRip [5.5]
+acestream://1ba825adc58c7741fb22e6d82220df4faec709a2
 #EXTINF:-1 tvg-id="Sabotaje (2023)" tvg-name="Sabotaje (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sabotaje (2023)
 acestream://5d72577ab584472a8e29584c418e33f773549ee3
 #EXTINF:-1 tvg-id="Sanctuary (2022)" tvg-name="Sanctuary (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sanctuary (2022)
@@ -269,14 +241,20 @@ acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11
 acestream://10a0f5d639a53376a5acfb6bf89d8e0d139a284f
 #EXTINF:-1 tvg-id="Suburbanos 2 (2023)" tvg-name="Suburbanos 2 (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Suburbanos 2 (2023)
 acestream://4fc210aaa3dfb5f2f6e546afd42918c07417c7d1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Te esperare en Venus (2023) BluRay 1080Rip [6.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r94waWYiNhXoAuCEWBCf2XEEegx.jpg" group-title="PELICULAS ACESTREAM",Te esperare en Venus (2023) BluRay 1080Rip [6.0]
+acestream://42c0efc443323d57a29338a518dedc4227e54960
 #EXTINF:-1 tvg-id="Temporada de huracanes(2023)" tvg-name="Temporada de huracanes(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Temporada de huracanes(2023)
 acestream://2a16c486dd293d05441cf48a90df5c45ad57b3e7
 #EXTINF:-1 tvg-id="The Baker (2023)" tvg-name="The Baker (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Baker (2023)
 acestream://3617edb51fe373628e008f30c41c96f6da79f74d
 #EXTINF:-1 tvg-id="The blackening (2023)" tvg-name="The blackening (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The blackening (2023)
 acestream://eb1698b9c02d2e1e4c5128cacc44b1adc27097ba
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Creator (2023) BluRay 1080p [7.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg" group-title="PELICULAS ACESTREAM",The Creator (2023) BluRay 1080p [7.1*]
+acestream://323450ef6bcf37554b25600fb9894a1890f72d99
 #EXTINF:-1 tvg-id="The Donor Party(2023) BR1080" tvg-name="The Donor Party(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Donor Party(2023) BR1080
 acestream://8069347e3f5c2cd9abe555c77836a9eaad743a0b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The End of Sex (2023) BluRay 1080p [6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6shiIHV2XjDK5yErHhoeMphwpwP.jpg" group-title="PELICULAS ACESTREAM",The End of Sex (2023) BluRay 1080p [6.2*]
+acestream://07d4260e5818272f5612d9fb19ca7eb650058de7
 #EXTINF:-1 tvg-id="The Equalizer 3 (2023)" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Equalizer 3 (2023)
 acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
 #EXTINF:-1 tvg-id="The lista rienda suelta (2023)" tvg-name="The lista rienda suelta (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The lista rienda suelta (2023)
@@ -297,8 +275,18 @@ acestream://96ee346513b72b444bb979a47dbe9334b4b0fea6
 acestream://96e97be6c053f0e5e5cef2d44aeeae1c3824b04f
 #EXTINF:-1 tvg-id="Tortugas Ninja caos mutante (2023)" tvg-name="Tortugas Ninja caos mutante (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Tortugas Ninja caos mutante (2023)
 acestream://7934601042e00bfccaedb8e9c8778217ee5afc76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="traidor (2022) Web dl Hd 1080p [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umUBV45gHK2SHMO82YwzSLBOQtI.jpg" group-title="PELICULAS ACESTREAM",traidor (2022) Web dl Hd 1080p [7.6*]
+acestream://0150393e6594552c43c90fcc4ab6dc07d73c0781
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tripped Up (2023) BluRay 720p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg" group-title="PELICULAS ACESTREAM",Tripped Up (2023) BluRay 720p [6.0*]
+acestream://2ef4ee0f6eaa06037e4c1e6a7b9bda639b6398e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultima llamada para Estambul (2023) BluRay 720p [6.8*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHrWqTVds8MQ9j6iJZZ6IiQXbEi.jpg" group-title="PELICULAS ACESTREAM",Ultima llamada para Estambul (2023) BluRay 720p [6.8*]
+acestream://a6766704a591d73f1b3291e1607169f2bc07d51e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultima noche en Milan (2023) BluRay 720pRip [7.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg" group-title="PELICULAS ACESTREAM",Ultima noche en Milan (2023) BluRay 720pRip [7.2]
+acestream://947e6fa6965e3b81deb089bcc69518d1489a5586
 #EXTINF:-1 tvg-id="Una cuestión de honor (2023)" tvg-name="Una cuestión de honor (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Una cuestión de honor (2023)
 acestream://07b803ef5a7b9cd25dcafb2a7d5384f0f92b5676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unica superviviente (2022) BluRay 1080p [6.5*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTzw1ENuMx8bZpmKekIcdFdXwjq.jpg" group-title="PELICULAS ACESTREAM",Unica superviviente (2022) BluRay 1080p [6.5*]
+acestream://091eafaab3b19e7f8d9020064272783df815c326
 #EXTINF:-1 tvg-id="Vacaciones de verano(2023)" tvg-name="Vacaciones de verano(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Vacaciones de verano(2023)
 acestream://43977322de835755594f33b48651b03777be850e
 #EXTINF:-1 tvg-id="Vaya vacaciones (2023)" tvg-name="Vaya vacaciones (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Vaya vacaciones (2023)
@@ -311,9 +299,6 @@ acestream://cb224a951b0441267b1e877c79f15ac612910dc3
 acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
@@ -354,11 +339,6 @@ http://60038679258595408.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595408.ts
 http://60038679258595409.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595409.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
 http://60038679258595410.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595410.ts
-
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL INFO FUTSAL" tvg-logo="http://jhonynn.info:8080/images/dHq9UufO9fO9BxuJmOFBqqW5a6O7vFqhlzof8Vfjvn_DXucIfsdpwS7tqdIHNGDHjVPdOOUdPXjqnpwtiZdf4A.png" group-title="FUTSAL ESPAÑA",CANAL INFO FUTSAL
 http://sevi.2022spn.net:8080/play/SrDcube18-AeJ_GFdF8L_bT9OxZtlCkBTsroxUWGK7c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 1
@@ -387,41 +367,36 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08acPaQwGHOtPmfwksIgkR9s
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08fkDU9GZYbtT_40kGMx7Ggc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 14" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 14
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
-
-#EXTINF:-1 tvg-id="La 1 " tvg-name="La1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT",La1 
+#EXTINF:-1 tvg-id="La 1" tvg-name="La1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT",La1
 acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
-#EXTINF:-1 tvg-id="La 2" tvg-name="La2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2 
+#EXTINF:-1 tvg-id="La 2" tvg-name="La2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2
 acestream://52d3738871536dce27db50f044d3294a4c52253d
 #EXTINF:-1 tvg-id="24 horas" tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="TDT",24 horas
 acestream://2191383ed85d20f5f6759785e14a4aff8a3ab8f4
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="TDT",GOL PLAY
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="TDT",GOL PLAY
 http://relectro.xyz:8080/0A3r0lAdTS/RfAR6aBCcs/212
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
-#EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT", Neox 
+#EXTINF:-1 tvg-id="Neox HD" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
-#EXTINF:-1 tvg-id="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT", Energy
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT",Energy
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
-#EXTINF:0 tvg-id="Mega" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="TDT",MEGA 
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="TDT",MEGA
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="TDT", Telecinco
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="TDT",Telecinco
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68748
-#EXTINF:-1 tvg-id="la sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
+#EXTINF:-1 tvg-id="la sexta" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31908
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT", Divinity
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
-#EXTINF:-1 tvg-id="Nova" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT", Nova
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT",Nova
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
-#EXTINF:-1 tvg-id="Castilla la Mancha" ch-number="217" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="TDT",Castilla la Mancha
+#EXTINF:-1 tvg-id="Castilla la Mancha" tvg-name="Castilla la Mancha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="TDT",Castilla la Mancha
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
-#EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="TDT", Antena 3
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="TDT",Antena 3
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="TDT", A3Series
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3Series" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="TDT",A3Series
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
-#EXTINF:-1 tvg-id="Cuatro"tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="TDT", Cuatro
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="TDT",Cuatro
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
-
-
 #EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="CANAL HISTORIA",Historia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="CANAL HISTORIA",Nat Geo Wild
@@ -430,7 +405,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 acestream://08fc2ddc0b95776368901b22a506fa22a8ff9fe2
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" group-title="CANAL HISTORIA",Odisea
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV",Los padrinos mágicos
 https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
 #EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="PLUTO TV",MTV Vergüenza ajena
@@ -673,8 +647,6 @@ https://i.mjh.nz/PlutoTV/5f1aa7aab66c76000790ee7e-alt.m3u8
 https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="PLUTO TV",iCarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Flooxer" tvg-logo="https://pbs.twimg.com/media/FCGmOQ4VgAoTJCI.jpg" group-title="AtresPlayer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Comedia atresplayer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="AtresPlayer",Comedia atresplayer
@@ -683,119 +655,110 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATRESplayer PREMIUM" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="AtresPlayer",ATRESplayer PREMIUM
 https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 1 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 1 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 2 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 2 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 2 PT
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 3 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 3 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 3 PT
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 4 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 4 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 4 PT
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 5 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 5 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 5 PT
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 6 PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 6 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 6 PT
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 1  PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Sport Tv 1  PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 1  PT
 acestream://314eb626864faf52e01624361bd6906b5406127f
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 2  PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Sport Tv 2  PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 2  PT
 acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 3  PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Sport Tv 3  PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 3  PT
 acestream://3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 4  PT
+#EXTINF:-1 tvg-id="ext" tvg-name="Sport Tv 4  PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Sport Tv 4  PT
 acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
-
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="ACESTREAM EUROSPORT(ES)",Eurosport1 Tv ES
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport1 Tv ES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="ACESTREAM EUROSPORT(ES)",Eurosport1 Tv ES
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="ACESTREAM EUROSPORT(ES)",Eurosport2 Tv ES
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport2 Tv ES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="ACESTREAM EUROSPORT(ES)",Eurosport2 Tv ES
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Deluxe music(de)
+#EXTINF:-1 tvg-id="ext" tvg-name="Deluxe music(de)" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Deluxe music(de)
 acestream://da8c0764bea30d7fe2321383292bb33ff04a5ede
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Euro indi music chartv
+#EXTINF:-1 tvg-id="ext" tvg-name="Euro indi music chartv" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Euro indi music chartv
 acestream://dc970c1133aed0cd20170a905e0dcea3ec82f228
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Pulsat music(pl)
+#EXTINF:-1 tvg-id="ext" tvg-name="Pulsat music(pl)" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Pulsat music(pl)
 acestream://f67af123e7b9dd22da6c4de215f40de4d03cdbb2
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Qmusic
+#EXTINF:-1 tvg-id="ext" tvg-name="Qmusic" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Qmusic
 acestream://743a5bd65718220b0adb51aa6b57ddc7cae77274
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Q-music
+#EXTINF:-1 tvg-id="ext" tvg-name="Q-music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Q-music
 acestream://f65b37adac21933813197366c8328f054a1b1c12
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Reload radio music
+#EXTINF:-1 tvg-id="ext" tvg-name="Reload radio music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Reload radio music
 acestream://81c141b641a45671b9fea1d783ded7abdc4e0476
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Marutam music
+#EXTINF:-1 tvg-id="ext" tvg-name="Marutam music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Marutam music
 acestream://d6e13d5e676e268e0bc333ac3c097c8434de9094
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Arabic music
+#EXTINF:-1 tvg-id="ext" tvg-name="Arabic music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Arabic music
 acestream://6c581c940657e1006e77d598d12e065ed2e605b2
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",MTV music(pl)
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV music(pl)" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",MTV music(pl)
 acestream://a287c95095dd80b0182d71e414669b314ba805d1
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",alb music
+#EXTINF:-1 tvg-id="ext" tvg-name="alb music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",alb music
 acestream://97dfaa491f4257ece0d4836925da18290e4284f3
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",C music tv(ru)
+#EXTINF:-1 tvg-id="ext" tvg-name="C music tv(ru)" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",C music tv(ru)
 acestream://635159bee85b23dd079e505fe5842b34eb124203
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Ecko exprés music
+#EXTINF:-1 tvg-id="ext" tvg-name="Ecko exprés music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Ecko exprés music
 acestream://4cc775a1ce2f424aff6f1af689ac1735d70f5e74
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",1muz
+#EXTINF:-1 tvg-id="ext" tvg-name="1muz" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",1muz
 acestream://08010766709253de102bd4f39ebe44f149f1eda9
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",retro music
+#EXTINF:-1 tvg-id="ext" tvg-name="retro music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",retro music
 acestream://96159b4435121993ff44e03838c5cbff170af4b4
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",tv mola
+#EXTINF:-1 tvg-id="ext" tvg-name="tv mola" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",tv mola
 acestream://197c8765a77003a5fc3164b6c9cdbd04a13f75cd
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
+#EXTINF:-1 tvg-id="ext" tvg-name="Alcarria tv" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ACESTREAM AUTONOMICOS",TV galicia
+#EXTINF:-1 tvg-id="ext" tvg-name="TV galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ACESTREAM AUTONOMICOS",TV galicia
 acestream://75ba0f10b9cccd7e0846e9ed95c80d5fd3289742
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/28-Kanala-en-DIRECTO-Online-.png" group-title="ACESTREAM AUTONOMICOS",kanala tv
+#EXTINF:-1 tvg-id="ext" tvg-name="kanala tv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/28-Kanala-en-DIRECTO-Online-.png" group-title="ACESTREAM AUTONOMICOS",kanala tv
 acestream://fd6f24a070303cf107479f751d3ec45afac262a1
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://pbs.twimg.com/media/Ebbc9VFXYAENa5o.jpg:large" group-title="ACESTREAM AUTONOMICOS",telabista
+#EXTINF:-1 tvg-id="ext" tvg-name="telabista" tvg-logo="https://pbs.twimg.com/media/Ebbc9VFXYAENa5o.jpg:large" group-title="ACESTREAM AUTONOMICOS",telabista
 acestream://4ea2a263efd31a479541850bec0c148f0e266322
 #EXTINF:-1 tvg-id="canal malaga" tvg-name="canal malaga" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uksr3vhttzzx.png" group-title="ACESTREAM AUTONOMICOS",canal malaga
 acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
 #EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="https://pbs.twimg.com/profile_images/1715388786836721664/S_WDM8eV_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",PTV sevilla
 acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
-
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 1 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 2 FR
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 2 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 2 FR
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 3 FR
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 3 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 3 FR
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Eleven TR Sport IT
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven TR Sport IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Eleven TR Sport IT
 acestream://154d111a97b7b18d1f64e9ae697c33c479d01e32
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",TeleSud Trapani IT
+#EXTINF:-1 tvg-id="ext" tvg-name="TeleSud Trapani IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",TeleSud Trapani IT
 acestream://8ec948677da521da7bb238c0b1968a899edb797d
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Videolina IT
+#EXTINF:-1 tvg-id="ext" tvg-name="Videolina IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Videolina IT
 acestream://277503b17daeb2bbea26bfe27dc9ffc33c0cb251
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7 .it IT
+#EXTINF:-1 tvg-id="ext" tvg-name="La7 .it IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7 .it IT
 acestream://48e0f30ccda711ff2894cbc52c6df89ffd05fe22
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
+#EXTINF:-1 tvg-id="ext" tvg-name="ReteVeneta IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
 acestream://70ba597a6e0f4c6a5868331b11cea6e459ac9f22
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7d .it IT
+#EXTINF:-1 tvg-id="ext" tvg-name="La7d .it IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",La7d .it IT
 acestream://f910f4c0374a08379c464c1db49028308557c0eb
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
+#EXTINF:-1 tvg-id="ext" tvg-name="ReteVeneta IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",ReteVeneta IT
 acestream://d2e92dfad22b8258187f622b834b9acedc1e443f
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RTC TeleCalabria IT
+#EXTINF:-1 tvg-id="ext" tvg-name="RTC TeleCalabria IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RTC TeleCalabria IT
 acestream://735d268177573df80bcadf0a4defebae9811db2f
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RAI 3 IT
+#EXTINF:-1 tvg-id="ext" tvg-name="RAI 3 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",RAI 3 IT
 acestream://bbbcbec1b2538fc069f19434185961b1e93ea833
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV Sport IT
+#EXTINF:-1 tvg-id="ext" tvg-name="San Marino RTV Sport IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV Sport IT
 acestream://753f25945102655dd6fcf856f32695005c912d69
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV HD IT
+#EXTINF:-1 tvg-id="ext" tvg-name="San Marino RTV HD IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",San Marino RTV HD IT
 acestream://2016e4b3d77149097b6d842df07b7a364c823b9b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",teleMonteneve IT
+#EXTINF:-1 tvg-id="ext" tvg-name="teleMonteneve IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",teleMonteneve IT
 acestream://af8ea343635dcf9eca32567d32faacc76023a847
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Italia 2 TV IT
+#EXTINF:-1 tvg-id="ext" tvg-name="Italia 2 TV IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Italia 2 TV IT
 acestream://3bf85216745a2a4577f2226628301fded74287bf
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Canale 7 IT
+#EXTINF:-1 tvg-id="ext" tvg-name="Canale 7 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Canale 7 IT
 acestream://8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Milano Pavia TV IT
+#EXTINF:-1 tvg-id="ext" tvg-name="Milano Pavia TV IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",Milano Pavia TV IT
 acestream://0969a38e2b12d718f09e88e0925aed88f24a957b
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",UniNettuno University TV IT
+#EXTINF:-1 tvg-id="ext" tvg-name="UniNettuno University TV IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM IT",UniNettuno University TV IT
 acestream://4e17bac6b2decc70fd7bd704ce7013072fefd1f0
-
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK  eab7" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" group-title="DEPORTES ACESTREAM UK",Sky Sports Main Event UK  eab7
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League UK  ec5e" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",Sky Sports Premier League UK  ec5e
@@ -814,19 +777,16 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="TNT Sports 4 UK  fc50" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="DEPORTES ACESTREAM UK",TNT Sports 4 UK  fc50
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",ESPN HD US
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",ESPN HD US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",ESPN 2 HD US
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",ESPN 2 HD US
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",FOX Sports 1 HD US
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",FOX Sports 1 HD US
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",FOX Sports 2 HD US
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2 HD US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",FOX Sports 2 HD US
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",NBA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM USA",NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Pelis Top" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png" group-title="RAKUTEN TV",Pelis Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=1b9d2488-61ef-4b04-b6c3-4ad6168
 #EXTINF:-1 tvg-id="ext" tvg-name="Acción" tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="RAKUTEN TV",Acción
@@ -927,14 +887,12 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcou
 #EXTINF:-1 tvg-id="toros(solo eventos)" tvg-name="toros(solo eventos)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="TOROS ACESTREAM",toros(solo eventos)
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
-
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc(uk)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc(uk)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc2(ru)
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc3(ru)
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc2(ru)
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
-
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD ep  c021" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 UHD ep  c021
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Multicámara  9686" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 Multicámara  9686
@@ -1091,8 +1049,6 @@ acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
 acestream://446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name="LaLiga Hypermotion 8  4d52" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" group-title="M+ LaLiga Hypermotion",LaLiga Hypermotion 8  4d52
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-
-
 #EXTINF:-1 tvg-id="I216.32281.zap2it.com" tvg-name="NBA TV  e72d" tvg-logo="https://i.imgur.com/4QrPlos.png" group-title="Otros deportes",NBA TV  e72d
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US  4b49" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Otros deportes",ESPN US  4b49
@@ -1125,13 +1081,9 @@ acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="beIN SPORTS ñ  41af" tvg-logo="https://i.imgur.com/XcjYBfj.png" group-title="Otros deportes",beIN SPORTS ñ  41af
 acestream://41af6926a6010b68ba2540975761436bb077748f
-
-
-#EXTINF:-1 tvg-id="M+ Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf 
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="M+ Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="ACESTREAM GOLF",M+ Golf
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="M+ Golf(POR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf(POR)
+#EXTINF:-1 tvg-id="M+ Golf(POR)" tvg-name="M+ Golf(POR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="ACESTREAM GOLF",M+ Golf(POR)
 acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
-#EXTINF:-1 tvg-id="M+ Golf(BEL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="ACESTREAM GOLF",M+ Golf(BEL)
+#EXTINF:-1 tvg-id="M+ Golf(BEL)" tvg-name="M+ Golf(BEL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="ACESTREAM GOLF",M+ Golf(BEL)
 acestream://035e34b791335962ca817f42fd14300382af3797
-
-
