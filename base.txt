@@ -739,6 +739,8 @@ acestream://4cc775a1ce2f424aff6f1af689ac1735d70f5e74
 acestream://08010766709253de102bd4f39ebe44f149f1eda9
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",retro music
 acestream://96159b4435121993ff44e03838c5cbff170af4b4
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",tv mola
+acestream://197c8765a77003a5fc3164b6c9cdbd04a13f75cd
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
