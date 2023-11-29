@@ -840,7 +840,7 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc2(ru)
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC ACESTREAM",ufc3(ru)
-acestream://acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
+acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD ep  c021" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 UHD ep  c021
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
