@@ -648,6 +648,16 @@ acestream://d6e13d5e676e268e0bc333ac3c097c8434de9094
 acestream://6c581c940657e1006e77d598d12e065ed2e605b2
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",MTV music(pl)
 acestream://a287c95095dd80b0182d71e414669b314ba805d1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",alb music
+acestream://97dfaa491f4257ece0d4836925da18290e4284f3
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",C music tv(ru)
+acestream://635159bee85b23dd079e505fe5842b34eb124203
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Ecko exprés music
+acestream://4cc775a1ce2f424aff6f1af689ac1735d70f5e74
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",1muz
+acestream://08010766709253de102bd4f39ebe44f149f1eda9
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",retro music
+acestream://96159b4435121993ff44e03838c5cbff170af4b4
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
