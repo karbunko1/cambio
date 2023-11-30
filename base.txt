@@ -1,169 +1,10 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml , https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz"
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg" group-title="PELICULAS ACESTREAM",Los alienigenas han abducido a mis padres (2023) BluRay 1080Rip [5.0]
-acestream://0923a408b434e4b99f6fdfd1d8b6ff13a2fe30dd
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jtHkKhkA4kioi4km8uPql5G7WH.jpg" group-title="PELICULAS ACESTREAM",Unica superviviente (2023) BluRay 1080Rip [6.5]
-acestream://091eafaab3b19e7f8d9020064272783df815c326
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg" group-title="PELICULAS ACESTREAM",The Creator (2023) BluRay 1080Rip [7.1]
-acestream://323450ef6bcf37554b25600fb9894a1890f72d99
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="PELICULAS ACESTREAM",Tiroteo en Rio Bravo (2023) BluRay 1080Rip [5.0]
-acestream://4874c434913f468446365d9365a0e7cbdf778894
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRJ8gn4lapIhQhZDy1222CWCztc.jpg" group-title="PELICULAS ACESTREAM",Down Low  (2023) BluRay Rip [4.3]
-acestream://ee2835f5fd3997bc92755ace039f5d45f605f819
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg" group-title="PELICULAS ACESTREAM",Te estoy amando locamente (2023) BluRay 1080Rip [8.3]
-acestream://e635611bf2b88b0f68a140b6e07914495b3a2ee9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]
-acestream://a7288beef425acf4d69f3fd0901d869bfbd2360d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvmCPv4Zqu7BAdEOGEFeJWBOt3l.jpg" group-title="PELICULAS ACESTREAM",Una cuestion de honor (2023) BluRay 720pRip [6.5]
-acestream://ef76d76959588b0fa76be503dd10f8cc6f8a7563
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l8KLNlcyAlr1ihB4rvhj9uhTn0f.jpg" group-title="PELICULAS ACESTREAM",Perejil (2022) Web dl Hd 1080p [6.3*]
-acestream://e04acc11f70a0fb5569d2f6596b5ac40d6351560
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htO8iLp0dN8a2pHGVim9VhSKDeX.jpg" group-title="PELICULAS ACESTREAM",El rapto (2023) Web dl Hd 1080p [7.6*]
-acestream://2a1b4c7a4a31e44cff6306252cd3451140885207
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zR7i3UbafSGUbt67aDsvnpOQ52n.jpg" group-title="PELICULAS ACESTREAM",Asesinato en Finisterre (2023) BluRay Rip [6.3*]
-acestream://1d62047fafeeadad9c9f9cf6e289859b7ab9f7fd
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWDWmO9PrwwrlAjm8tIT2NsPU5o.jpg" group-title="PELICULAS ACESTREAM",Una cuestión de honor (2023) Web dl Hd 1080p [6.6*]
-acestream://07b803ef5a7b9cd25dcafb2a7d5384f0f92b5676
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcQBZhO1ZYKyQTELLS3UI41uytt.jpg" group-title="PELICULAS ACESTREAM",El asesino (2023) Web dl Hd 1080p [7.3*]
-acestream://1f4e295c76c2cfd6d940ad11ed29208896907b28
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Uo4Fu0Tw78bkPvVUv7Bh3jpBcf.jpg" group-title="PELICULAS ACESTREAM",Sabotaje (2023) Web dl Hd 1080p [6.6*]
-acestream://5d72577ab584472a8e29584c418e33f773549ee3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x83FFyGGux31l7OiF9NZHeq6ZWv.jpg" group-title="PELICULAS ACESTREAM",Mafia Mamma (2023) Web dl Hd 1080p [6.3*]
-acestream://a31bca511c849b73e1fa27eb580702672e127c1a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg" group-title="PELICULAS ACESTREAM",The Baker (2023) Web dl Hd 1080p [6.6*]
-acestream://3617edb51fe373628e008f30c41c96f6da79f74d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="PELICULAS ACESTREAM",Oppenheimer (2023) BluRay 1080Rip [8.2]
-acestream://088234cdaf8864e2016ca0eb2ba5c16078aead96
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n3oV6065tgYpukAjLxSbWcfqdg9.jpg" group-title="PELICULAS ACESTREAM",Todas somos Jane (2023) BluRay 1080Rip [6.6]
-acestream://f904f27cfae23a67073fe9832db407180e179f6
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" group-title="PELICULAS ACESTREAM",Umma (2023) BluRay 1080Rip [5.4]
-acestream://47d6ac1a0caef9016ab710f5bbb11f614183df12
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg",Esto va a doler (2023) BluRay 1080Rip [6.1]
-acestream://00a391355f5834f57de713504ddfc3aa823dc70d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwW55nvF6BPVVeHDqbWHJXKCDZK.jpg" group-title="PELICULAS ACESTREAM",Allelujah (2023) BluRay 720pRip [5.9]
-acestream://26022685d038c612e245106af5111fc18dc76250
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3akN1ey6teitHO58q7i011i5mLJ.jpg" group-title="PELICULAS ACESTREAM",Aisha (2022) Web dl Hd 1080p [7.3*]
-acestream://1ec519926db043151ba8768b88549bb1275e8cb4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg" group-title="PELICULAS ACESTREAM",La ira de Becky (2023) Web dl Hd 1080p [6.7*]
-acestream://aa5f6ef653fc92bd350d4e29e8e074af964c592b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Af6SQL9PMz2scTivtC9WT41oI4o.jpg" group-title="PELICULAS ACESTREAM",El templo (2023) Web dl Hd 1080p [6.1*]
-acestream://25340a60559a26438554436d6565643e8ae34d9e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg" group-title="PELICULAS ACESTREAM",Fuga de prision (2023) BluRay 1080Rip [5.1]
-acestream://c41ac17f9ff9e7557e4fd9f0fde7f0a254faeb5d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lYuZ8yvVuUJsISKY75yt6FIzJFb.jpg" group-title="PELICULAS ACESTREAM",El hombre ciego que no queria ver titanic (2023) BluRay 720pRip [7.2]
-acestream://83ddf99cc2e83cd7d1aa8b7680d5a9c408a1c610
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zKxK1rZ0y3k6SQfRotq0jLMzz2Q.jpg" group-title="PELICULAS ACESTREAM",Cursed Friends (Malditos amigos) (2023) BluRay 720pRip [4.5]
-acestream://e793e212e9a308e1a1f509783fa6d48326787e91
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dk7gsGAqsQVfYsD6kaznXWgypgb.jpg" group-title="PELICULAS ACESTREAM",La quietud en la tormenta (2023) BluRay 720pRip []
-acestream://7fca1565a6d5441658749261f7d9988c13028d96
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hAifrmtS7GWF1vJC6HhgoFDb8Va.jpg" group-title="PELICULAS ACESTREAM",Cronica de una tormenta (2023) BluRay 720pRip [4.5]
-acestream://22fe161444f86abc48997a68609d111138866c40
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3oal7Yw2ZiwBOYLbIjh3M8ZNS85.jpg" group-title="PELICULAS ACESTREAM",Baby Assassins 2 Babies (2023) BluRay 720pRip [6.9]
-acestream://69d24a15f41fde6ef75c9b80d3bce6a23e3d3190
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p9bvhxC5ReA7Fhx65hee6daQXIo.jpg" group-title="PELICULAS ACESTREAM",La uruguaya (2023) Web dl Hd 1080p [6.8]
-acestream://28bb79097a56eb35cdee0ba17ec96ded2a7204fe
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEHsMy4GjgVaUMQ74H9ofQpYobT.jpg" group-title="PELICULAS ACESTREAM",La batalla del dragon (2023) BluRay 1080Rip [6.7]
-acestream://397ee865ac89915821657576379dab75f0639555
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IY1n6UQnjNImEToEDTW924EUAo.jpg" group-title="PELICULAS ACESTREAM",Las Maggie Moore (2023) BluRay 1080Rip [5.6]
-acestream://cb722d42e51eb30d244fb40e221f8e88403da4f3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg" group-title="PELICULAS ACESTREAM",Nyad (2023) BluRay 720pRip [9.0]
-acestream://a3fe783ac69bf50f6961523c3b59e034e89a074e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8w7kbE95X6Qu0dWA1ZULifcbKcQ.jpg" group-title="PELICULAS ACESTREAM",Quiz Lady (2023) BluRay 720pRip [7.4]
-acestream://8432fe089919d565968aa13ae6bc783a531725ef
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnqJLYhdZ6NHPe4I3EwicS52GG0.jpg" group-title="PELICULAS ACESTREAM",Alerta maxima (Decibel) (2023) BluRay 1080Rip [6.8]
-acestream://553bfbcbdb72f9a3194a9a213e28d289b3ea2d2e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gZBTU8atWdtF5vC3WDlXx8qQ67.jpg" group-title="PELICULAS ACESTREAM",El origen del mal (2023) BluRay 1080Rip [6.5]
-acestream://3972dffe9bf926fe20e9979bbcf71edf3e54f021
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="PELICULAS ACESTREAM",Shooting Stars (2023) BluRay 1080Rip [8.1]
-acestream://0e95c3b97b1070f51dd93d6692bf6587cebb0aab
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="PELICULAS ACESTREAM",Nuovo Olimpo (2023) BluRay 720pRip [7.1]
-acestream://8e1a6f5d063edfd535d2678c7ebabd2f396c702c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/miPSRVOdCcc59DcLoTQoKdKpvTK.jpg" group-title="PELICULAS ACESTREAM",Ladronas (2023) BluRay 720pRip [5.9]
-acestream://d0a1f9f5128f640326e3860c0d7572f00d1feac8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg",Encierro (2023) BluRay 720pRip [6.6]
-acestream://01012465250e34c0197bed7297eb4b065b8e825d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDskIhzLfZc8SB4ybkcWOgmI98M.jpg" group-title="PELICULAS ACESTREAM",La posesion de Agnes (2023) BluRay 1080Rip [4.1]
-acestream://7eb323440fc93efa1367b428ccd47de450454ff9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VUMLlyosoG77v2CNSa2LsKN4BR.jpg",Skinamarink (2023) Web dl Hd 1080p [6.0*]
-acestream://0b214f6f502161b29077aa21ca847a452ac4e34c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tshEIrdYNHQYubiiRz8mRZR6KQA.jpg" group-title="PELICULAS ACESTREAM",Mal de ojo (2022) BluRay Rip [6.8*]
-acestream://198934e280d93cbdd94eb8ea8a5ffd5f3ece4544
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6ZjUt2rigreV0ENiEXTTOFTkUD.jpg" group-title="PELICULAS ACESTREAM",La posesion de Agnes (2021) Web dl Hd 1080p [.*]
-acestream://075f40bd1af36673a6c9f8b98fe4c79fa5c3a7ad
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8b7Gv9oCCwAel74pt5fiM5opvvI.jpg" group-title="PELICULAS ACESTREAM",Buenos Aires BZ (2023) BluRay Rip [.*]
-acestream://07be69407a4a4c0ce85555e28d80c1706553c6a6
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg" group-title="PELICULAS ACESTREAM",La superpelicula (2023) Web dl Hd 1080p [7.0*]
-acestream://66bb6e0b66017547e112cf36c66b42b44df54e96
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg" group-title="PELICULAS ACESTREAM",Fuga (2023) Web dl Hd 1080p [.*]
-acestream://c4f5670ad8876a35a317340a1c965cafd108eeb1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Ly4S99McgnhO50XikTGguPFNvo.jpg" group-title="PELICULAS ACESTREAM",Cuando acecha la maldad (2023) BluRay Rip [7.6*]
-acestream://afd39c6f527c04ce80f2a7fddb6b7bfc839b1c11
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ba3Kw9isyWvu6cupzUagm8ejw2.jpg" group-title="PELICULAS ACESTREAM",LEGO Marvel Avengers (2023) Web dl Hd 1080p [7.2*]
-acestream://6205277bd67a5a0a3b690cf7cdebac872e1818f4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg" group-title="PELICULAS ACESTREAM",Misterio en Venecia (2023) BluRay 1080Rip [6.8]
-acestream://4653278b16a10789237941d569b8e38ffa434e94
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg" group-title="PELICULAS ACESTREAM",Breakout  (2023) BluRay 720pRip [3.3]
-acestream://bff9fc575db0d5f75a85d77854fb64ba63a01b66
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p9bvhxC5ReA7Fhx65hee6daQXIo.jpg" group-title="PELICULAS ACESTREAM",La uruguaya (2023) Web dl Hd 1080p [6.8*]
-acestream://28bb79097a56eb35cdee0ba17ec96ded2a7204fe
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAU8CSAY5aCS91dSD5oky5TZcJU.jpg" group-title="PELICULAS ACESTREAM",Ruby, aventuras de una kraken adolescente (2023) Web dl Hd 1080p [7.6*]
-acestream://c36549faf408940e1a2d673767260f11d44ff711
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1AY8sq3hy9ezjY1t7GekJGZXbN8.jpg" group-title="PELICULAS ACESTREAM",El primer dia de mi vida  (2023) BluRay 1080Rip [6.7]
-acestream://e6e11d5c4adda9821d725c155d36e55880a8e370
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg" group-title="PELICULAS ACESTREAM",Estas ahi Dios Soy yo Margaret  (2023) BluRay 720pRip [7.3]
-acestream://878a20c73f44d2d1ddd0268efe17d0b0b15389d8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg" group-title="PELICULAS ACESTREAM",Reposo absoluto (2023) BluRay 1080Rip [6.4]
-acestream://bc93cf6595b83a2d94c3d523a1f7475483913141
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etvK8ni1adjXU8obDpdUxTTQT6n.jpg" group-title="PELICULAS ACESTREAM",Vesper (2023) BluRay 1080Rip [6.5]
-acestream://37117441e259bbdb8ffc3a73bef0ae284fd7faf8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg" group-title="PELICULAS ACESTREAM",El negocio del dolor (2023) BluRay Rip [6.1]
-acestream://bd34a552d7ee908a35c2985edd346fa5857d8140
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg" group-title="PELICULAS ACESTREAM",Hermana muerte (2023) BluRay Rip [6.4]
-acestream://70bb66092bf124f9fdd96cf347574cc14131b243
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBiQ91DoP6JutoU3R4mfvYXLuVv.jpg" group-title="PELICULAS ACESTREAM",The Barn Part II (2023) BluRay 1080Rip [4.4]
-acestream://be93af9982b942b4d55534f69de353b95df05c2b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNELmFbm2vHUVEXKsmXUiygAbb3.jpg" group-title="PELICULAS ACESTREAM",Sinceramente tuyo (2023) BluRay 1080Rip [6.5]
-acestream://d887df57eddfc7e209408528b6932fe745e94061
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg" group-title="PELICULAS ACESTREAM",El lado dulce de la traicion  (2023) BluRay 720pRip [7.0]
-acestream://cd61159abc1d6e55bacd064bcb1bd99396a4246a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfYlCWuQgZOKpBx0X2d6PW0IP20.jpg" group-title="PELICULAS ACESTREAM",La doncella (Sluzka) (2023) BluRay 720pRip [8.0]
-acestream://6c73779298581d316a504b81bf04f193dcab4e56
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="PELICULAS ACESTREAM",The Blackening (2023) Web dl Hd 1080p [6.2*]
-acestream://eb1698b9c02d2e1e4c5128cacc44b1adc27097ba
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8zrzecN98cNYij4hIYmIH4n2cg1.jpg" group-title="PELICULAS ACESTREAM",Código de la Ley (2021) BluRay 1080p [5.3*]
-acestream://04f6b6854b33b34736a5c5daf6901bb9b03191df
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hPLoprqDPXOZ8APWE47lS8bQu2w.jpg" group-title="PELICULAS ACESTREAM",La desconocida (2023) BluRay 720pRip [2.0]
-acestream://e1611d3f0140d54d0f7e1687db2537dec93ab352
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg" group-title="PELICULAS ACESTREAM",La otra Zoey (2023) BluRay 720pRip [7.4]
-acestream://31c2713e11bb9b43f2957d3358945263cefee1ae
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVHRkr7SaZNeSiVW0Sk6VNOKsgJ.jpg" group-title="PELICULAS ACESTREAM",Menina Casilda (2023) BluRay 720pRip []
-acestream://c496afc5eca6536e1ba0dfda22d2c525424ef89e
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhhNWRlNTEtY2ZjNy00NGUzLWJjNDQtOGNlN2M0ODhlMmIyXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM",Nada (Intet)  (2023) BluRay 720pRip []
-acestream://d2b7e10381b6cd3cabab6499ee6065d80023ccbf
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVVvlosgMU6aePXavihV3L3V3D6.jpg" group-title="PELICULAS ACESTREAM",Surrounded (Asediado) (2023) BluRay 720pRip [5.3]
-acestream://df13c9f96ec0f670289defce6cbe922d4b1f8805
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ax1rpxHCcXVwwfn0zSte1udoJwV.jpg" group-title="PELICULAS ACESTREAM",Papas a la antigua (2023) BluRay 720pRip [7.5]
-acestream://27b566c440fcff63366c6519bc6c1c699b127fc3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zj7UYU6PZQtWh4sznRH1LKJp945.jpg" group-title="PELICULAS ACESTREAM",Mi soledad tiene alas (2023) BluRay 720pRip [5.9]
-acestream://3abb3c309bb8c23af72d39474a3ef9fcff031e63
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9c4w9WQCx0UqWDRm8DO7p5WF2s.jpg" group-title="PELICULAS ACESTREAM",De perdidos a Rio (2023) BluRay 720pRip [7.3]
-acestream://34747b32c746674019054ef71a6027acc676730b
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A pesar de todo (2023) BluRay 720pRip []" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" group-title="PELICULAS ACESTREAM",A pesar de todo (2023) BluRay 720pRip []
@@ -174,41 +15,67 @@ acestream://fee9c99f63b53ace201eae16fe5393a2cc798d7b
 acestream://e68d6498fad6775113be5923376f105934fe440b
 #EXTINF:-1 tvg-id="Agente Stone(2023)" tvg-name="Agente Stone(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Agente Stone(2023)
 acestream://58ee1ed5304ec3ade31b258ac5d1dafe79dce59a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aisha (2022) Web dl Hd 1080p [7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3akN1ey6teitHO58q7i011i5mLJ.jpg" group-title="PELICULAS ACESTREAM",Aisha (2022) Web dl Hd 1080p [7.3*]
+acestream://1ec519926db043151ba8768b88549bb1275e8cb4
 #EXTINF:-1 tvg-id="Ajuste de cuentas (Muzzle) (2023)" tvg-name="Ajuste de cuentas (Muzzle) (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Ajuste de cuentas (Muzzle) (2023)
 acestream://64dbfd4791106c4e0d782e32b7606c459bc4a8d1
 #EXTINF:-1 tvg-id="Al servicio del Reich (2023)" tvg-name="Al servicio del Reich (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Al servicio del Reich (2023)
 acestream://41ff1d744d367108c7a21e06dc5e66983a05c8a4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alerta maxima (Decibel) (2023) BluRay 1080Rip [6.8]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnqJLYhdZ6NHPe4I3EwicS52GG0.jpg" group-title="PELICULAS ACESTREAM",Alerta maxima (Decibel) (2023) BluRay 1080Rip [6.8]
+acestream://553bfbcbdb72f9a3194a9a213e28d289b3ea2d2e
 #EXTINF:-1 tvg-id="Allelujah (2023)" tvg-name="Allelujah (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Allelujah (2023)
 acestream://337f8eac2194125e6a884031e569f20ac5a31803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Allelujah (2023) BluRay 720pRip [5.9]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwW55nvF6BPVVeHDqbWHJXKCDZK.jpg" group-title="PELICULAS ACESTREAM",Allelujah (2023) BluRay 720pRip [5.9]
+acestream://26022685d038c612e245106af5111fc18dc76250
 #EXTINF:-1 tvg-id="Amor al cuadrado por siempre (2023)" tvg-name="Amor al cuadrado por siempre (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Amor al cuadrado por siempre (2023)
 acestream://49cdf1cd9e452c3db1fa46eb0895bbca9d3f676d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor en aguas turbulentas (2023) BluRay 720p [7.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" group-title="PELICULAS ACESTREAM",Amor en aguas turbulentas (2023) BluRay 720p [7.0*]
 acestream://5d3bba98f7ac80805f5645865e917520c9b14702
 #EXTINF:-1 tvg-id="Apaches(2023) BR1080" tvg-name="Apaches(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Apaches(2023) BR1080
 acestream://7d4897d55117e5808a1d2cd419f1cad9c69113e7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asesinato en Finisterre (2023) BluRay Rip [6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zR7i3UbafSGUbt67aDsvnpOQ52n.jpg" group-title="PELICULAS ACESTREAM",Asesinato en Finisterre (2023) BluRay Rip [6.3*]
+acestream://1d62047fafeeadad9c9f9cf6e289859b7ab9f7fd
 #EXTINF:-1 tvg-id="Asteroid city (2023)" tvg-name="Asteroid city (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Asteroid city (2023)
 acestream://2f702a2b4aff20f7e542ad281f503ddd9f72c38c
 #EXTINF:-1 tvg-id="Atrapaalmas(2023) BR1080" tvg-name="Atrapaalmas(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Atrapaalmas(2023) BR1080
 acestream://7753ae42b3168b6e846a2a40bb190d7abf7f667a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="aventuras de una kraken adolescente (2023) Web dl Hd 1080p [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAU8CSAY5aCS91dSD5oky5TZcJU.jpg" group-title="PELICULAS ACESTREAM",aventuras de una kraken adolescente (2023) Web dl Hd 1080p [7.6*]
+acestream://c36549faf408940e1a2d673767260f11d44ff711
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby Assassins 2 Babies (2023) BluRay 720pRip [6.9]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3oal7Yw2ZiwBOYLbIjh3M8ZNS85.jpg" group-title="PELICULAS ACESTREAM",Baby Assassins 2 Babies (2023) BluRay 720pRip [6.9]
+acestream://69d24a15f41fde6ef75c9b80d3bce6a23e3d3190
 #EXTINF:-1 tvg-id="Baby Assassins 2(2023)" tvg-name="Baby Assassins 2(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Baby Assassins 2(2023)
 acestream://563b01fd5cc52133a710ffdf38b7c1dc5ac63c26
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Believer 2 (Dokjeon 2) (2023) BluRay 720pRip [7.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="PELICULAS ACESTREAM",Believer 2 (Dokjeon 2) (2023) BluRay 720pRip [7.5]
 acestream://3e2737c851a1d64974438b46883fb96d977c4c1b
 #EXTINF:-1 tvg-id="Blue beetle (2023)" tvg-name="Blue beetle (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Blue beetle (2023)
 acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Breakout  (2023) BluRay 720pRip [3.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg" group-title="PELICULAS ACESTREAM",Breakout  (2023) BluRay 720pRip [3.3]
+acestream://bff9fc575db0d5f75a85d77854fb64ba63a01b66
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buenos Aires BZ (2023) BluRay Rip [.*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8b7Gv9oCCwAel74pt5fiM5opvvI.jpg" group-title="PELICULAS ACESTREAM",Buenos Aires BZ (2023) BluRay Rip [.*]
+acestream://07be69407a4a4c0ce85555e28d80c1706553c6a6
 #EXTINF:-1 tvg-id="Carga maxima (2023)" tvg-name="Carga maxima (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Carga maxima (2023)
 acestream://67a1329280a0c370d70acb864e209e2502f22c8c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cata de vinos (La degustation) (2023) BluRay 1080Rip [6.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8zh9DbnkfGm2IaTZaciyKQd1iM.jpg" group-title="PELICULAS ACESTREAM",Cata de vinos (La degustation) (2023) BluRay 1080Rip [6.2]
 acestream://f75ba69617aac4c4c595730d9b4e20d2557b0e06
 #EXTINF:-1 tvg-id="Cenizas en el cielo (2023)" tvg-name="Cenizas en el cielo (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Cenizas en el cielo (2023)
 acestream://55e86a7da556de03718a8c833c829ab351fd71e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Código de la Ley (2021) BluRay 1080p [5.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8zrzecN98cNYij4hIYmIH4n2cg1.jpg" group-title="PELICULAS ACESTREAM",Código de la Ley (2021) BluRay 1080p [5.3*]
+acestream://04f6b6854b33b34736a5c5daf6901bb9b03191df
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Come Out Fighting (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg" group-title="PELICULAS ACESTREAM",Come Out Fighting (2023) BluRay 1080p [5.0*]
 acestream://bd9ae55d7e72246cfa2d0c1f2139dbc9f76ca33d
-#EXTINF:-1 tvg-id="Corrective Measures (2022)" tvg-name="Corrective Measures (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Corrective Measures (2022)
-acestream://c41ac17f9ff9e7557e4fd9f0fde7f0a254faeb5d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cronica de una tormenta (2023) BluRay 720pRip [4.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hAifrmtS7GWF1vJC6HhgoFDb8Va.jpg" group-title="PELICULAS ACESTREAM",Cronica de una tormenta (2023) BluRay 720pRip [4.5]
+acestream://22fe161444f86abc48997a68609d111138866c40
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuando acecha la maldad (2023) BluRay Rip [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Ly4S99McgnhO50XikTGguPFNvo.jpg" group-title="PELICULAS ACESTREAM",Cuando acecha la maldad (2023) BluRay Rip [7.6*]
+acestream://afd39c6f527c04ce80f2a7fddb6b7bfc839b1c11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cursed Friends (Malditos amigos) (2023) BluRay 720pRip [4.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zKxK1rZ0y3k6SQfRotq0jLMzz2Q.jpg" group-title="PELICULAS ACESTREAM",Cursed Friends (Malditos amigos) (2023) BluRay 720pRip [4.5]
+acestream://e793e212e9a308e1a1f509783fa6d48326787e91
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De perdidos a Rio (2023) BluRay 720pRip [7.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9c4w9WQCx0UqWDRm8DO7p5WF2s.jpg" group-title="PELICULAS ACESTREAM",De perdidos a Rio (2023) BluRay 720pRip [7.3]
+acestream://34747b32c746674019054ef71a6027acc676730b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Down Low  (2023) BluRay Rip [4.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRJ8gn4lapIhQhZDy1222CWCztc.jpg" group-title="PELICULAS ACESTREAM",Down Low  (2023) BluRay Rip [4.3]
+acestream://ee2835f5fd3997bc92755ace039f5d45f605f819
 #EXTINF:-1 tvg-id="El amor esta en el aire (2023)" tvg-name="El amor esta en el aire (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El amor esta en el aire (2023)
 acestream://0d272a45c2caf24952702c2aaa8f520d48c0ee9f
-#EXTINF:-1 tvg-id="El asesino (2023)" tvg-name="El asesino (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El asesino (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El asesino (2023) Web dl Hd 1080p [7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcQBZhO1ZYKyQTELLS3UI41uytt.jpg" group-title="PELICULAS ACESTREAM",El asesino (2023) Web dl Hd 1080p [7.3*]
 acestream://1f4e295c76c2cfd6d940ad11ed29208896907b28
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El carnicero (2018) Web dl Hd 1080p [6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" group-title="PELICULAS ACESTREAM",El carnicero (2018) Web dl Hd 1080p [6.2*]
 acestream://f7c15e7926ce2ed69e48a2b92ecfad31df6caf42
@@ -226,21 +93,31 @@ acestream://6e8e5299e4b09973e950c24037d6f40b42ad5aa1
 acestream://1eb1d2ee117baa5733ce37c24b3be9dafbb85c1d
 #EXTINF:-1 tvg-id="El final que quiero(2023)" tvg-name="El final que quiero(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El final que quiero(2023)
 acestream://f31a39e3fa1d518c565df4a9f78e4bbf5ee1240c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El hombre ciego que no queria ver titanic (2023) BluRay 720pRip [7.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lYuZ8yvVuUJsISKY75yt6FIzJFb.jpg" group-title="PELICULAS ACESTREAM",El hombre ciego que no queria ver titanic (2023) BluRay 720pRip [7.2]
+acestream://83ddf99cc2e83cd7d1aa8b7680d5a9c408a1c610
 #EXTINF:-1 tvg-id="El hombre del saco (2023)" tvg-name="El hombre del saco (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El hombre del saco (2023)
 acestream://643fc718cbc83c422fe7f7b39071fd323046fa0e
 #EXTINF:-1 tvg-id="El hotel de los líos 2(2023) BR1080" tvg-name="El hotel de los líos 2(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El hotel de los líos 2(2023) BR1080
 acestream://6904bb52d9d68222b22a9bae91d1bb4a50cd19b9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El lado dulce de la traicion  (2023) BluRay 720pRip [7.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg" group-title="PELICULAS ACESTREAM",El lado dulce de la traicion  (2023) BluRay 720pRip [7.0]
+acestream://cd61159abc1d6e55bacd064bcb1bd99396a4246a
 #EXTINF:-1 tvg-id="El maestro jardinero (2023)" tvg-name="El maestro jardinero (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El maestro jardinero (2023)
 acestream://8e4a25c7657b9abac48f9be25b9e7b283d41abab
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El monte (2022) Web dl Hd 1080p [6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlwt27iWubh6DEiQhc3kyVMjCU5.jpg" group-title="PELICULAS ACESTREAM",El monte (2022) Web dl Hd 1080p [6.6*]
 acestream://d5e80350ed1d765f39dec9777ab0327f5cd7be51
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El negocio del dolor (2023) BluRay Rip [6.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg" group-title="PELICULAS ACESTREAM",El negocio del dolor (2023) BluRay Rip [6.1]
+acestream://bd34a552d7ee908a35c2985edd346fa5857d8140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El origen del mal (2023) BluRay 1080Rip [6.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gZBTU8atWdtF5vC3WDlXx8qQ67.jpg" group-title="PELICULAS ACESTREAM",El origen del mal (2023) BluRay 1080Rip [6.5]
+acestream://3972dffe9bf926fe20e9979bbcf71edf3e54f021
 #EXTINF:-1 tvg-id="El pico del diablo(2023) BR1080" tvg-name="El pico del diablo(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El pico del diablo(2023) BR1080
 acestream://001b58054e838d4a2063210a0539bc5fde071444
-#EXTINF:-1 tvg-id="El rapto (2023)" tvg-name="El rapto (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El rapto (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El primer dia de mi vida  (2023) BluRay 1080Rip [6.7]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1AY8sq3hy9ezjY1t7GekJGZXbN8.jpg" group-title="PELICULAS ACESTREAM",El primer dia de mi vida  (2023) BluRay 1080Rip [6.7]
+acestream://e6e11d5c4adda9821d725c155d36e55880a8e370
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El rapto (2023) Web dl Hd 1080p [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htO8iLp0dN8a2pHGVim9VhSKDeX.jpg" group-title="PELICULAS ACESTREAM",El rapto (2023) Web dl Hd 1080p [7.6*]
 acestream://2a1b4c7a4a31e44cff6306252cd3451140885207
 #EXTINF:-1 tvg-id="El rey mono (2023)" tvg-name="El rey mono (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El rey mono (2023)
 acestream://56c1256eff9e2108afd682d37dbe6a2d471e9a77
-#EXTINF:-1 tvg-id="El templo (2023)" tvg-name="El templo (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",El templo (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El templo (2023) Web dl Hd 1080p [6.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Af6SQL9PMz2scTivtC9WT41oI4o.jpg" group-title="PELICULAS ACESTREAM",El templo (2023) Web dl Hd 1080p [6.1*]
 acestream://25340a60559a26438554436d6565643e8ae34d9e
 #EXTINF:-1 tvg-id="Elemental(2023)" tvg-name="Elemental(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Elemental(2023)
 acestream://cf4a58cc584846472c2b9323d7e195839108282b
@@ -254,6 +131,8 @@ acestream://6bb3e5066eb075d0f9e4aa4c8f87d8bc37c1c222
 acestream://a95589b801e37805961c0f1e9df9a367912a7468
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Escuadron de elite 2 (2023) BluRay Rip [6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg" group-title="PELICULAS ACESTREAM",Escuadron de elite 2 (2023) BluRay Rip [6.3*]
 acestream://95f1fe212134c2e21455041031d9ef297187e4a6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estas ahi Dios Soy yo Margaret  (2023) BluRay 720pRip [7.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg" group-title="PELICULAS ACESTREAM",Estas ahi Dios Soy yo Margaret  (2023) BluRay 720pRip [7.3]
+acestream://878a20c73f44d2d1ddd0268efe17d0b0b15389d8
 #EXTINF:-1 tvg-id="Esto va a doler(2023)" tvg-name="Esto va a doler(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Esto va a doler(2023)
 acestream://7d7278e42203723628902b175259723aa7f925e4
 #EXTINF:-1 tvg-id="Fast And Furious X(2023) BR1080" tvg-name="Fast And Furious X(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Fast And Furious X(2023) BR1080
@@ -266,6 +145,10 @@ acestream://79fcf23d854d2fff533b0547c1c85937d8f16ccd
 acestream://4fba20308229e49ad4aaff59ed05f0715503f171
 #EXTINF:-1 tvg-id="Frente a frente(2023) BR1080" tvg-name="Frente a frente(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Frente a frente(2023) BR1080
 acestream://53f65f8dffec4a85bea44e32c2721ece5ae06bc7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuga (2023) Web dl Hd 1080p [.*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg" group-title="PELICULAS ACESTREAM",Fuga (2023) Web dl Hd 1080p [.*]
+acestream://c4f5670ad8876a35a317340a1c965cafd108eeb1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuga de prision (2023) BluRay 1080Rip [5.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg" group-title="PELICULAS ACESTREAM",Fuga de prision (2023) BluRay 1080Rip [5.1]
+acestream://c41ac17f9ff9e7557e4fd9f0fde7f0a254faeb5d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galaxy Games (2023) BluRay 720pRip [4.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg" group-title="PELICULAS ACESTREAM",Galaxy Games (2023) BluRay 720pRip [4.0]
 acestream://84228a3d80c96a716730cfcda5af52d5ca61271c
 #EXTINF:-1 tvg-id="Gran Turismo (2023)" tvg-name="Gran Turismo (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Gran Turismo (2023)
@@ -274,41 +157,59 @@ acestream://2cd8adbb223decd5ef14a0aaf256c4c059072643
 acestream://8d1c0e7e4c4ef6f2887e90adbc54fc9088f0b076
 #EXTINF:-1 tvg-id="Hermana muerte (2023)" tvg-name="Hermana muerte (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Hermana muerte (2023)
 acestream://8bd3010b192c88b5fdcfc48d903f5106da41ef50
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hermana muerte (2023) BluRay Rip [6.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg" group-title="PELICULAS ACESTREAM",Hermana muerte (2023) BluRay Rip [6.4]
+acestream://70bb66092bf124f9fdd96cf347574cc14131b243
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hijos de los talibanes (2023) BluRay 720p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7Hd7tYP7FoxI9uIMK4DOuNfCqv.jpg" group-title="PELICULAS ACESTREAM",Hijos de los talibanes (2023) BluRay 720p [6.0*]
 acestream://b9de4fc8bf9436149c977830d03bdf365339e90b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Holy Shit! (2022) BluRay 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg" group-title="PELICULAS ACESTREAM",Holy Shit! (2022) BluRay 1080p [6.0*]
 acestream://67feac5d6d9778d4acf049a4bfb9455242012c6b
 #EXTINF:-1 tvg-id="Insidius la puerta roja (2023)" tvg-name="Insidius la puerta roja (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Insidius la puerta roja (2023)
 acestream://4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La batalla del dragon (2023) BluRay 1080Rip [6.7]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEHsMy4GjgVaUMQ74H9ofQpYobT.jpg" group-title="PELICULAS ACESTREAM",La batalla del dragon (2023) BluRay 1080Rip [6.7]
+acestream://397ee865ac89915821657576379dab75f0639555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La desconocida (2023) BluRay 720pRip [2.0]" tvg-logo="https://www.themoviedb.org/t/p/original/hPLoprqDPXOZ8APWE47lS8bQu2w.jpg" group-title="PELICULAS ACESTREAM",La desconocida (2023) BluRay 720pRip [2.0]
+acestream://e1611d3f0140d54d0f7e1687db2537dec93ab352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La doncella (Sluzka) (2023) BluRay 720pRip [8.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfYlCWuQgZOKpBx0X2d6PW0IP20.jpg" group-title="PELICULAS ACESTREAM",La doncella (Sluzka) (2023) BluRay 720pRip [8.0]
+acestream://6c73779298581d316a504b81bf04f193dcab4e56
 #EXTINF:-1 tvg-id="La fortaleza (2023)" tvg-name="La fortaleza (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La fortaleza (2023)
 acestream://194fb9ee828b112424743d600c143fe14e594f9d
-#EXTINF:-1 tvg-id="La heredera de la mafia (2023)" tvg-name="La heredera de la mafia (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La heredera de la mafia (2023)
-acestream://a31bca511c849b73e1fa27eb580702672e127c1a
 #EXTINF:-1 tvg-id="La Ira De Becky (2023)" tvg-name="La Ira De Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Ira De Becky (2023)
 acestream://ebe78fc05483e9964b754f73f225ba8429be299b
-#EXTINF:-1 tvg-id="La ira de Becky (2023)" tvg-name="La ira de Becky (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La ira de Becky (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La ira de Becky (2023) Web dl Hd 1080p [6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg" group-title="PELICULAS ACESTREAM",La ira de Becky (2023) Web dl Hd 1080p [6.7*]
 acestream://aa5f6ef653fc92bd350d4e29e8e074af964c592b
-#EXTINF:-1 tvg-id="La Maggie moore(2023)" tvg-name="La Maggie moore(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Maggie moore(2023)
-acestream://cb722d42e51eb30d244fb40e221f8e88403da4f3
 #EXTINF:-1 tvg-id="La maravillosa historia de Henry Sugar (2023)" tvg-name="La maravillosa historia de Henry Sugar (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La maravillosa historia de Henry Sugar (2023)
 acestream://6f212da6f596de725a9958044af1237d199790b9
 #EXTINF:-1 tvg-id="La monja 2 (2023)" tvg-name="La monja 2 (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La monja 2 (2023)
 acestream://3c7bc52d33ceeb68854de46701b852388b901a6b
-#EXTINF:-1 tvg-id="La patrulla canina la superpelicula (2023)" tvg-name="La patrulla canina la superpelicula (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La patrulla canina la superpelicula (2023)
-acestream://66bb6e0b66017547e112cf36c66b42b44df54e96
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La otra Zoey (2023) BluRay 720pRip [7.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg" group-title="PELICULAS ACESTREAM",La otra Zoey (2023) BluRay 720pRip [7.4]
+acestream://31c2713e11bb9b43f2957d3358945263cefee1ae
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La posesion de Agnes (2021) Web dl Hd 1080p [.*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6ZjUt2rigreV0ENiEXTTOFTkUD.jpg" group-title="PELICULAS ACESTREAM",La posesion de Agnes (2021) Web dl Hd 1080p [.*]
+acestream://075f40bd1af36673a6c9f8b98fe4c79fa5c3a7ad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La posesion de Agnes (2023) BluRay 1080Rip [4.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDskIhzLfZc8SB4ybkcWOgmI98M.jpg" group-title="PELICULAS ACESTREAM",La posesion de Agnes (2023) BluRay 1080Rip [4.1]
+acestream://7eb323440fc93efa1367b428ccd47de450454ff9
 #EXTINF:-1 tvg-id="La puerta mágica (2023)" tvg-name="La puerta mágica (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La puerta mágica (2023)
 acestream://32b09b5864c095b98497aaf5b8f3b9f93a200132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La quietud en la tormenta (2023) BluRay 720pRip []" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dk7gsGAqsQVfYsD6kaznXWgypgb.jpg" group-title="PELICULAS ACESTREAM",La quietud en la tormenta (2023) BluRay 720pRip []
+acestream://7fca1565a6d5441658749261f7d9988c13028d96
 #EXTINF:-1 tvg-id="La reina de los concursos(2023)" tvg-name="La reina de los concursos(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La reina de los concursos(2023)
 acestream://b91463eb7c42a326f247a49fd1232c961ad2bcb9
 #EXTINF:-1 tvg-id="La Sirenita(2023) BR1080" tvg-name="La Sirenita(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",La Sirenita(2023) BR1080
 acestream://2fde831addc43320a10ac234020a1404d7746124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La superpelicula (2023) Web dl Hd 1080p [7.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg" group-title="PELICULAS ACESTREAM",La superpelicula (2023) Web dl Hd 1080p [7.0*]
+acestream://66bb6e0b66017547e112cf36c66b42b44df54e96
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La uruguaya (2023) Web dl Hd 1080p [6.8]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p9bvhxC5ReA7Fhx65hee6daQXIo.jpg" group-title="PELICULAS ACESTREAM",La uruguaya (2023) Web dl Hd 1080p [6.8]
+acestream://28bb79097a56eb35cdee0ba17ec96ded2a7204fe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ladronas (2023) BluRay 720pRip [5.9]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/miPSRVOdCcc59DcLoTQoKdKpvTK.jpg" group-title="PELICULAS ACESTREAM",Ladronas (2023) BluRay 720pRip [5.9]
+acestream://d0a1f9f5128f640326e3860c0d7572f00d1feac8
 #EXTINF:-1 tvg-id="Ladronas(2023)" tvg-name="Ladronas(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Ladronas(2023)
 acestream://432208500b62d8be88f741db469300fc14ace8fc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Maggie Moore (2023) BluRay 1080Rip [5.6]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IY1n6UQnjNImEToEDTW924EUAo.jpg" group-title="PELICULAS ACESTREAM",Las Maggie Moore (2023) BluRay 1080Rip [5.6]
+acestream://cb722d42e51eb30d244fb40e221f8e88403da4f3
 #EXTINF:-1 tvg-id="Las pequeñas victorias (2023)" tvg-name="Las pequeñas victorias (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Las pequeñas victorias (2023)
 acestream://8aa9f1c1e5a3b7591d21f9f07590bfdd454324f2
 #EXTINF:-1 tvg-id="Las pequeñas victorias(2023)" tvg-name="Las pequeñas victorias(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Las pequeñas victorias(2023)
 acestream://f45390c402a72d66ef6f2083edf339173699d383
-#EXTINF:-1 tvg-id="Lego Marvel Avengers lego(2023)" tvg-name="Lego Marvel Avengers lego(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Lego Marvel Avengers lego(2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO Marvel Avengers (2023) Web dl Hd 1080p [7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ba3Kw9isyWvu6cupzUagm8ejw2.jpg" group-title="PELICULAS ACESTREAM",LEGO Marvel Avengers (2023) Web dl Hd 1080p [7.2*]
 acestream://6205277bd67a5a0a3b690cf7cdebac872e1818f4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leo (2023) Web dl Hd 1080p [7.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg" group-title="PELICULAS ACESTREAM",Leo (2023) Web dl Hd 1080p [7.9*]
 acestream://64a775174a004be49b6a77848880c2fa6721edbe
@@ -318,10 +219,14 @@ acestream://57c96618438d0b53a42ec257701875882f7ff7ba
 acestream://92cf4aa6728d752e953ba13e7f884203630672fb
 #EXTINF:-1 tvg-id="Liuben (2023)" tvg-name="Liuben (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Liuben (2023)
 acestream://7b5daa3560518dfea8c36c8828b01748e162e54d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los alienígenas (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg" group-title="PELICULAS ACESTREAM",Los alienígenas (2023) BluRay 1080p [5.0*]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los alienigenas han abducido a mis padres (2023) BluRay 1080Rip [5.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg" group-title="PELICULAS ACESTREAM",Los alienigenas han abducido a mis padres (2023) BluRay 1080Rip [5.0]
 acestream://0923a408b434e4b99f6fdfd1d8b6ff13a2fe30dd
 #EXTINF:-1 tvg-id="Los olvidados cicatrices(2023) BR1080" tvg-name="Los olvidados cicatrices BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Los olvidados cicatrices BR1080
 acestream://a6588e38cff59fe20c84743c2470ab1a7eff6f14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mafia Mamma (2023) Web dl Hd 1080p [6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x83FFyGGux31l7OiF9NZHeq6ZWv.jpg" group-title="PELICULAS ACESTREAM",Mafia Mamma (2023) Web dl Hd 1080p [6.3*]
+acestream://a31bca511c849b73e1fa27eb580702672e127c1a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mal de ojo (2022) BluRay Rip [6.8*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tshEIrdYNHQYubiiRz8mRZR6KQA.jpg" group-title="PELICULAS ACESTREAM",Mal de ojo (2022) BluRay Rip [6.8*]
+acestream://198934e280d93cbdd94eb8ea8a5ffd5f3ece4544
 #EXTINF:-1 tvg-id="Mansión encantada (2023)" tvg-name="Mansión encantada (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mansión encantada (2023)
 acestream://33da775ca00e9d492a75288cee326cc58176ce9e
 #EXTINF:-1 tvg-id="Manual de un asesinato (2023)" tvg-name="Manual de un asesinato (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Manual de un asesinato (2023)
@@ -342,14 +247,20 @@ acestream://7f647a1500ffe934cd6376865f66e020b1fefda2
 acestream://e607a945fdb29ff6e69ec9268df6ce530c5fad11
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mejor Navidad imposible (2023) BluRay 720pRip [5.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg" group-title="PELICULAS ACESTREAM",Mejor Navidad imposible (2023) BluRay 720pRip [5.5]
 acestream://c2e1155c0094857650af5aca085db13f33aaf4ab
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Menina Casilda (2023) BluRay 720pRip []" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVHRkr7SaZNeSiVW0Sk6VNOKsgJ.jpg" group-title="PELICULAS ACESTREAM",Menina Casilda (2023) BluRay 720pRip []
+acestream://c496afc5eca6536e1ba0dfda22d2c525424ef89e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Menuda Nochebuena  (2023) BluRay 1080Rip [9.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="PELICULAS ACESTREAM",Menuda Nochebuena  (2023) BluRay 1080Rip [9.5]
 acestream://87372791a47be56459ea72597fbd0930e6f0d521
 #EXTINF:-1 tvg-id="Mi crimen (2023)" tvg-name="Mi crimen (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mi crimen (2023)
 acestream://372abb4323a78318aea8ff841d36cff2c1ae6d27
 #EXTINF:-1 tvg-id="Mi hermano pequeño (2023)" tvg-name="Mi hermano pequeño (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Mi hermano pequeño (2023)
 acestream://0c1a4c49f1fd9a15227795e9b30a31e16af010f6
-#EXTINF:-1 tvg-id="Misterio en Venecia (2023)" tvg-name="Misterio en Venecia (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Misterio en Venecia (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi soledad tiene alas (2023) BluRay 720pRip [5.9]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zj7UYU6PZQtWh4sznRH1LKJp945.jpg" group-title="PELICULAS ACESTREAM",Mi soledad tiene alas (2023) BluRay 720pRip [5.9]
+acestream://3abb3c309bb8c23af72d39474a3ef9fcff031e63
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Misterio en Venecia (2023) BluRay 1080Rip [6.8]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg" group-title="PELICULAS ACESTREAM",Misterio en Venecia (2023) BluRay 1080Rip [6.8]
 acestream://4653278b16a10789237941d569b8e38ffa434e94
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nada (Intet)  (2023) BluRay 720pRip []" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhhNWRlNTEtY2ZjNy00NGUzLWJjNDQtOGNlN2M0ODhlMmIyXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM",Nada (Intet)  (2023) BluRay 720pRip []
+acestream://d2b7e10381b6cd3cabab6499ee6065d80023ccbf
 #EXTINF:-1 tvg-id="Nadie te salvará (2023)" tvg-name="Nadie te salvará (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Nadie te salvará (2023)
 acestream://35c7f39fa7c8b68984f543ea54d656be62a8700e
 #EXTINF:-1 tvg-id="Nightmare radio(2023)" tvg-name="Nightmare radio(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Nightmare radio(2023)
@@ -366,34 +277,52 @@ acestream://924d6225856d0dad120b7c9d14e6bbef664aa311
 acestream://f34337fe7cc68d187642bcb39ddc205b024da348
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nuevos ricos (2023) BluRay 720pRip [7.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg" group-title="PELICULAS ACESTREAM",Nuevos ricos (2023) BluRay 720pRip [7.5]
 acestream://2daf95676837c1f533e78ee33baf07c9ec1fdcaa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nuovo Olimpo (2023) BluRay 720pRip [7.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="PELICULAS ACESTREAM",Nuovo Olimpo (2023) BluRay 720pRip [7.1]
+acestream://8e1a6f5d063edfd535d2678c7ebabd2f396c702c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nyad (2023) BluRay 720pRip [9.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg" group-title="PELICULAS ACESTREAM",Nyad (2023) BluRay 720pRip [9.0]
+acestream://a3fe783ac69bf50f6961523c3b59e034e89a074e
 #EXTINF:-1 tvg-id="Openheimer (2023)" tvg-name="Openheimer (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Openheimer (2023)
 acestream://f25be9cf261dd77b95c6bfccfcead2ff73053a87
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oppenheimer (2023) BluRay 1080Rip [8.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="PELICULAS ACESTREAM",Oppenheimer (2023) BluRay 1080Rip [8.2]
+acestream://088234cdaf8864e2016ca0eb2ba5c16078aead96
 #EXTINF:-1 tvg-id="Paint(2023) BR1080" tvg-name="Paint(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Paint(2023) BR1080
 acestream://d2e2843e07fbb99dc36585f7b01c5167be1dbbab
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Papas a la antigua (2023) BluRay 720pRip [7.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ax1rpxHCcXVwwfn0zSte1udoJwV.jpg" group-title="PELICULAS ACESTREAM",Papas a la antigua (2023) BluRay 720pRip [7.5]
+acestream://27b566c440fcff63366c6519bc6c1c699b127fc3
 #EXTINF:-1 tvg-id="Para entrar a vivir (2023)" tvg-name="Para entrar a vivir (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Para entrar a vivir (2023)
 acestream://060fc64b8b1a89e0f28031d6493f937d4b8039d9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="pasión oculta (2023) BluRay 1080p [5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="PELICULAS ACESTREAM",pasión oculta (2023) BluRay 1080p [5.0*]
 acestream://5c1a0016b592172353b967e7df1423d775bb38eb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Perejil (2022) Web dl Hd 1080p [6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l8KLNlcyAlr1ihB4rvhj9uhTn0f.jpg" group-title="PELICULAS ACESTREAM",Perejil (2022) Web dl Hd 1080p [6.3*]
+acestream://e04acc11f70a0fb5569d2f6596b5ac40d6351560
 #EXTINF:-1 tvg-id="Quedate a mi lado (2023)" tvg-name="Quedate a mi lado (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Quedate a mi lado (2023)
 acestream://440fb31d81a33b8bba9a94b54b35b1c73b2da027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quiz Lady (2023) BluRay 720pRip [7.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8w7kbE95X6Qu0dWA1ZULifcbKcQ.jpg" group-title="PELICULAS ACESTREAM",Quiz Lady (2023) BluRay 720pRip [7.4]
+acestream://8432fe089919d565968aa13ae6bc783a531725ef
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rally Road Racers (2023) BluRay 720p [7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQ7XcEOIktQuixSrOyrLCsAE5UT.jpg" group-title="PELICULAS ACESTREAM",Rally Road Racers (2023) BluRay 720p [7.6*]
 acestream://573ed22e3329283b72c87866d6b913ef8f9fcbe7
 #EXTINF:-1 tvg-id="Rebel (2023)" tvg-name="Rebel (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Rebel (2023)
 acestream://b9fecfe8397c0b6c682eed876a3368fe82530528
 #EXTINF:-1 tvg-id="Replicantes(2023)" tvg-name="Replicantes(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Replicantes(2023)
 acestream://91ced1fcd76f2c3fbeae85db7ce00c9557dd63ee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reposo absoluto (2023) BluRay 1080Rip [6.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg" group-title="PELICULAS ACESTREAM",Reposo absoluto (2023) BluRay 1080Rip [6.4]
+acestream://bc93cf6595b83a2d94c3d523a1f7475483913141
 #EXTINF:-1 tvg-id="Rojo blanco y sangre(2023)" tvg-name="Rojo blanco y sangre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Rojo blanco y sangre(2023)
 acestream://1807ae98aa8bf87234337bada2142516a7bff055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rustin (2023) BluRay 720pRip [5.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="PELICULAS ACESTREAM",Rustin (2023) BluRay 720pRip [5.5]
 acestream://1ba825adc58c7741fb22e6d82220df4faec709a2
-#EXTINF:-1 tvg-id="Sabotaje (2023)" tvg-name="Sabotaje (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sabotaje (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabotaje (2023) Web dl Hd 1080p [6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Uo4Fu0Tw78bkPvVUv7Bh3jpBcf.jpg" group-title="PELICULAS ACESTREAM",Sabotaje (2023) Web dl Hd 1080p [6.6*]
 acestream://5d72577ab584472a8e29584c418e33f773549ee3
 #EXTINF:-1 tvg-id="Sanctuary (2022)" tvg-name="Sanctuary (2022)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sanctuary (2022)
 acestream://246a5a09a82458b15d429565c41abf77c564e283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shooting Stars (2023) BluRay 1080Rip [8.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="PELICULAS ACESTREAM",Shooting Stars (2023) BluRay 1080Rip [8.1]
+acestream://0e95c3b97b1070f51dd93d6692bf6587cebb0aab
 #EXTINF:-1 tvg-id="Si quiero o no(2023)" tvg-name="Si quiero o no(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Si quiero o no(2023)
 acestream://df56913a13f4919b30ee41aa4ab66267db6b4dab
 #EXTINF:-1 tvg-id="Sin malos rollos(2023) BR1080" tvg-name="Sin malos rollos(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sin malos rollos(2023) BR1080
 acestream://99861b097e1cc5c6da746efbe2309576ba3bb360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sinceramente tuyo (2023) BluRay 1080Rip [6.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNELmFbm2vHUVEXKsmXUiygAbb3.jpg" group-title="PELICULAS ACESTREAM",Sinceramente tuyo (2023) BluRay 1080Rip [6.5]
+acestream://d887df57eddfc7e209408528b6932fe745e94061
 #EXTINF:-1 tvg-id="Skinamarink (2023)" tvg-name="Skinamarink (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Skinamarink (2023)
 acestream://0b214f6f502161b29077aa21ca847a452ac4e34c
 #EXTINF:-1 tvg-id="Sniper G.R.I.T. (2023)" tvg-name="Sniper G.R.I.T. (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Sniper G.R.I.T. (2023)
@@ -406,15 +335,21 @@ acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11
 acestream://10a0f5d639a53376a5acfb6bf89d8e0d139a284f
 #EXTINF:-1 tvg-id="Suburbanos 2 (2023)" tvg-name="Suburbanos 2 (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Suburbanos 2 (2023)
 acestream://4fc210aaa3dfb5f2f6e546afd42918c07417c7d1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surrounded (Asediado) (2023) BluRay 720pRip [5.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVVvlosgMU6aePXavihV3L3V3D6.jpg" group-title="PELICULAS ACESTREAM",Surrounded (Asediado) (2023) BluRay 720pRip [5.3]
+acestream://df13c9f96ec0f670289defce6cbe922d4b1f8805
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Te esperare en Venus (2023) BluRay 1080Rip [6.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r94waWYiNhXoAuCEWBCf2XEEegx.jpg" group-title="PELICULAS ACESTREAM",Te esperare en Venus (2023) BluRay 1080Rip [6.0]
 acestream://42c0efc443323d57a29338a518dedc4227e54960
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Te estoy amando locamente (2023) BluRay 1080Rip [8.3]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg" group-title="PELICULAS ACESTREAM",Te estoy amando locamente (2023) BluRay 1080Rip [8.3]
+acestream://e635611bf2b88b0f68a140b6e07914495b3a2ee9
 #EXTINF:-1 tvg-id="Temporada de huracanes(2023)" tvg-name="Temporada de huracanes(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Temporada de huracanes(2023)
 acestream://2a16c486dd293d05441cf48a90df5c45ad57b3e7
-#EXTINF:-1 tvg-id="The Baker (2023)" tvg-name="The Baker (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Baker (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Baker (2023) Web dl Hd 1080p [6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg" group-title="PELICULAS ACESTREAM",The Baker (2023) Web dl Hd 1080p [6.6*]
 acestream://3617edb51fe373628e008f30c41c96f6da79f74d
-#EXTINF:-1 tvg-id="The blackening (2023)" tvg-name="The blackening (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The blackening (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Barn Part II (2023) BluRay 1080Rip [4.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBiQ91DoP6JutoU3R4mfvYXLuVv.jpg" group-title="PELICULAS ACESTREAM",The Barn Part II (2023) BluRay 1080Rip [4.4]
+acestream://be93af9982b942b4d55534f69de353b95df05c2b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Blackening (2023) Web dl Hd 1080p [6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="PELICULAS ACESTREAM",The Blackening (2023) Web dl Hd 1080p [6.2*]
 acestream://eb1698b9c02d2e1e4c5128cacc44b1adc27097ba
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Creator (2023) BluRay 1080p [7.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg" group-title="PELICULAS ACESTREAM",The Creator (2023) BluRay 1080p [7.1*]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Creator (2023) BluRay 1080Rip [7.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg" group-title="PELICULAS ACESTREAM",The Creator (2023) BluRay 1080Rip [7.1]
 acestream://323450ef6bcf37554b25600fb9894a1890f72d99
 #EXTINF:-1 tvg-id="The Donor Party(2023) BR1080" tvg-name="The Donor Party(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Donor Party(2023) BR1080
 acestream://8069347e3f5c2cd9abe555c77836a9eaad743a0b
@@ -426,6 +361,10 @@ acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
 acestream://2622b877d88b97f327a5b7d4448ebb83950f07a6
 #EXTINF:-1 tvg-id="The Lost King (2023)" tvg-name="The Lost King (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",The Lost King (2023)
 acestream://1091f9ee5b0b546e24c358dcedb9407ee9c443eb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tiroteo en Rio Bravo (2023) BluRay 1080Rip [5.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="PELICULAS ACESTREAM",Tiroteo en Rio Bravo (2023) BluRay 1080Rip [5.0]
+acestream://4874c434913f468446365d9365a0e7cbdf778894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todas somos Jane (2023) BluRay 1080Rip [6.6]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n3oV6065tgYpukAjLxSbWcfqdg9.jpg" group-title="PELICULAS ACESTREAM",Todas somos Jane (2023) BluRay 1080Rip [6.6]
+acestream://f904f27cfae23a67073fe9832db407180e179f6
 #EXTINF:-1 tvg-id="Todo sobre mi padre (2023)" tvg-name="Todo sobre mi padre (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Todo sobre mi padre (2023)
 acestream://114b1056da23ca3a25b23b3e11266e359fad5518
 #EXTINF:-1 tvg-id="Torrente 2 mision en marbella(2001)" tvg-name="Torrente 2 mision en marbella(2001)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Torrente 2 mision en marbella(2001)
@@ -448,15 +387,19 @@ acestream://2ef4ee0f6eaa06037e4c1e6a7b9bda639b6398e3
 acestream://a6766704a591d73f1b3291e1607169f2bc07d51e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultima noche en Milan (2023) BluRay 720pRip [7.2]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg" group-title="PELICULAS ACESTREAM",Ultima noche en Milan (2023) BluRay 720pRip [7.2]
 acestream://947e6fa6965e3b81deb089bcc69518d1489a5586
-#EXTINF:-1 tvg-id="Una cuestión de honor (2023)" tvg-name="Una cuestión de honor (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Una cuestión de honor (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Umma (2023) BluRay 1080Rip [5.4]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" group-title="PELICULAS ACESTREAM",Umma (2023) BluRay 1080Rip [5.4]
+acestream://47d6ac1a0caef9016ab710f5bbb11f614183df12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una cuestion de honor (2023) BluRay 720pRip [6.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvmCPv4Zqu7BAdEOGEFeJWBOt3l.jpg" group-title="PELICULAS ACESTREAM",Una cuestion de honor (2023) BluRay 720pRip [6.5]
+acestream://ef76d76959588b0fa76be503dd10f8cc6f8a7563
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una cuestión de honor (2023) Web dl Hd 1080p [6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWDWmO9PrwwrlAjm8tIT2NsPU5o.jpg" group-title="PELICULAS ACESTREAM",Una cuestión de honor (2023) Web dl Hd 1080p [6.6*]
 acestream://07b803ef5a7b9cd25dcafb2a7d5384f0f92b5676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unica superviviente (2022) BluRay 1080p [6.5*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTzw1ENuMx8bZpmKekIcdFdXwjq.jpg" group-title="PELICULAS ACESTREAM",Unica superviviente (2022) BluRay 1080p [6.5*]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unica superviviente (2023) BluRay 1080Rip [6.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jtHkKhkA4kioi4km8uPql5G7WH.jpg" group-title="PELICULAS ACESTREAM",Unica superviviente (2023) BluRay 1080Rip [6.5]
 acestream://091eafaab3b19e7f8d9020064272783df815c326
 #EXTINF:-1 tvg-id="Vacaciones de verano(2023)" tvg-name="Vacaciones de verano(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Vacaciones de verano(2023)
 acestream://43977322de835755594f33b48651b03777be850e
 #EXTINF:-1 tvg-id="Vaya vacaciones (2023)" tvg-name="Vaya vacaciones (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Vaya vacaciones (2023)
 acestream://22f7fdbca9164383bba755a084d13c9466428cd2
-#EXTINF:-1 tvg-id="Vesper (2023)" tvg-name="Vesper (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Vesper (2023)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vesper (2023) BluRay 1080Rip [6.5]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etvK8ni1adjXU8obDpdUxTTQT6n.jpg" group-title="PELICULAS ACESTREAM",Vesper (2023) BluRay 1080Rip [6.5]
 acestream://37117441e259bbdb8ffc3a73bef0ae284fd7faf8
 #EXTINF:-1 tvg-id="Viento sur(2023)" tvg-name="Viento sur(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Viento sur(2023)
 acestream://cb224a951b0441267b1e877c79f15ac612910dc3
@@ -464,6 +407,14 @@ acestream://cb224a951b0441267b1e877c79f15ac612910dc3
 acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="(no group)",El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]
+acestream://a7288beef425acf4d69f3fd0901d869bfbd2360d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esto va a doler (2023) BluRay 1080Rip [6.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg" group-title="(no group)",Esto va a doler (2023) BluRay 1080Rip [6.1]
+acestream://00a391355f5834f57de713504ddfc3aa823dc70d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encierro (2023) BluRay 720pRip [6.6]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="(no group)",Encierro (2023) BluRay 720pRip [6.6]
+acestream://01012465250e34c0197bed7297eb4b065b8e825d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skinamarink (2023) Web dl Hd 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VUMLlyosoG77v2CNSa2LsKN4BR.jpg" group-title="(no group)",Skinamarink (2023) Web dl Hd 1080p [6.0*]
+acestream://0b214f6f502161b29077aa21ca847a452ac4e34c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
@@ -532,24 +483,18 @@ http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08acPaQwGHOtPmfwksIgkR9s
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08fkDU9GZYbtT_40kGMx7Ggc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTSAL TV 14" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/generales_futsal_masc_rrss_1600x900_1afedfutsal.png?itok=ZR1X942y" group-title="FUTSAL ESPAÑA",FUTSAL TV 14
 http://sevi.2022spn.net:8080/play/BLqBC57BnrAxgWXWb3e08YCBFHwD2h2NLdqUaPU7OB4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOROS TV ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/7hFqPrZx/Dise-o-sin-t-tulo-25.png" group-title="M+ TOROS▶️",TOROS TV ᶠᴴᴰ
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1006
-#EXTINF:-1 tvg-id="" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga Toros - One Toros" tvg-logo="https://i.postimg.cc/Xq8g4485/Dise-o-sin-t-tulo-23.png" group-title="M+ TOROS▶️",Liga Toros - One Toros
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1008
 #EXTINF:-1 tvg-id="LA 1" tvg-name="MUNDOTORO TV ᴴᴰ" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",MUNDOTORO TV ᴴᴰ
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/4756
-#EXTINF:-1 tvg-id="" tvg-name="K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)" tvg-logo="https://i.postimg.cc/s2YQtKKQ/Dise-o-sin-t-tulo-24.png" group-title="M+ TOROS▶️",K.MUNDOTORO TV ᶠᴴᴰ (SATELITE)
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/21468
 #EXTINF:-1 tvg-id="LA 1" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/pXLfKNC0/Dise-o-sin-t-tulo-22.png" group-title="M+ TOROS▶️",EL TORO TV
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/26599
-#EXTINF:-1 tvg-id="" tvg-name="TORO OLE " tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TORO OLE" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/46815
-
-
-
-
 #EXTINF:-1 tvg-id="La 1" tvg-name="La1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT",La1
 acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
 #EXTINF:-1 tvg-id="La 2" tvg-name="La2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2
@@ -562,14 +507,12 @@ http://relectro.xyz:8080/0A3r0lAdTS/RfAR6aBCcs/212
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
 #EXTINF:-1 tvg-id="Neox HD" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1273
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.postimg.cc/sX39bPgD/Dise-o-sin-t-tulo-10.png" group-title="TDT",ES| DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.postimg.cc/sX39bPgD/Dise-o-sin-t-tulo-10.png" group-title="TDT",DMAX
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1277
 #EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="TDT",Energy
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/2841
 #EXTINF:-1 tvg-id="Mega" tvg-name="MEGA" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="TDT",MEGA
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="TDT",Telecinco
-http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/1273
 #EXTINF:-1 tvg-id="la sexta" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/753
 #EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT",Nova
@@ -582,8 +525,6 @@ http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/744
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="TDT",Cuatro
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/747
-
-
 #EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="CANAL HISTORIA",Historia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="CANAL HISTORIA",Nat Geo Wild
