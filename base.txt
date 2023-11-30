@@ -605,6 +605,8 @@ http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/744
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="TDT",Cuatro
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/747
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="TDT",Real Madrid TV
+acestream://0827cf7d290967985892965c6e61244a479d6dcd
 #EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="CANAL HISTORIA",Historia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="CANAL HISTORIA",Nat Geo Wild
@@ -917,6 +919,9 @@ acestream://08010766709253de102bd4f39ebe44f149f1eda9
 acestream://96159b4435121993ff44e03838c5cbff170af4b4
 #EXTINF:-1 tvg-id="ext" tvg-name="tv mola" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",tv mola
 acestream://197c8765a77003a5fc3164b6c9cdbd04a13f75cd
+#EXTINF:-1 tvg-id="ext" tvg-name="tv mola" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Antares tv 
+acestream://adff389d5576b91baf762307d3b9fea4d48745bd
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Alcarria tv" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
 #EXTINF:-1 tvg-id="ext" tvg-name="TV galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ACESTREAM AUTONOMICOS",TV galicia
@@ -929,6 +934,20 @@ acestream://4ea2a263efd31a479541850bec0c148f0e266322
 acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
 #EXTINF:-1 tvg-id="PTV sevilla" tvg-name="PTV sevilla" tvg-logo="https://pbs.twimg.com/profile_images/1715388786836721664/S_WDM8eV_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",PTV sevilla
 acestream://e682852621df4cfd6293a73cf5fae1a9555ea0bb
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Alicante tv" tvg-logo="https://alacantitv.com/wp-content/uploads/2021/04/infoalacanti-1.png" group-title="ACESTREAM AUTONOMICOS",Alicante tv
+acestream://1965ffaadb9b8a504922603f79894d51e843feef
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Andorra tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" group-title="ACESTREAM AUTONOMICOS",Andorra tv
+acestream://3cd198f43f2d613190698054e0be4ad636dcce85
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Girona tv" tvg-logo="https://tvgirona.com/wp-content/uploads/2022/01/tvgirona_logo_HD-scaled.jpg" group-title="ACESTREAM AUTONOMICOS",Tv Girona
+acestream://18dfa1bc9395a533d2e603f6a9536851479fced6
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Cordoba tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4d6696d6-b5af-4794-8a13-c766f1a9ba3f-profile_image-300x300.png" group-title="ACESTREAM AUTONOMICOS",Cordoba tv
+acestream://9b5ddae91291bf1ae829132ae9d9bf84f10970d9
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Almeria tv" tvg-logo="https://pbs.twimg.com/profile_images/801110729969598464/cRG5pFJr_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",Almeria tv
+acestream://38a0f48b45a2a254f808d83a7979273d945846df
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Ribera tv" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdd78f&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Friberatelevisio.png" group-title="ACESTREAM AUTONOMICOS",Ribera tv
+acestream://c68cb908c09a16da5bdaa4dc8646b73579eacd59
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 1 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 2 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 2 FR
