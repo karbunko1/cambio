@@ -1,7 +1,4 @@
 #EXTM3U url-tvg=""
-
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNlYzNhMTgtYTFlYi00ZDg4LWIwMGItZWU2OTY1NTk4MDdlXkEyXkFqcGdeQXVyMTYyMTYyOTcw._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM",Los caballeros del zodiaco (2023)5.3
 acestream://59af9bbc52a3adc5d2760ff283540b8daebc829d
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5Y2RmNmYtYjA0Ni00ZTkxLThkYmQtMTIzOGUxNTE2NWQ0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="PELICULAS ACESTREAM",Eldorado Todo lo que odian los nazis (2023)7.1
