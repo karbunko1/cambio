@@ -407,13 +407,13 @@ acestream://cb224a951b0441267b1e877c79f15ac612910dc3
 acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="(no group)",El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="PELICULAS ACESTREAM",El club de las peleadoras (Bottoms) (2023) BluRay 720pRip [7.0]
 acestream://a7288beef425acf4d69f3fd0901d869bfbd2360d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esto va a doler (2023) BluRay 1080Rip [6.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg" group-title="(no group)",Esto va a doler (2023) BluRay 1080Rip [6.1]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esto va a doler (2023) BluRay 1080Rip [6.1]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg" group-title="PELICULAS ACESTREAM",Esto va a doler (2023) BluRay 1080Rip [6.1]
 acestream://00a391355f5834f57de713504ddfc3aa823dc70d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encierro (2023) BluRay 720pRip [6.6]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="(no group)",Encierro (2023) BluRay 720pRip [6.6]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encierro (2023) BluRay 720pRip [6.6]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="PELICULAS ACESTREAM",Encierro (2023) BluRay 720pRip [6.6]
 acestream://01012465250e34c0197bed7297eb4b065b8e825d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skinamarink (2023) Web dl Hd 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VUMLlyosoG77v2CNSa2LsKN4BR.jpg" group-title="(no group)",Skinamarink (2023) Web dl Hd 1080p [6.0*]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skinamarink (2023) Web dl Hd 1080p [6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VUMLlyosoG77v2CNSa2LsKN4BR.jpg" group-title="PELICULAS ACESTREAM",Skinamarink (2023) Web dl Hd 1080p [6.0*]
 acestream://0b214f6f502161b29077aa21ca847a452ac4e34c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
