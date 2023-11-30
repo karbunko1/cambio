@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml , https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz"
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A pesar de todo (2023) BluRay 720pRip []" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" group-title="PELICULAS ACESTREAM",A pesar de todo (2023) BluRay 720pRip []
