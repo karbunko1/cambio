@@ -493,7 +493,7 @@ acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
 acestream://6c8f7af0938d3d8af619c37b10cbadf6a434de17
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Propiedad privada" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU5YWJmNWUtNjliNi00NjA0LWJhMjQtODFkYWZjNWRlYWNiXkEyXkFqcGdeQXVyNzY2ODE3OTc@._V1_FMjpg_UX1000_.jpg" group-title="(no group)",Propiedad privada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Propiedad privada" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU5YWJmNWUtNjliNi00NjA0LWJhMjQtODFkYWZjNWRlYWNiXkEyXkFqcGdeQXVyNzY2ODE3OTc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM",Propiedad privada
 acestream://0b3e108816a1560071404f9a85932f3f7c1774f3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
