@@ -815,13 +815,13 @@ acestream://6c8f7af0938d3d8af619c37b10cbadf6a434de17
 acestream://476c417399caa7c22b6396d698e34b04f22d41d4
 #EXTINF:-1 tvg-id="Zom 100(2023) BR1080" tvg-name="Zom 100(2023) BR1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",Zom 100(2023) BR1080
 acestream://8478a600f92b2709b467bd070b95a442f2ed826a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viejos (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/07/28/13/04/0777706.jpg" group-title="(no group)",Viejos (2022)6.0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viejos (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/07/28/13/04/0777706.jpg" group-title="PELICULAS ACESTREAM",Viejos (2022)6.0
 acestream://af2f33aa390a2955c1e37a355b9c86be8a242893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una vida maravillosa(2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YmYxYjItY2UwNy00MDdiLTk4OTctMjJkYmQwZWY1MzRkXkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg" group-title="(no group)",Una vida maravillosa(2023)6.9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una vida maravillosa(2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI2YmYxYjItY2UwNy00MDdiLTk4OTctMjJkYmQwZWY1MzRkXkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg" group-title="PELICULAS ACESTREAM"",Una vida maravillosa(2023)6.9
 acestream://f5bdefef4f64ad400cfd74949a038e53aa72360f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morir Por Un Dolar (2022)5.9" tvg-logo="https://decine21.com/img/upload/obras/dead-for-a-dollar-44952/dead-for-a-dollar-44952-c.jpg" group-title="(no group)",Morir Por Un Dolar (2022)5.9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morir Por Un Dolar (2022)5.9" tvg-logo="https://decine21.com/img/upload/obras/dead-for-a-dollar-44952/dead-for-a-dollar-44952-c.jpg" group-title="PELICULAS ACESTREAM",Morir Por Un Dolar (2022)5.9
 acestream://aa1acdfe8bcdb06474f32e741e87181cd21c543f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isosceles (2023)7.9" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2023/02/ISOSCELES-2023.jpg?fit=696%2C994&ssl=1" group-title="(no group)",Isosceles (2023)7.9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isosceles (2023)7.9" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2023/02/ISOSCELES-2023.jpg?fit=696%2C994&ssl=1" group-title="PELICULAS ACESTREAM",Isosceles (2023)7.9
 acestream://ca21426fdde54b7de661222e96b892a3582569bc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
 http://60038679258595391.of1124.xyz:80/play/vi1103146/Y7QBc6TGNgn/595391.ts
