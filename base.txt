@@ -943,8 +943,13 @@ acestream://08010766709253de102bd4f39ebe44f149f1eda9
 acestream://96159b4435121993ff44e03838c5cbff170af4b4
 #EXTINF:-1 tvg-id="ext" tvg-name="tv mola" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",tv mola
 acestream://197c8765a77003a5fc3164b6c9cdbd04a13f75cd
-#EXTINF:-1 tvg-id="ext" tvg-name="tv mola" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Antares tv 
+#EXTINF:-1 tvg-id="ext" tvg-name="tv Antares tv" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", Antares tv 
 acestream://adff389d5576b91baf762307d3b9fea4d48745bd
+#EXTINF:-1 tvg-id="ext" tvg-name="radio Piter pan " tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",radio Piter pan 
+acestream://c3b0868326975770b4b299bd58c1968adb3e7d7e
+#EXTINF:-1 tvg-id="ext" tvg-name="jukebox music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA", jukebox music 
+acestream://b4b6a6a7d42a995fd6d3a3ac576f5987016954f3
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Alcarria tv" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
@@ -966,10 +971,15 @@ acestream://3cd198f43f2d613190698054e0be4ad636dcce85
 acestream://18dfa1bc9395a533d2e603f6a9536851479fced6
 #EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Cordoba tv" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4d6696d6-b5af-4794-8a13-c766f1a9ba3f-profile_image-300x300.png" group-title="ACESTREAM AUTONOMICOS",Cordoba tv
 acestream://9b5ddae91291bf1ae829132ae9d9bf84f10970d9
-#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Almeria tv" tvg-logo="https://pbs.twimg.com/profile_images/801110729969598464/cRG5pFJr_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",Almeria tv
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Ribera tv" tvg-logo="https://pbs.twimg.com/profile_images/801110729969598464/cRG5pFJr_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",Almeria tv
 acestream://38a0f48b45a2a254f808d83a7979273d945846df
 #EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Ribera tv" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdd78f&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Friberatelevisio.png" group-title="ACESTREAM AUTONOMICOS",Ribera tv
 acestream://c68cb908c09a16da5bdaa4dc8646b73579eacd59
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Castilla la Mancha centro" tvg-logo="https://pbs.twimg.com/profile_images/1670773439232196609/UYcdSN3d_400x400.jpg" group-title="ACESTREAM AUTONOMICOS",Castilla la Mancha centro
+acestream://9e04ef2f80e65798a305f2c1ef8c92372d2cbab2
+#EXTINF:-1 tvg-id="PTV sevilla" tvg-name="Onda algeciras" tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,pg_1,t_base_params,w_1200/v1274640381/project-covers/000/008/871/8871-original-12810-original-oatv_logo.jpg?1274640381" group-title="ACESTREAM AUTONOMICOS", Onda algeciras
+acestream://b89c8340108edaacb5e483415540fc77e603d148
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN Sports 1 FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM FR",beIN Sports 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
