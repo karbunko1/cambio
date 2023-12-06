@@ -1725,6 +1725,7 @@ http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/21468
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/26599
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TORO OLE" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="M+ TOROS▶️",TORO OLE
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/46815
+
 #EXTINF:-1 tvg-id="La 1" tvg-name="La1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT",La1
 acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
 #EXTINF:-1 tvg-id="La 2" tvg-name="La2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2
@@ -2295,6 +2296,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9e47ba5c-ba34-407c-b0b0-a724e02b7f0b&ads_tivo_devcou
 #EXTINF:-1 tvg-id="toros(solo eventos)" tvg-name="toros(solo eventos)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="TOROS ACESTREAM",toros(solo eventos)
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc(uk)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc(uk)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc2(ru)
@@ -2303,6 +2305,12 @@ acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
 acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
 #EXTINF:-1 tvg-id="exit" tvg-name="Fightbox(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",Fightbox(ru)
 acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-id="exit" tvg-name="Boxeo euro_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",Boxeo euro_1
+acestream://626fc7cf70680d1d77b4b5293be94f63c910ee92
+
+#EXTINF:-1 tvg-id="exit" tvg-name=" canal latino" tvg-logo="https://img.utdstc.com/icon/9a2/632/9a26321ead6dc2243ffa0cd06fde157730458923f17ba36f21b8b926774f0b56:200" group-title="LATINO ACESTREAM",canal latino
+acestream://134a33c13d51e146ab00c3f2fd0180d1ee9f7573
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD ep  c021" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 UHD ep  c021
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Multicámara  9686" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 Multicámara  9686
