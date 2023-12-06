@@ -28,7 +28,7 @@ acestream://0794a962f62b0cb22b7bc4af1358e936452ac9f0
 acestream://d7b4918112d670b9495729b007bccd141e654a76
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/05/13/02/2471557.jpg"group-title="PELICULAS ACESTREAM 2", El gran Maurice (2023)6.9
 acestream://3d871d8a29adaa6efc8b1a140035efc963694286
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/11/11/16/32/4303145.jpg", Close (2022)7.8
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/11/11/16/32/4303145.jpg"group-title="PELICULAS ACESTREAM 2", Close (2022)7.8
 acestream://1e56a0d75cb84edf9a0fceb74fb90c8c0cc927d1
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/24/10/16/2239861.jpg"group-title="PELICULAS ACESTREAM 2", Carino cuanto te odio (2021)7.6
 acestream://9906dca3c025ced2ce45240d01f2395cb359607d
@@ -62,7 +62,7 @@ acestream://46c4e79587811eddde3028f354e370f7e24c7d1a
 acestream://3b4046dbe234138517ba81fa5895d5a6180b68d7
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVjYTc4MzctMzBlNS00ZDNlLWFhMWEtMjNkYzhhOTE1NTA1XkEyXkFqcGdeQXVyNTUxMzAyNzM@._V1_.jpg"group-title="PELICULAS ACESTREAM 2", Wicked Witches (2023)6.1
 acestream://97fac5433a12e31e76d2f8d64cb35d885df2fd1c
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1YjJmNTktNDMyZC00ZTc2LWE5NjUtYjhkNDkyYWJlMjRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg", La maternal (2022)8.4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1YjJmNTktNDMyZC00ZTc2LWE5NjUtYjhkNDkyYWJlMjRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", La maternal (2022)8.4
 acestream://29d23c07318b769cd35dc0fdc20b3bd87e8ce907
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5ZTlkMmMtOTAxYS00ODE3LWIwNzItZDdmYWU2N2ZmZmM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"group-title="PELICULAS ACESTREAM 2"group-title="PELICULAS ACESTREAM 2", Coffee Wars (2022)6.5
 acestream://1a2b9888ec39eb75cd2e44e090eab50cf98b4777 
@@ -84,7 +84,7 @@ acestream://e280f5a40fe300f9a0b895a502477e27ff355e0a
 acestream://a45547db4fee65123444d219ccda11ae87af65d0
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNTg1MWMtNGZjNS00OGQ3LTkxYTEtMWQ1MTEzZTFjZmY1XkEyXkFqcGdeQXVyNjY0MDU3MzA@._V1_.jpg"group-title="PELICULAS ACESTREAM 2", El que sabem (Lo que sabemos) (2023)7.0
 acestream://8999522ed5604129a6ac3a30dd94ac3a308328ff
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg", Chang machaca (2023)6.6
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg"group-title="PELICULAS ACESTREAM 2", Chang machaca (2023)6.6
 acestream://f372cd67227f3aa1b03ddb3098b21c2f369db5c3
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODFiNzcwMzgtMzE4ZC00YjM3LWJmNjAtZGE2ZjM1Yjg3NWRjXkEyXkFqcGdeQXVyODYzMTEyNzg@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", Cazadora (2023)
 acestream://e889b1de8c5a96548a42fd55a177134124858344
@@ -104,7 +104,7 @@ acestream://438dc4fadc07f1f5b45c549ba374a1583b400368
 acestream://bb932baefbf5c540267461631aa9c6db42b10b13
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliM2JhNzgtNTQ4Yy00NWE0LTkzZTgtNWVlZTU0Y2E3MTRkXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", The Hanging Sun (2022)5.5
 acestream://21fb4431e7c1a8dc1cca1f0a0d5b8428084c0cb2
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMThkMTBiMDItZGVhOC00MWJkLThlZjgtNmJiMTA0NjFjMDgyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg", Ray Donovan la pelicula (2022)6.8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMThkMTBiMDItZGVhOC00MWJkLThlZjgtNmJiMTA0NjFjMDgyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", Ray Donovan la pelicula (2022)6.8
 acestream://1804f2205dbf26cd144452d3ae01284d238048bc
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM5ZjEzMjItZDk0ZC00M2U2LWI5YzgtYzk2YmE3MzhjY2IyXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg"group-title="PELICULAS ACESTREAM 2", Noche sin paz (Violent Night)7.6
 acestream://9c2b45eea6d7dd4960590a414dae1d45ed138769
@@ -122,7 +122,7 @@ acestream://d77604a788daa0fa004bda6a88de0d434639186c
 acestream://c33518b7ecdac8456ade6188d0e4fa82a5ee58e7
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/07/12/23/0515949.jpg"group-title="PELICULAS ACESTREAM 2", Como sobrevivir al instituto (2022)6.0
 acestream://72d1d0d2bb0b4f25ac0ecd53b7eeac443591f3d1
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/15/09/58/1065000.jpg", Vasil (2022)6.0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/15/09/58/1065000.jpg"group-title="PELICULAS ACESTREAM 2", Vasil (2022)6.0
 acestream://892b30a43bd4e8fec8b26dc37b361805876ec118
 #EXTINF:-1 tvg-logo="https://images.moviesanywhere.com/e60f2d85c8ee5e89c6ea222f87ef58ca/460a2f54-eb80-4f05-a8df-354d28f44851.jpg"group-title="PELICULAS ACESTREAM 2", Prancer A Christmas Tale (2022)6.6
 acestream://ea73394c55e9e9672cf08d0f9a42473552578b49
@@ -144,7 +144,7 @@ acestream://c8bf54c4f60361e4e0342a368f6ad69ce87ae4a4
 acestream://d1d2444d4b6d9c8d1a428dc2483b50cb5521b143 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FkZjVlMDAtMmU2NS00NzI2LTg2NzctMGJhYTExOTExZDQ4XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", Efecto nocebo (Nocebo) (2022)6.2
 acestream://7a45b9fb323f0116e823a667bc49a74230a8a350
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmJiZGUtNDE4OC00N2M3LWJkNzItYjM4MGM3YTJkODBlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg", Las gemelas que no hablablan (2022)7.0
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmJiZGUtNDE4OC00N2M3LWJkNzItYjM4MGM3YTJkODBlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", Las gemelas que no hablablan (2022)7.0
 acestream://c1b3dbd4a23fdf56b69b506c5cbc2b2e3f833611
 #EXTINF:-1 tvg-logo="https://static.filmin.es/images/media/43639/2/poster_0_3.webp"group-title="PELICULAS ACESTREAM 2", Agujero en la cabeza (2020)5.3
 acestream://6bf2e69d3e2314906e3410b6ba8cf89a2fd1235d 
@@ -172,7 +172,7 @@ acestream://a0674df5f62195cf59e0367e79bcb05f91e9e315
 acestream://4b2ddd55c8e47034e947c16d0c46a18801432790
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/01/16/42/2726273.jpg"group-title="PELICULAS ACESTREAM 2", Muere Hart (Die Hart the Movie) (2023)5.5 
 acestream://ec4693e4ab67654dd36bbec98f66f1049c18612b 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg", Night Raiders (2023)5.3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg"group-title="PELICULAS ACESTREAM 2", Night Raiders (2023)5.3
 acestream://8db3cafe7bafc3eacf362841556b34421dbbb4ac
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/09/07/12/24/2686804.jpg"group-title="PELICULAS ACESTREAM 2", Parque Salvaje (2023)4.9
 acestream://6022524bf9917d4972ae881e987f8dcb19035a20
@@ -242,7 +242,7 @@ acestream://dc30b7251ffe94f82d560375af46f04272c1dd60
 acestream://52fee24989a58a483f1be5ec8478e3aa3e7dea2a
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/31/17/11/0372672.jpg"group-title="PELICULAS ACESTREAM 2", Aqua Teen para siempre Plantasma (2023)6.3
 acestream://92a294ba4f53cca6e851bc63cbd1d1550069964a
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg", Unicorn wars (2022)7.0
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg"group-title="PELICULAS ACESTREAM 2", Unicorn wars (2022)7.0
 acestream://f9299579639ca462d4e982e6f69bf30a9300bb9f
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/g7FqMbARpI1yjoM3qp3e4clVsVJ.jpg"group-title="PELICULAS ACESTREAM 2", Cita con el crimen (2022)7.1
 acestream://7c8abc6c6eb9c405887fee8860e3404a457b050d
@@ -403,7 +403,7 @@ acestream://8b16edbd3b59c14a7ab7ffc05ce831de3e41c2db
 acestream://2a80848f70da26e9da4b3e3b4b26d99439b8c4a2
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jAU8PoS80O8ojsk6mMhF3Sekle.jpg" group-title="PELICULAS ACESTREAM 2",El Hogar (2022)BluRay Rip[8.0*]
 acestream://ceb2a66771b96d545151ff9279472d2516a2e592
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJPtERjWqzST4S3cw5EQeqwOlby.jpg" ,Legado de sangre (2023)BD1080[6.3*]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJPtERjWqzST4S3cw5EQeqwOlby.jpg" group-title="PELICULAS ACESTREAM 2",Legado de sangre (2023)BD1080[6.3*]
 acestream://e3014af3ccb0b7e4e8ead7810cce34093d0ebad8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg" group-title="PELICULAS ACESTREAM 2",Scream VI (2023)BD1080[7.3*]
 acestream://eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
@@ -539,7 +539,7 @@ acestream://8a70bc7aa55b74ded37905117067372eba04d9ee
 acestream://dea8a798dc505f86db99daf4407e095278d65117
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/20/08/26/1442753.jpg"group-title="PELICULAS ACESTREAM 2", Cuentos al caer la noche (Nightbooks) (2021)6.3
 acestream://44f4c19756453b8cc4e0e1058c3b5bd697d89035
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/21/16/33/3164617.jpg", Suro (2023)9.3
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/21/16/33/3164617.jpg"group-title="PELICULAS ACESTREAM 2", Suro (2023)9.3
 acestream://18e3574886ebe574152b9c568b14a5a00f9e14df
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg"group-title="PELICULAS ACESTREAM 2", Adiccion perfecta (2023)6.1
 acestream://85e93fae8408ecbc0a1dbc951008588f9bcdbcba
