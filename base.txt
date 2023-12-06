@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desaparecida de nuevo (2022)7.3" tvg-logo="https://estatico.emisiondof6.com/recorte/n/dispficha/MA3P2188236" group-title="PELICULAS ACESTREAM 2",Desaparecida de nuevo (2022)7.3
-acestream://222ac0681dea0c6e323695f442e54695297810c2
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arctic Void (Vacio artico)4.9--" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhYTEyYjEtMjgzNC00NTE3LThlNTYtZjRmZDUzMmM4MGE4XkEyXkFqcGdeQXVyNDg3MTQxOTg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Arctic Void (Vacio artico)4.9--
 acestream://07adb32e98c7ee5051017b76bcb877ece3218cf0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Fabelman (2022)7.9" tvg-logo="https://es.web.img2.acsta.net/pictures/23/01/26/16/53/1088090.jpg" group-title="PELICULAS ACESTREAM 2",Los Fabelman (2022)7.9
