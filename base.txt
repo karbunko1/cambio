@@ -1,561 +1,562 @@
 #EXTM3U url-tvg=""
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arctic Void (Vacio artico)4.9--" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhYTEyYjEtMjgzNC00NTE3LThlNTYtZjRmZDUzMmM4MGE4XkEyXkFqcGdeQXVyNDg3MTQxOTg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Arctic Void (Vacio artico)4.9--
-acestream://07adb32e98c7ee5051017b76bcb877ece3218cf0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Fabelman (2022)7.9" tvg-logo="https://es.web.img2.acsta.net/pictures/23/01/26/16/53/1088090.jpg" group-title="PELICULAS ACESTREAM 2",Los Fabelman (2022)7.9
-acestream://e5f00036a4514c7f6ae98c693bb9ff5782638b3f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La exorcista (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU2Y2JiYTktODMxYi00OTZlLWEyNjQtM2RiYjg3ZDY5YzZmXkEyXkFqcGdeQXVyMTYyNjA4MzQ@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La exorcista (2022)6.8
-acestream://172977d7dd7b71fa0409918b39b324d19711dc17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Celda (2023)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI5ZGUzNDAtOGY0Yy00NzU0LWE0NmYtNGNlOGI0YjVlZTk4XkEyXkFqcGdeQXVyODQ0NjU1OTE@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Super Celda (2023)7.3
-acestream://01cbce38ee83598d46c49adff1013b720768a542
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blowback (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEyYmI1M2EtYWQyNC00YzEwLTljOTItNTZkMmNmY2E4MjE0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Blowback (2023)6.0
-acestream://165cb4d370138237ebb94e7cf8201635b1cae119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El rey de las sombras (2023)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBhNGIxZWItYjZlMy00NWViLTk4MjItNWVmNzljZTE0YmYxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El rey de las sombras (2023)8.0
-acestream://b4e110fe037a692987c05d23e0c0a78443fb9900
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kompromat El expediente ruso (2022)6.6" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEXm29o2l3vBDzFLw1OLzYA80TDKhWmOJcJt7LiE_Ei1SP1blT8KAywaR-69z7B21-zMEeC4mwTMnO6LF8QI_yjYBftInCQsKBkvXm_-qX5ZNzbMyiOpPzNlJO4zjOBPQDrdHhMK7gEn96kWdvM7PEfT7g=w524-h697-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Kompromat El expediente ruso (2022)6.6
-acestream://6eda75aaebcb303e75b41d12dad63e555ed0af7e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El estrangulador de Boston (2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FmYmM1ODctNjkzNC00MzcyLTkyOWYtZmZjNjY2ZmU3MmI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El estrangulador de Boston (2023)6.9
-acestream://1f6136654573058f514fd0c31cc572c0b1f5994f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A la de tres (2023)6.7" tvg-logo="https://images.justwatch.com/poster/304410706/s592/on-the-count-of-three" group-title="PELICULAS ACESTREAM 2",A la de tres (2023)6.7
-acestream://f0614f64027af0738347008a7c823bfa65141fcd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold Run (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ5NmQ4MjktYzM0MC00NWNlLWIxNDItNDkyM2UwZGY3MTAzXkEyXkFqcGdeQXVyMTU0MTg5MjIz._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Gold Run (2022)6.3
-acestream://b2e753a8bc589f1429f971b260875820de0888eb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Camino de la venganza (2023)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/18/10/44/0863400.jpg" group-title="PELICULAS ACESTREAM 2",Camino de la venganza (2023)6.0
-acestream://0794a962f62b0cb22b7bc4af1358e936452ac9f0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El buen vecino (2023)6.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="PELICULAS ACESTREAM 2",El buen vecino (2023)6.0
-acestream://d7b4918112d670b9495729b007bccd141e654a76
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El gran Maurice (2023)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/05/13/02/2471557.jpg" group-title="PELICULAS ACESTREAM 2",El gran Maurice (2023)6.9
-acestream://3d871d8a29adaa6efc8b1a140035efc963694286
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Close (2022)7.8" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/11/11/16/32/4303145.jpg" group-title="PELICULAS ACESTREAM 2",Close (2022)7.8
-acestream://1e56a0d75cb84edf9a0fceb74fb90c8c0cc927d1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carino cuanto te odio (2021)7.6" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/24/10/16/2239861.jpg" group-title="PELICULAS ACESTREAM 2",Carino cuanto te odio (2021)7.6
-acestream://9906dca3c025ced2ce45240d01f2395cb359607d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monster High La pelicula (2022)7.0" tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/26/23/46/5740207.jpg" group-title="PELICULAS ACESTREAM 2",Monster High La pelicula (2022)7.0
-acestream://d366a4708947cba2ee834f83fef5d309a335a01f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No tendreis mi odio (2022)5.0" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/n/o/-/no-tendreis-mi-odio-poster-1153113_SPA-12_V.jpg" group-title="PELICULAS ACESTREAM 2",No tendreis mi odio (2022)5.0
-acestream://376198d7229c6a75feb5903744d86832324b61d4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HP Lovecrafts Witch House (2023)4.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThmY2YwZDktYjk1YS00MWEwLTlmMDAtYzAwZWZmYmI1ODlmXkEyXkFqcGdeQXVyMjA5MTAwNDI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",HP Lovecrafts Witch House (2023)4.7
-acestream://6e2189768774029bd949d4a4799d1c0edf8d7b25
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capitana Nova (2023)6.0" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEVgtTY-SoUl7MRFSp0p7M5AoEXCx-N--fg387oqwPY_OM54T-SMRHdqM9pc3FFNFpVqb2xQ4Nb-6pc_W3U-Lmoa3DuEKMbrVmIj3_TLKLcu_L337rR_frQ9LCZe2DiXEVcV6LvOlzYfKHcnbjFcgZJmuQ=w493-h702-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Capitana Nova (2023)6.0
-acestream://b7eecfb485f1d9d2e3559e4637e3f3462a1c50d9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruido mental (noise) (2023)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjNjI3MTUtZjM5Mi00NzM2LWI1NWQtOTZhYjVlMjdjYzRiXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ruido mental (noise) (2023)8.2
-acestream://33f589fae7a5fbd5295ce09adc8219cde40a2d71
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ya era hora (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjg0NjYtZWE3MC00NDJhLTliODUtMzEwZTZlZDNmMjdhXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ya era hora (2023)7.0
-acestream://8daff5325f210a3a5d29b46eb2a68d1f7e60cbea
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El metodo Tangalanga (2023)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgwYzlkYTQtNzA3MS00NDEyLWE4YjAtYWZhMzY3Y2YxODJkXkEyXkFqcGdeQXVyNDIzOTg5NTE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El metodo Tangalanga (2023)6.2
-acestream://241b2942aa59ca81f132a513cb8ad7be31aec26f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Caja (2021)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg5NzY2M2MtOGM1OS00NGE0LTlmZjktN2EwYzkzZDI2NDEwXkEyXkFqcGdeQXVyMjg0NDI1MjU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La Caja (2021)6.6
-acestream://32016a0d8cab26df7ad9407c6ba8f2609dc664ef
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lazos rotos (2023)9.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMwOGQyOTAtZjBlNy00ODI0LWI5NTMtZTQwM2ZmYzBhMTY5XkEyXkFqcGdeQXVyOTM5MDYzNjY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Lazos rotos (2023)9.0
-acestream://64b567bc39ba11c5e93a702263d3d1b0c869d1ae
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi vida robada (2022)4.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY1NzJmYmEtODE3OS00MWQwLTliZTgtMDhmNmYwOGU5ZTAyXkEyXkFqcGdeQXVyMzY1NjUyNQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Mi vida robada (2022)4.8
-acestream://aeaafc7dd316c811f4baeb9b703c0376bfe4e564
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robadas por su padre (2022)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ0YjIyMzktMDYzYy00YmIyLWI5YjktZGQxZDQyZjYwYzU5XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Robadas por su padre (2022)7.3
-acestream://023abbf115661721c6b1b3badf724a7b3a0e2ca4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo feroz (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViMzNlMGYtMDBhMy00ZGMxLTk0MjQtYTQzZjc1MjI4YWViXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lobo feroz (2023)6.7
-acestream://d7a4d6403245dc39d570c21e1a980af90ade7ccd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muerte muerte muerte (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2ZWExZTQtNzUzYS00YmZjLWFhNDMtZTAyNDY3ZDhiYzNlXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Muerte muerte muerte (2022)6.6
-acestream://46c4e79587811eddde3028f354e370f7e24c7d1a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="y algunas mentiras (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U3MmE5ZGUtMzRmNy00NzNhLWJiMTgtYWIxYWQ5MGUwNzYzXkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",y algunas mentiras (2023)6.1
-acestream://3b4046dbe234138517ba81fa5895d5a6180b68d7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wicked Witches (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVjYTc4MzctMzBlNS00ZDNlLWFhMWEtMjNkYzhhOTE1NTA1XkEyXkFqcGdeQXVyNTUxMzAyNzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Wicked Witches (2023)6.1
-acestream://97fac5433a12e31e76d2f8d64cb35d885df2fd1c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La maternal (2022)8.4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1YjJmNTktNDMyZC00ZTc2LWE5NjUtYjhkNDkyYWJlMjRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La maternal (2022)8.4
-acestream://29d23c07318b769cd35dc0fdc20b3bd87e8ce907
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coffee Wars (2022)6.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5ZTlkMmMtOTAxYS00ODE3LWIwNzItZDdmYWU2N2ZmZmM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Coffee Wars (2022)6.5
-acestream://1a2b9888ec39eb75cd2e44e090eab50cf98b4777
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cliff Walkers (2023)6.9" tvg-logo="https://lh3.googleusercontent.com/DZlO10egdQvWu4zNx6NUB-frKvAkEI_fW4IAWvIQep1D6_Vo3fsiQoruiEKrXzmBuNpcNEqao6i3C4YsDyHDFQfpFpkTr2_-ErTebeXBqCLPiiLL6_7BmVbK9Z90nW3GmI_5x9L_WCM=w2400" group-title="PELICULAS ACESTREAM 2",Cliff Walkers (2023)6.9
-acestream://792eb37213d7f15a5bb72305eca81fbdbe98e3bb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El cuarto pasajero (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRmZjcwYjgtNGEzOC00ZDU0LTgwMjUtZWNmMGE2MmI4YzBlXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El cuarto pasajero (2022)6.6
-acestream://9a9747fc17cf2057f665903fe54fcc2d15e30841
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Armageddon Time (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjMTI2YTMtMmM5Yi00MWUyLWI0NWMtN2EyY2FmZjIwMTVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Armageddon Time (2022)6.7
-acestream://d33dd62bc098f72d2f139ea2b6c7fa357feac549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Knight Ultima mision (2022)5.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZhNWM4YjYtNDE4ZC00ZjhlLWIwYTgtMTc0N2FmYTY4NTk2XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Detective Knight Ultima mision (2022)5.7
-acestream://9a79cb0866f4972ffaa30458610555bd571b7355
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luther Cae la noche (2023)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQwMWFhYWMtZmE0OS00MmMxLWE3NzAtYjU1NzIyZjdmODNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Luther Cae la noche (2023)7.2
-acestream://e104f80f50961c62b176f419ca19c9baabfacd45
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muy lejos de aqui (2023)6.7" tvg-logo="https://es.web.img2.acsta.net/pictures/23/02/01/10/05/2132051.jpg" group-title="PELICULAS ACESTREAM 2",Muy lejos de aqui (2023)6.7
-acestream://9412efcf4fc9523e00b13b7dd38ed39e4898c25e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La segunda oportunidad (2022)5.5" tvg-logo="https://lh3.googleusercontent.com/LWTrC_6-9tPb6YYTSnVF-KFWyDiO0H7UKQsYQY2B-w0Kqe_WSnDVeZFELMks1I8BRCdWE_CEPGPzOkmAh7KMk1mgrlDeUONygpEvzTu44rhe-WqOkKl5O3mOveou7rjCOVPPHfsjq8Y=w2400" group-title="PELICULAS ACESTREAM 2",La segunda oportunidad (2022)5.5
-acestream://e280f5a40fe300f9a0b895a502477e27ff355e0a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memorias de Paris (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/05/12/43/5501059.jpg" group-title="PELICULAS ACESTREAM 2",Memorias de Paris (2022)7.2
-acestream://a45547db4fee65123444d219ccda11ae87af65d0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El que sabem (Lo que sabemos) (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNTg1MWMtNGZjNS00OGQ3LTkxYTEtMWQ1MTEzZTFjZmY1XkEyXkFqcGdeQXVyNjY0MDU3MzA@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El que sabem (Lo que sabemos) (2023)7.0
-acestream://8999522ed5604129a6ac3a30dd94ac3a308328ff
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chang machaca (2023)6.6" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="PELICULAS ACESTREAM 2",Chang machaca (2023)6.6
-acestream://f372cd67227f3aa1b03ddb3098b21c2f369db5c3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cazadora (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFiNzcwMzgtMzE4ZC00YjM3LWJmNjAtZGE2ZjM1Yjg3NWRjXkEyXkFqcGdeQXVyODYzMTEyNzg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Cazadora (2023)
-acestream://e889b1de8c5a96548a42fd55a177134124858344
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los pasajeros de la noche (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZmM2NjMjYtNDJmYy00NjA1LTgyZTItYjhiMTdjY2MyOTYwXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Los pasajeros de la noche (2022)7.0
-acestream://a6d759959663ea59f422e69c835e4f514ae5e9e7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malvada(2022)7.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJmZTQ2ZjYtODg2Zi00ZmNkLTk4NTktNTkxNTRkOWE2NTZiXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Malvada(2022)7.9
-acestream://6c2b51a1cbd862ed0395300a40b6ea20b82bc965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Babylon (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUwMjYyNTktNDIyZC00NmU0LWFkNzAtZTVjMTNjZDY4MDlmXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Babylon (2022)7.6
-acestream://e592952c49d3d8948fb36c06e726d710b8c96449
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Con su propia justicia (2021)4.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRjZjMyMjMtODUyZC00ZjA0LTk3YzMtNGQ0NjZmMTJmNGFkXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Con su propia justicia (2021)4.6
-acestream://9fb2f734dbcffadc9139368a645fa851f9b85895
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Warrant (2022)4.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcxNTg2NmYtNjM2YS00YzI5LThiNjMtODE2MzMxYTZmNjI0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Black Warrant (2022)4.0
-acestream://fa06754f07c36a7d8be501c1d7de247902622448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie Skipper y su gran aventura como canguro (2023)7.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM2MDY2MGYtYjA1Ny00NDMzLTk5YmYtM2Y5M2M0MWI3ZGY5XkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Barbie Skipper y su gran aventura como canguro (2023)7.7
-acestream://438dc4fadc07f1f5b45c549ba374a1583b400368
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terrifier 2 (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Terrifier 2 (2022)7.0
-acestream://bb932baefbf5c540267461631aa9c6db42b10b13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Hanging Sun (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliM2JhNzgtNTQ4Yy00NWE0LTkzZTgtNWVlZTU0Y2E3MTRkXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",The Hanging Sun (2022)5.5
-acestream://21fb4431e7c1a8dc1cca1f0a0d5b8428084c0cb2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ray Donovan la pelicula (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThkMTBiMDItZGVhOC00MWJkLThlZjgtNmJiMTA0NjFjMDgyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Ray Donovan la pelicula (2022)6.8
-acestream://1804f2205dbf26cd144452d3ae01284d238048bc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noche sin paz (Violent Night)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM5ZjEzMjItZDk0ZC00M2U2LWI5YzgtYzk2YmE3MzhjY2IyXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Noche sin paz (Violent Night)7.6
-acestream://9c2b45eea6d7dd4960590a414dae1d45ed138769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sayen (2022)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE2NjIyYWMtOWRkOS00MjM3LTk0NWMtZjBiZmU2YmUxM2MxXkEyXkFqcGdeQXVyMTI4NjE0MTU2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Sayen (2022)8.0
-acestream://14fb3e41a4d97d79a60a95ffe65a9700b420073a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una estafa celestial (2021)6.2" tvg-logo="https://images.justwatch.com/poster/303952230/s718/jugando-a-ser-dios.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Una estafa celestial (2021)6.2
-acestream://b9e19fd9983c3726fb89b2d03abb79cf798c5b5a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La forja de un campeon (2022)6.8" tvg-logo="https://lh3.googleusercontent.com/urStNmZYM90l8FYagFhYpDxU39FY9C3BxtcvChODG7o0LlshhA4tcTyP1uNMF9kdLkpG-CJMS_9fcjal6q3LVM6ViUPKPE0AEmcjEdqcfYgie4ITdH3ta7h8E9vWKbu5hm0zsiI6jl4=w2400" group-title="PELICULAS ACESTREAM 2",La forja de un campeon (2022)6.8
-acestream://18b97ae5a1031828cbf00aad475079bf3f4ea643
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 exorcismos (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk5MjU4Y2MtOWFhNC00OWQxLTk5YjQtYTAwNWY5MmYzZjg3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",13 exorcismos (2022)6.0
-acestream://515b96e5fbcf5a4dad79f9589e02b9733f0bab13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El visitante del futuro (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3OWYyODAtYTgxNi00MmI0LWExODEtZjk4YjAyMjUwYjczXkEyXkFqcGdeQXVyMTUzMzEyMTk0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El visitante del futuro (2023)6.7
-acestream://d77604a788daa0fa004bda6a88de0d434639186c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El oficio de aprender (2022)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/06/14/24/5392376.jpg" group-title="PELICULAS ACESTREAM 2",El oficio de aprender (2022)7.1
-acestream://c33518b7ecdac8456ade6188d0e4fa82a5ee58e7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como sobrevivir al instituto (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/07/12/23/0515949.jpg" group-title="PELICULAS ACESTREAM 2",Como sobrevivir al instituto (2022)6.0
-acestream://72d1d0d2bb0b4f25ac0ecd53b7eeac443591f3d1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasil (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/15/09/58/1065000.jpg" group-title="PELICULAS ACESTREAM 2",Vasil (2022)6.0
-acestream://892b30a43bd4e8fec8b26dc37b361805876ec118
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prancer A Christmas Tale (2022)6.6" tvg-logo="https://images.moviesanywhere.com/e60f2d85c8ee5e89c6ea222f87ef58ca/460a2f54-eb80-4f05-a8df-354d28f44851.jpg" group-title="PELICULAS ACESTREAM 2",Prancer A Christmas Tale (2022)6.6
-acestream://ea73394c55e9e9672cf08d0f9a42473552578b49
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Folie a Familie (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmOThjMmQtYTA2Yi00NDdiLThkNTUtMTQxODM5Y2FkZWQ1XkEyXkFqcGdeQXVyNTE5MzQ0OTQ@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Folie a Familie (2023)6.0
-acestream://f7ff8f6ba60925ea18a752a0a98343f265b0387a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esta noche duermes conmigo (2023)6.0" tvg-logo="https://image.tmdb.org/t/p/w1280/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg" group-title="PELICULAS ACESTREAM 2",Esta noche duermes conmigo (2023)6.0
-acestream://ae59d75f843ab62afaf217297c8a9ccd792670e6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion de Gracias con los Waltons (2022)6.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/ll3tEeNbNbagiA76JsfV0xJJmku.jpg" group-title="PELICULAS ACESTREAM 2",Accion de Gracias con los Waltons (2022)6.0
-acestream://67269a8466d252501960f3e316dfd7a4a578071d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El peor vecino del mundo (2022)7.7" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/03/17/06/5380553.jpg" group-title="PELICULAS ACESTREAM 2",El peor vecino del mundo (2022)7.7
-acestream://574bd70e307900bd7aef68e769c0c929d10422ea
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo baile de Magic Mike (2023)7.0" tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/22/12/20/19/23/5791184.jpg" group-title="PELICULAS ACESTREAM 2",El ultimo baile de Magic Mike (2023)7.0
-acestream://2529b9d255f3fa1a706f963cef67a67b94f3775e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres tu (2023)6.3" tvg-logo="https://decine21.com/img/upload/obras/eres-tu-45396/eres-tu-45396-c.jpg" group-title="PELICULAS ACESTREAM 2",Eres tu (2023)6.3
-acestream://934a27b12d927ba6d08ee80961211ae646ba3e01
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 dias de un buen hombre (2023)" tvg-logo="https://somosseries.com/wp-content/uploads/Poster-10-Dias-de-un-Buen-Hombre-Netflix-Pelicula-Turca-2023-201x300.jpg" group-title="PELICULAS ACESTREAM 2",10 dias de un buen hombre (2023)
-acestream://c8bf54c4f60361e4e0342a368f6ad69ce87ae4a4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Llaman a la puerta (Knock at the Cabin) (2023)6.6" tvg-logo="https://es.web.img2.acsta.net/pictures/22/12/05/18/32/5169034.png" group-title="PELICULAS ACESTREAM 2",Llaman a la puerta (Knock at the Cabin) (2023)6.6
-acestream://d1d2444d4b6d9c8d1a428dc2483b50cb5521b143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Efecto nocebo (Nocebo) (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FkZjVlMDAtMmU2NS00NzI2LTg2NzctMGJhYTExOTExZDQ4XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Efecto nocebo (Nocebo) (2022)6.2
-acestream://7a45b9fb323f0116e823a667bc49a74230a8a350
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las gemelas que no hablablan (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmJiZGUtNDE4OC00N2M3LWJkNzItYjM4MGM3YTJkODBlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Las gemelas que no hablablan (2022)7.0
-acestream://c1b3dbd4a23fdf56b69b506c5cbc2b2e3f833611
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agujero en la cabeza (2020)5.3" tvg-logo="https://static.filmin.es/images/media/43639/2/poster_0_3.webp" group-title="PELICULAS ACESTREAM 2",Agujero en la cabeza (2020)5.3
-acestream://6bf2e69d3e2314906e3410b6ba8cf89a2fd1235d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Ultima cacerIa (The Last Manhunt) (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzODA1NmEtYmMxYy00YTQ5LWE4MjEtZjgyODRiMjAzYzk3XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La Ultima cacerIa (The Last Manhunt) (2022)6.2
-acestream://3c1ccb5527d51aaba58b94544f2da7170dfa881f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="High Heat (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMyNjFmNWYtY2M0Mi00OTkwLWI4MWUtMzQwOWY0MGFlZTk4XkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",High Heat (2022)6.1
-acestream://ecdec1227a40cf4ad4522353cc64a3d768c05575
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Corten (Coupez)(2022)7.1" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEU7kSuL723yc6R2fjxfRFZVgtcN2INN8Wa_Go613ZWjKppzFJGBFYLwOz06bux3WmlKI74Ih5dZThrkqWqHNSeal7T_NtzDBRUhKIF55yY7rnwku4FTOSa0kwhsQ-rmiq1fYuuEIFZHlHW_7Q5V7PKcFg=w558-h697-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Corten (Coupez)(2022)7.1
-acestream://a64305c73e012d436bae32a9c768f781645c221e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La integridad de Joseph Chambers (2022)4.0" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/30/20/11/3413901.png" group-title="PELICULAS ACESTREAM 2",La integridad de Joseph Chambers (2022)4.0
-acestream://8a5ab6c3f1c30021da9a90b98e776e4e8ca78d58
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La sentencia (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkODQ1OGItZTY2Ni00ZTFmLTgyZTAtNDNjNWJjNDFjOWNjXkEyXkFqcGdeQXVyNjEwMTYyODM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La sentencia (2022)5.0
-acestream://1ff1e489751b78974b8f0245ea9d62f5cdbe090c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fantasma anda suelto por casa (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/31/10/30/0967185.jpg" group-title="PELICULAS ACESTREAM 2",Un fantasma anda suelto por casa (2023)7.1
-acestream://67c8b4e4ab83408f6b41848fcaa4110fbae9b0ab
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bad Candy (2023)5.2" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/9HRQiPxTGsUpP9hqCC1R5D1gQZT.jpg" group-title="PELICULAS ACESTREAM 2",Bad Candy (2023)5.2
-acestream://10ae239f16447349d7edb66ab61543ee42afed54
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maton sangre de su sangre (2023)5.4" tvg-logo="https://images.justwatch.com/poster/303826181/s592/mi-padre" group-title="PELICULAS ACESTREAM 2",Maton sangre de su sangre (2023)5.4
-acestream://32def7e136f9899dec8c73273b1c5107b36ba2b7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Entre las olas (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/01/15/51/3423570.jpg" group-title="PELICULAS ACESTREAM 2",Entre las olas (2023)7.3
-acestream://6637146280182ac728d36c1d9556a4e372fe3953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La furia de una madre (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/06/15/59/2188475.jpg" group-title="PELICULAS ACESTREAM 2",La furia de una madre (2023)7.1
-acestream://a0674df5f62195cf59e0367e79bcb05f91e9e315
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los extraños (2023)6.3" tvg-logo="https://es.web.img2.acsta.net/pictures/23/02/16/17/51/5782884.jpg" group-title="PELICULAS ACESTREAM 2",Los extraños (2023)6.3
-acestream://4b2ddd55c8e47034e947c16d0c46a18801432790
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muere Hart (Die Hart the Movie) (2023)5.5" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/01/16/42/2726273.jpg" group-title="PELICULAS ACESTREAM 2",Muere Hart (Die Hart the Movie) (2023)5.5
-acestream://ec4693e4ab67654dd36bbec98f66f1049c18612b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Night Raiders (2023)5.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Night Raiders (2023)5.3
-acestream://8db3cafe7bafc3eacf362841556b34421dbbb4ac
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Parque Salvaje (2023)4.9" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/09/07/12/24/2686804.jpg" group-title="PELICULAS ACESTREAM 2",Parque Salvaje (2023)4.9
-acestream://6022524bf9917d4972ae881e987f8dcb19035a20
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deseo ardiente (2022)4.8" tvg-logo="https://album.mediaset.es/cimg/2023/02/22/deseoardiente-mitele-plus-700x1000_1bf4.jpeg" group-title="PELICULAS ACESTREAM 2",Deseo ardiente (2022)4.8
-acestream://f145a9f99297a411b5ea191020c4a9389d36c1e3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hilma (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk1NDYyODktMmIxNi00ZTZjLWI4NWMtMmU2ZDc3YzEyMjdjXkEyXkFqcGdeQXVyMDYyODA2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Hilma (2022)6.0
-acestream://10e06fabe6c69972caab657d110094e27317b2c3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bellefond (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM4YTM0ZmItMWZlNi00N2QyLThiYjQtMzlhN2Q5NzViZDZhXkEyXkFqcGdeQXVyMTA1Mzk1MzU0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Bellefond (2022)6.6
-acestream://e13e15ee2028fc2962300769eec5a589cf0ffa2b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="el polloliebre (2022)7.6" tvg-logo="https://cinemagavia.es/wp-content/uploads/2022/10/Hopper-el-polloliebre.jpeg" group-title="PELICULAS ACESTREAM 2",el polloliebre (2022)7.6
-acestream://747fb3f0d747ccecf08c8aa8be7dc54083be45ed
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nana (2022)8.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVlYTg2ZDktNGRhMC00ODM3LWE2NGYtNWJkNWVkODEyZjhjXkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Nana (2022)8.7
-acestream://fe89af4d05aa73af896ab7e35717034e30570b2d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Embaucadores (Sharper) (2023)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JlN2Q2ZmYtYmU4OS00ZjNlLWE2OTEtOTc2ZDY5NjEwMTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Embaucadores (Sharper) (2023)6.8
-acestream://2eefce15bfad2246736b0da3391b20f00ba276091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La guarida (The Lair) (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/05/18/24/1142548.png" group-title="PELICULAS ACESTREAM 2",La guarida (The Lair) (2022)6.0
-acestream://c500b215e575ef47e9e3e423885cdef5d3580e5c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Icaro y el minotauro (2023)6.3" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/09/14/18/43/0044588.jpg" group-title="PELICULAS ACESTREAM 2",Icaro y el minotauro (2023)6.3
-acestream://46f7da1edc5136307ee2d0a28da857b90096b65e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Querido David (2023)6.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/07/11/29/1816929.jpg" group-title="PELICULAS ACESTREAM 2",Querido David (2023)6.3
-acestream://c211e7eb2abe6857ad719d3fb7837d2215713af4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor al cuadrado otra vez (2023)5.8" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/03/11/23/1256691.jpg" group-title="PELICULAS ACESTREAM 2",Amor al cuadrado otra vez (2023)5.8
-acestream://e7fbe500e40f85072c305fe97fd3e7fe970be976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El atracador perfecto (2022)6.8" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/18/17/14/3186016.jpg" group-title="PELICULAS ACESTREAM 2",El atracador perfecto (2022)6.8
-acestream://7b9557169f7411513ddaf9c7de99f7f76c8f6d7e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Armageddon Tales (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliY2UwY2EtMDg1OS00ZjZiLWE1YjEtZDMwYTA1MTc5ZTZmXkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Armageddon Tales (2023)6.1
-acestream://8241bb243fe77f55b2d8d9901e2a6f2c589d5cad
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emboscada (2023)5.6" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/01/04/17/53/1312273.jpg" group-title="PELICULAS ACESTREAM 2",Emboscada (2023)5.6
-acestream://70d73bf7b24bba4e65180117edcd0029efe80156
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sintiendolo mucho(2022)8.6" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/17/18/09/2552370.jpg" group-title="PELICULAS ACESTREAM 2",Sintiendolo mucho(2022)8.6
-acestream://bfa3c4d7111f6b8f73e46dedc9a99137a205a736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Socios x accidente (2022)6.0" tvg-logo="https://cdn.colombia.com/cine/2022/9/socios-x-accidente-41418.jpg" group-title="PELICULAS ACESTREAM 2",Socios x accidente (2022)6.0
-acestream://3d9b3daa31c506f6729e2af40eea1ea15f3455bc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Fearway (2023)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiNDVjOGYtNTgwMi00MWQ5LTg0MmEtNzBjNDczMWM4NTBmXkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",The Fearway (2023)5.5
-acestream://7a82cc418bbff5e0cd5b18b08b27ee0420e6d778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El lado salvaje (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2ZTRlODItMDczMi00MDQ1LTg3MzItOGQ0MzEzNTU0MmI2XkEyXkFqcGdeQXVyNTMyMTI3MDI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El lado salvaje (2022)5.0
-acestream://a05a5dc013a18324750dc53dbc9e3259233a47a9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La banda presidencial (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNlZTc1YTctOWEzYi00MmJlLTkxMzctODFlNDgyOTY2ZjViXkEyXkFqcGdeQXVyNDQxOTAyNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La banda presidencial (2022)5.0
-acestream://1b963504c673d64819ab377e150c2e49b196a7c4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luz Mala (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQwMjFkZDItNmZiNi00OWJmLTk2Y2UtYWQwMTYxNTQ4OThhXkEyXkFqcGdeQXVyMTMyMzM1MzM5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Luz Mala (2022)5.0
-acestream://1132ec134c4c221ef27965cdfa647e399a1fb739
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El imperio de la luz (2022)6.0" tvg-logo="https://www.ecartelera.com/carteles/17600/17631/002_m.jpg" group-title="PELICULAS ACESTREAM 2",El imperio de la luz (2022)6.0
-acestream://f73b25c4ea9cfcd0b00d313a42ad7deb77e1d0b6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modelo 77 (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMxOTI2ODgtN2E3NC00OTcwLThjODAtNjM4MjM4MzY1ZTEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Modelo 77 (2022)7.6
-acestream://e8b84552ba2d8d267661ff713fe3b79b0d6fc7b2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El grito silencioso El caso Roe v. Wade (2022)" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/16/12/49/1307070.jpg" group-title="PELICULAS ACESTREAM 2",El grito silencioso El caso Roe v. Wade (2022)
-acestream://2611186b2f77e07eeced23db9817598feede3a71
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una leccion criminal (2022)7.8" tvg-logo="https://lh3.googleusercontent.com/i5ZzwGduzERQ1kmE8QJ5kpC2RT7qFo6_YVJvYUQPuIknZ9yXMxEIhAp9eCShv7chtlua96CFB7SoZTF-gtMJp4I2fdbYTNo1MVp70IVKzs5pp_ZcbDtxWEzUTaklcTVmhfy13WLVqCE=w2400" group-title="PELICULAS ACESTREAM 2",Una leccion criminal (2022)7.8
-acestream://0322cfc22974783747a26fd549a4ebbbd57d17b5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diabolik (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY0MzJhMzAtMWRjYy00ODM5LWE3MTUtNjQwZDViYmMwZjkzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Diabolik (2022)6.1
-acestream://59cf6ae1e5c540f2876e438ab8830678de48f8f5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Belleza (Wunderschon) (2022)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFjN2M5NzctNzBhYS00ZDhkLTlhNWItMzY0ZTIxYmQ5OWE1XkEyXkFqcGdeQXVyNzEwNDc1NzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Belleza (Wunderschon) (2022)7.3
-acestream://17447638287d75c36352f707744b02581f87c177
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somebody I Used to Know (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk5YzkzZDktY2M4NC00MTczLWI0ODgtNzQxZGMxMjA5ZjU5XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Somebody I Used to Know (2023)6.0
-acestream://c8bf6fd9533625e07c7a73fc7593fc95d962a38d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La consagracion de la primavera (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/30/17/25/5747478.jpg" group-title="PELICULAS ACESTREAM 2",La consagracion de la primavera (2023)7.3
-acestream://41f0ebdebf344fc5776d58191d459f852e401456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baila con la vida (2023)5.2" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/08/12/12/37/2843514.jpg" group-title="PELICULAS ACESTREAM 2",Baila con la vida (2023)5.2
-acestream://610f3f9301f5ede30aa3a28828abbfa3b5fb1cf6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En el lugar equivocado (2022)4.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/05/18/36/3874024.png" group-title="PELICULAS ACESTREAM 2",En el lugar equivocado (2022)4.7
-acestream://f409e345496d45dd85479c879b9df4b0f62d26ee
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Punto de fuga (2022)4.7" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/5jmbrS5563WNSMNWM3AFfuzYwVJ.jpg" group-title="PELICULAS ACESTREAM 2",Punto de fuga (2022)4.7
-acestream://e301372d9525237e5dd5f4be043f81a98eee3a7d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu casa o la mia (2023)6.6" tvg-logo="https://es.web.img2.acsta.net/pictures/23/01/18/08/40/5351683.jpg" group-title="PELICULAS ACESTREAM 2",Tu casa o la mia (2023)6.6
-acestream://dc30b7251ffe94f82d560375af46f04272c1dd60
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Whitney Houston I Wanna Dance with Somebody (2022)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/06/17/38/5484570.jpg" group-title="PELICULAS ACESTREAM 2",Whitney Houston I Wanna Dance with Somebody (2022)7.1
-acestream://52fee24989a58a483f1be5ec8478e3aa3e7dea2a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aqua Teen para siempre Plantasma (2023)6.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/31/17/11/0372672.jpg" group-title="PELICULAS ACESTREAM 2",Aqua Teen para siempre Plantasma (2023)6.3
-acestream://92a294ba4f53cca6e851bc63cbd1d1550069964a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unicorn wars (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Unicorn wars (2022)7.0
-acestream://f9299579639ca462d4e982e6f69bf30a9300bb9f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cita con el crimen (2022)7.1" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/g7FqMbARpI1yjoM3qp3e4clVsVJ.jpg" group-title="PELICULAS ACESTREAM 2",Cita con el crimen (2022)7.1
-acestream://7c8abc6c6eb9c405887fee8860e3404a457b050d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La coartada (2022)6.3" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/wei2WoPJka60ITevLP9f73guSNn.jpg" group-title="PELICULAS ACESTREAM 2",La coartada (2022)6.3
-acestream://b8e06a4dbb0c2090c1ba438b6f01b6c2d78736f5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un año una noche (2022) 7.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/10/16/20/5061802.jpg" group-title="PELICULAS ACESTREAM 2",Un año una noche (2022) 7.0
-acestream://b825b3bf9fa067caabef0a6d3b3b3c54f45c7bef
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casando a mi ex (2023)6.8" tvg-logo="https://w4.cuevana3.ai/wp-content/uploads/2023/02/casando-a-mi-ex-66826-poster.jpg" group-title="PELICULAS ACESTREAM 2",Casando a mi ex (2023)6.8
-acestream://4f24c70a7969dec0c36f27106faaa88be5c60258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby Doo conoce a Agallas el perro cobarde (2021)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODVmYmYtNjIwYS00MjNkLWIwNmItOWI1YzIyODkxOGYyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Scooby Doo conoce a Agallas el perro cobarde (2021)8.0
-acestream://27258f2f8da54919ee33501f0e6a290a12b2d91e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Panther Wakanda Forever (2022)7.6" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/03/15/27/0389048.jpg" group-title="PELICULAS ACESTREAM 2",Black Panther Wakanda Forever (2022)7.6
-acestream://81af7427bfebf8df5feaf64e4f80f242e2cef025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stromboli(2022)5.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA5OTY5ODgtN2YwNC00MTVlLThlN2MtNTllMGQ3MjhiMGE0XkEyXkFqcGdeQXVyMDEyNTM2Mg@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Stromboli(2022)5.3
-acestream://ed60d35abfa679cba4d5818140332266e60bee45
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secretos y traición (2022)8.0" tvg-logo="https://www.hispashare.org/images/cover.php?id=39085" group-title="PELICULAS ACESTREAM 2",Secretos y traición (2022)8.0
-acestream://767336e693d823bdbafd3005c4c353798631e470
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operación Bebé Oso (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/29/18/02/3021129.jpg" group-title="PELICULAS ACESTREAM 2",Operación Bebé Oso (2022)7.2
-acestream://73ea5ff5ef16a4cd79b5d8341bad11b28b2cdbd5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus (2022)7.2" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/14/11/55/0376139.jpg" group-title="PELICULAS ACESTREAM 2",Venus (2022)7.2
-acestream://bc021ceaf5c7f089781f81e973837984266025b1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo vikingo (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ4NjUzYzgtNmEwMy00MGM0LWE1NWQtYzUzNjMwNTY2MmY4XkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lobo vikingo (2022)6.6
-acestream://7378d52dbab9a1297b3365e72edafdd25a67835a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infiesto (2023)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjBkYWUtNmYxNS00M2Q5LTkyN2MtYzA0NDMwMTlkNDA0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Infiesto (2023)6.3
-acestream://14779481ff913bf51ea73efa4a3d7a4696c99a8c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="no hay santos (2022)5.4" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiMjFmZGQtMWJlMi00Y2FhLTljZDQtOGVlNjY5OTdiZWI1XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",no hay santos (2022)5.4
-acestream://f49fc5d10985692061aa0d80a4a0ba0d826fcc79
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2050 Robot de compania (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJiMmJiZTgtOWEyZS00NjQ1LWFhYmQtZDAyOGQwMmUxZTM5XkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",2050 Robot de compania (2023)
-acestream://75bcce76a44fce4c64824de35df79f60c0f42e19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espiritu libre (2023)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/11/09/55/4676715.jpg" group-title="PELICULAS ACESTREAM 2",Espiritu libre (2023)6.9
-acestream://71821ad0380386958403af580bb188149be3747f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peter von Kant (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/07/16/24/5051478.jpg" group-title="PELICULAS ACESTREAM 2",Peter von Kant (2022)6.0
-acestream://125f8aa6bab1b7c5efc69c13aafa61536e858a86
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una buena pelicula de accion (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VjZmZhYzktM2I2Yi00MDQ5LWFlZDQtODdiOGI4Zjc5OGU2XkEyXkFqcGdeQXVyMzUzMDM3MA@@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="PELICULAS ACESTREAM 2",Una buena pelicula de accion (2023)6.7
-acestream://87145a769f245965c8ba71f7b584d26a39be4ecc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Girasoles silvestres (2022)" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/12/08/39/5169809.jpg" group-title="PELICULAS ACESTREAM 2",Girasoles silvestres (2022)
-acestream://7e05931e04723ba34434ffeade6d318d20b0df5c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El agua (2022)7.3" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/08/18/55/0364287.jpg" group-title="PELICULAS ACESTREAM 2",El agua (2022)7.3
-acestream://767c65f5613ba1a5fd5185449b1ab9b0af4792f7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Para entrar a vivir (2022)6.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/27/12/08/2536941.jpg" group-title="PELICULAS ACESTREAM 2",Para entrar a vivir (2022)6.7
-acestream://adfdabfcd665dca26e77c1743df6af4328e7fefa
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nieve neige (2022)5.8" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/ild7w4syr1hAP0YyFmiJsEYKR7Z.jpg" group-title="PELICULAS ACESTREAM 2",Nieve neige (2022)5.8
-acestream://856ea675ed7dca201d1979e739ea55e82a6407d3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La ultima aventura (2023)5.3" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-ultima-aventura-poster-1136579_SPA-94_V.jpg" group-title="PELICULAS ACESTREAM 2",La ultima aventura (2023)5.3
-acestream://387159c4593c97b7f3af1cb668fafeeb9052c867
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jason Buscado por el FBI (2023)5.6" tvg-logo="https://musicart.xboxlive.com/7/55826400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="PELICULAS ACESTREAM 2",Jason Buscado por el FBI (2023)5.6
-acestream://ff6d8b988e2ea3cfea427e74d36e9bf4b8881c62
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los buscamundos (2023)" tvg-logo="https://lh3.googleusercontent.com/NltM4gZBkQ4xD4Hk6v8a1KZAXAzUS5RVy2x5jBFIRAb6Taja7cmxh0lnk3IDOpjgws-1v7zN3yIEm2I1JTpzh2mHX227NBfRfzxqJ851KcLTU4AoqUsLXK3eJq9ju--DAbym_F7FWNg=w2400" group-title="PELICULAS ACESTREAM 2",Los buscamundos (2023)
-acestream://f46a2743c590b30629dfc01a649d4e3e7af291cb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paradise City (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdhNWE1YjAtNWMzMS00ZmUzLWFjN2EtOWJlMGRkMTdiNGQ4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Paradise City (2022)5.5
-acestream://a390d6b12e95f809e4cdc484bb094975b78f3b29
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caribe todo incluido (2023)5.5" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/12/12/47/5070373.jpg" group-title="PELICULAS ACESTREAM 2",Caribe todo incluido (2023)5.5
-acestream://990ad2836329bdacca35812f4a7ca1efce1f10de
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III vs Cats Eye (2023)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MzI1N2ItOWNlMi00ZDA0LWJiYzctNDU2ZmQyODllMDhiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Lupin III vs Cats Eye (2023)6.6
-acestream://63755a2d90ae393251f6707eec8ab0a9b9492f2b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La formula ganadora de Jerry y Marge (2022)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/pKbarYkAYFFZS4wiLvbwUCqRNFe.jpg" group-title="PELICULAS ACESTREAM 2",La formula ganadora de Jerry y Marge (2022)
-acestream://9ace30f8197fe9ded88c4114b75ab92468b0432d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mírame (2021) 7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQxNzAwNmYtN2QwZi00NDU4LTlkZmUtMDQxZTYxMTZjZDk3XkEyXkFqcGdeQXVyMjQxODc1ODc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Mírame (2021) 7.0
-acestream://2a17152eb9b78b62dbcdbc92785715fca0ebd32f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una boda explosiva (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/05/17/22/2285214.png" group-title="PELICULAS ACESTREAM 2",Una boda explosiva (2022)6.0
-acestream://f28c78cf31a09d50a32d591878d67a9255020bb8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jethica (2023)5.5" tvg-logo="https://de.web.img2.acsta.net/pictures/23/01/03/18/37/0362232.jpg" group-title="PELICULAS ACESTREAM 2",Jethica (2023)5.5
-acestream://781d46aaacbcc4b122dc87d59f82363c53f87b19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La cena perfecta (2022)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/29/11/11/1947143.jpg" group-title="PELICULAS ACESTREAM 2",La cena perfecta (2022)6.9
-acestream://7400ee7bfea34c26d934e094519541533d083c5e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ritual (2023)6.6" tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/14/17/42/070596.jpg" group-title="PELICULAS ACESTREAM 2",Ritual (2023)6.6
-acestream://ac5bf56837c3801865aab2162a69d8ffbc972366
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darby y los espiritus (2023)6.6" tvg-logo="https://images.justwatch.com/poster/302603887/s718/darby-and-the-dead.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Darby y los espiritus (2023)6.6
-acestream://5a73bc063bfd99721930c420eafc58d0a6f921a6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuerza bruta (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/02/21/06/5476334.png" group-title="PELICULAS ACESTREAM 2",Fuerza bruta (2022)7.2
-acestream://8cdbe3e1d9fe710d3af1486d72f8afd077d5c28d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En los margenes (2022)7.1" tvg-logo="https://lh3.googleusercontent.com/eVKdss8sal8671zy69BmRcHbpaN8V_4JVfF8Um_iSVTS6vW0kPRN867Gn94Sfptwlxq5WjkIR1EIEZ-aaNVEWmrLERHMMaLhauGSBOHxcHoSgILvP0o6GKS4RpoS5umv6TpNv-a4X2w=w2400" group-title="PELICULAS ACESTREAM 2",En los margenes (2022)7.1
-acestream://ba28508ac10636091c048db3667d77607b921119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como el buen vino (2023)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmZDIxZjctNTY2ZS00YTA2LTkyZjMtZDBmNjY1YjYzMTUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Como el buen vino (2023)5.5
-acestream://d155c61138d6e1a2fae2801338a65559eca63d74
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una herencia peliaguda (2023)6.6" tvg-logo="https://cratercraft.coffee/wp-content/uploads/2023/01/una-herencia-peliaguda-(poster99).jpg" group-title="PELICULAS ACESTREAM 2",Una herencia peliaguda (2023)6.6
-acestream://c7ce24e9aaf89a0e94cad90b446a3796ac06f81a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La gente como vosotros (2023)6.6" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2023/01/Ustedes-Poster-900x1333.jpg" group-title="PELICULAS ACESTREAM 2",La gente como vosotros (2023)6.6
-acestream://d07296cd5e8aa7ec22a318f63a974d6124842313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia tiene un precio (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4MGQ0YWYtN2IzYy00NjBhLWE0N2UtNWVjNTUyMmFlNzNiXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La familia tiene un precio (2023)6.1
-acestream://fa7c0db5aad0cd39aa246c2cb3eb1d941f65eb51
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El vasco (2023)5.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQxZmMxOTctNTgwOC00NTA3LTk4ZWYtNjY4ZWY4ZDgyNTAwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El vasco (2023)5.7
-acestream://e47de5c68d1dff201946b57d608f6fc15af09e4a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="L'immensita (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIyNWIyZWYtNzgxYS00OGQ3LWE0NTItMjI2YmM2OTdhYzZhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",L'immensita (2022)6.7
-acestream://67f71eb183497dd762a7b23cb8c0283cef499900
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ruido (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFhODEyZGUtZTA3My00MjAwLTgyZjgtNmMxMTZmZDIxMjY1XkEyXkFqcGdeQXVyMjQxMDYzNzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",ruido (2022)7.6
-acestream://bdabc6bfc2e6b1630970de2f2b385cdf4f8ef3f4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legiones (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxNGFhOTQtZjE0Ni00OTA0LTgxZWQtNGZlNWVkZWRmZGNjXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Legiones (2023)6.0
-acestream://b6370e9065800c2b3b0ff43e7315e41bb586ea45
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El suplente(2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZTllNzItMWMyOC00MDkyLTlkNWEtOTI5MzIxZGE4NGY3XkEyXkFqcGdeQXVyNzA3Mzc2Mjc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El suplente(2022)6.0
-acestream://de7421fd73f8651d05d70d43f4e735320821f4d4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narvik (2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVlY2Q1OTUtZjRmYi00OTZiLTg5NzktM2M0ZGViNzczOThlXkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Narvik (2023)6.9
-acestream://c37c4a01518238a808a8120fc76ba78f312c2625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deseo ardiente (2022)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hlNf1sIHkAyXZj7v7bhCvWF87Gr.jpg" group-title="PELICULAS ACESTREAM 2",Deseo ardiente (2022)BluRay Rip[6.0*]
-acestream://2adf161e3a525cf01a81a562c258c3faf0dccc25
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bad Blood (2021)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEYO75bZZAPCNOmJoSFcJmZQdLQ.jpg" group-title="PELICULAS ACESTREAM 2",Bad Blood (2021)BluRay Rip[6.6*]
-acestream://7735648b7391fc35b2768e7149023b520086c78e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cráter Un viaje inolvidable (2023)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppEvMrq2nvV9DfBHuCRilf2MBnm.jpg" group-title="PELICULAS ACESTREAM 2",Cráter Un viaje inolvidable (2023)BluRay Rip[6.6*]
-acestream://4b25dc928076ba9339b758b4332e32e6f4c8dfe6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El río de la ira (2022)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg" group-title="PELICULAS ACESTREAM 2",El río de la ira (2022)BluRay Rip[6.6*]
-acestream://422faeb77dfcf39714993de1d44da56a46546529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bendita Suegra (2023)BluRay Rip[7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8uDGZ0HW8aKNTkUkaRHu4XSxGS.jpg" group-title="PELICULAS ACESTREAM 2",Bendita Suegra (2023)BluRay Rip[7.6*]
-acestream://afa021be568919a9dc04f12512a2b8d6337f75a1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encuentro con la muerte (2021)BluRay Rip[8.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPwmHDj7A9kJsvHOpgXpt2CRJ03.jpg" group-title="PELICULAS ACESTREAM 2",Encuentro con la muerte (2021)BluRay Rip[8.1*]
-acestream://9a2b614e1a3f796a194eb97e71f6a4c3b557e1d3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Hasta la madre del Día de las Madres! (2023)BluRay Rip[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j741ip55NOzabrllOXHJv2vpag7.jpg" group-title="PELICULAS ACESTREAM 2",¡Hasta la madre del Día de las Madres! (2023)BluRay Rip[7.3*]
 acestream://d7118938bc3ff0e38c2bdf75c3ba4be3b92cc3cd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todo queda en casa (2022)BluRay Rip[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tU2EMoIPCn7CcCtLW8lRAoJYKYK.jpg" group-title="PELICULAS ACESTREAM 2",Todo queda en casa (2022)BluRay Rip[6.3*]
-acestream://0214629e5f3a33c0676135b109eef4296e92e55a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno para morir (2023)BluRay Rip[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg" group-title="PELICULAS ACESTREAM 2",Uno para morir (2023)BluRay Rip[6.3*]
-acestream://6e4fc8e875b68498427e72cabc109e1a0227d2f7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dungeons & Dragons (2023)BD1080[7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="PELICULAS ACESTREAM 2",Dungeons & Dragons (2023)BD1080[7.6*]
-acestream://07ec069cf280130c044d3c1fe71892bc48de3309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Battle for Saipan (2023)BD1080[5.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg" group-title="PELICULAS ACESTREAM 2",Battle for Saipan (2023)BD1080[5.7*]
-acestream://adfb5054e49100767aa52e2b2105a089059b38a5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Irati (2023)BD1080[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uwbef3ip9qcoD0j36jy1Ik294J.jpg" group-title="PELICULAS ACESTREAM 2",Irati (2023)BD1080[6.7*]
-acestream://f4b899bbe55ae04dc40d07271b8cda5bee375c6e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club de los asesinos (2023)4Kwebrip2160[7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="PELICULAS ACESTREAM 2",El club de los asesinos (2023)4Kwebrip2160[7.2*]
-acestream://e3396bab3bb32224f8f1f58e32e32027d593076e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brian y Charles (2022)4Kwebrip2160[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bo8jikEHykPXgi1b0esYao0zAzt.jpg" group-title="PELICULAS ACESTREAM 2",Brian y Charles (2022)4Kwebrip2160[6.7*]
-acestream://48f435f73578a5725743f637715b993585c933e7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emily Bronte (2022)4Kwebrip2160[7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gHRnvzxvcMGIDV2MiPkGRYKZoIS.jpg" group-title="PELICULAS ACESTREAM 2",Emily Bronte (2022)4Kwebrip2160[7.2*]
-acestream://bd68164edd6624beb372d04d6092ff2820fc3ea1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nadando en libertad (2022)BluRay XviD[6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYjcXSRUhvYFAs5lft4d2qDEiks.jpg" group-title="PELICULAS ACESTREAM 2",Nadando en libertad (2022)BluRay XviD[6.2*]
-acestream://98e7a49ab1e5b870a1f256728aa658d27727b2ce
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sharks (2020)BluRay XviD[5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ne2xAzlgSaWvBrYGw2LkO8W5pHi.jpg" group-title="PELICULAS ACESTREAM 2",Sky Sharks (2020)BluRay XviD[5.0*]
-acestream://d62d6ddbb4a353c959117bc6141550a34ab7300a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Camila saldrá esta noche (2022)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9zmnc5e9RfOfxnuzJydT45wJvo.jpg" group-title="PELICULAS ACESTREAM 2",Camila saldrá esta noche (2022)BluRay Rip[6.0*]
-acestream://dfec7622357837939277f979780743bdccfd7fce
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El falsificador de pasaportes (2022)BluRay Rip[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a7DyvPLdrz41CyMRJy8LlNT1waO.jpg" group-title="PELICULAS ACESTREAM 2",El falsificador de pasaportes (2022)BluRay Rip[6.7*]
-acestream://dcf63601e542129d7fc869c598087b32ac4f33fa
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Gran Aventura De Blue (2022)BluRay Rip[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JV5nDPMYQLaZz2n0SmxQfMYfLn.jpg" group-title="PELICULAS ACESTREAM 2",La Gran Aventura De Blue (2022)BluRay Rip[7.3*]
-acestream://05d927def2fabd1372cc447d5df1595b6b953dad
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los últimos 10 años (2022)BluRay Rip[6.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UysjGnbJ0z52gLZI7Hio4LEG95.jpg" group-title="PELICULAS ACESTREAM 2",Los últimos 10 años (2022)BluRay Rip[6.9*]
-acestream://8bf308af9c3405dfb29e0f1a6156f702fbab1655
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quiero Tu Vida (2023)BluRay Rip[6.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kH7W4ip1pU8chVdJXPU1HeW3JbY.jpg" group-title="PELICULAS ACESTREAM 2",Quiero Tu Vida (2023)BluRay Rip[6.1*]
-acestream://130628826f9c089454341151c3555fc60026e248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ustedes deciden (2023)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/QhyBSSw9dsDlyNvsXLKpHsQgI9.jpg" group-title="PELICULAS ACESTREAM 2",Ustedes deciden (2023)BluRay Rip[6.0*]
-acestream://3b0a40af70ae3cc93fdce79a72545ae0b4fbe135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Devotion. Una historia de héroes (2022)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBYfbtWzmeKhQnlXdEzaPKwX9ii.jpg" group-title="PELICULAS ACESTREAM 2",Devotion. Una historia de héroes (2022)BD1080[7.3*]
-acestream://ae195b56d9c6fee8163021f47c0090a28f2604bc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clock (2023)BluRay XviD[8.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wgGZzSBYOZlNovVh5hh9cXbRO9.jpg" group-title="PELICULAS ACESTREAM 2",Clock (2023)BluRay XviD[8.3*]
-acestream://4623d7e43415600cb540ff2dfe660d773338138f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alias (2023)BluRay XviD[7.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZKjDmCX5Vcl2c345EEnQVZTOAH.jpg" group-title="PELICULAS ACESTREAM 2",Alias (2023)BluRay XviD[7.0*]
-acestream://c1766f8eb1ac98e05d8d1db1f14d8e837a374b53
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hunt. Caza al espía (2022)BluRay XviD[6.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6P7qsJ46xAQsHlNBc9qkqEirSCy.jpg" group-title="PELICULAS ACESTREAM 2",Hunt. Caza al espía (2022)BluRay XviD[6.9*]
-acestream://93b0536dd3fff518fbe61e634aaa1a0f1db536b0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peter Pan & Wendy (2023)BluRay XviD[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="PELICULAS ACESTREAM 2",Peter Pan & Wendy (2023)BluRay XviD[6.6*]
-acestream://4168c69ce85822d7005a89c8578c7e16230be05f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club del odio (2022)BluRay XviD[6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4NvQSecQMmpnxHbDWG07KOvf1Qi.jpg" group-title="PELICULAS ACESTREAM 2",El club del odio (2022)BluRay XviD[6.2*]
-acestream://9a26fd3d97594183cb4640108867bcb5e0eaf8fb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="¡Que se besen! (2023)BluRay XviD[7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLn0dg0n73v8L6lKkTkX5k8POyy.jpg" group-title="PELICULAS ACESTREAM 2",¡Que se besen! (2023)BluRay XviD[7.2*]
 acestream://e49135fa932a6181e7f64277edc07be1145d7b3f
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Separadamente juntos (2022)BluRay XviD[4.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TNyjDvGDnncYraTkUYgBwmMx53.jpg" group-title="PELICULAS ACESTREAM 2",Separadamente juntos (2022)BluRay XviD[4.7*]
-acestream://8b16edbd3b59c14a7ab7ffc05ce831de3e41c2db
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fin de semana estupendo (2023)BluRay XviD[8.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9O8jKruyHRYTdGJg5I1u7b2JbVE.jpg" group-title="PELICULAS ACESTREAM 2",Un fin de semana estupendo (2023)BluRay XviD[8.0*]
-acestream://2a80848f70da26e9da4b3e3b4b26d99439b8c4a2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hogar (2022)BluRay Rip[8.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jAU8PoS80O8ojsk6mMhF3Sekle.jpg" group-title="PELICULAS ACESTREAM 2",El Hogar (2022)BluRay Rip[8.0*]
-acestream://ceb2a66771b96d545151ff9279472d2516a2e592
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legado de sangre (2023)BD1080[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJPtERjWqzST4S3cw5EQeqwOlby.jpg" group-title="PELICULAS ACESTREAM 2",Legado de sangre (2023)BD1080[6.3*]
-acestream://e3014af3ccb0b7e4e8ead7810cce34093d0ebad8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scream VI (2023)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg" group-title="PELICULAS ACESTREAM 2",Scream VI (2023)BD1080[7.3*]
-acestream://eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M3GAN (2022)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nODj4huoOcHwCQnfhZFCqUYcInU.jpg" group-title="PELICULAS ACESTREAM 2",M3GAN (2022)BD1080[7.3*]
-acestream://5d2e62135ee7c7275212dbb4487f1d50b120e447
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La espada de los 47 Ronin (2022)BluRay XviD[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYAHGYOBi5NPIb0wLQGDyVie2v9.jpg" group-title="PELICULAS ACESTREAM 2",La espada de los 47 Ronin (2022)BluRay XviD[6.7*]
-acestream://32283f5fa80acc2bdd1df8c9d87570cb1ca337bd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En la universidad (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwNzNmNjUtNWQwMy00NDZkLWFhMzktMjE3YjBiZGFjNThiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",En la universidad (2023)7.0
-acestream://d53543e78d23e0fe25fd4ccd8eff1a12b11f7167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAR (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",TAR (2022)7.2
-acestream://716cb8d428a9056f3c957fe6f9e3ccaedf40eb85
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ojos que no ven (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EwY2NmNzEtMzVkYS00MGJjLWI5YTEtYWEyMzFiYTZmYTI3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ojos que no ven (2022)6.0
-acestream://ffd71dffa1c23ec971a07525cdedc577efd2a00c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La orquesta terrestre (2022)7.3" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10149/la_orquesta_terrestre-cartel-10337.jpg" group-title="PELICULAS ACESTREAM 2",La orquesta terrestre (2022)7.3
-acestream://af7553d837949087827330c756e2e1db27fa8b14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yuku y la flor del Himalaya (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzNGYyYzgtNzM1Zi00NWY5LWJhOGUtMDU4MjUwZDhlYTczXkEyXkFqcGdeQXVyNjkwMDkzNTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Yuku y la flor del Himalaya (2022)7.2
-acestream://bbcf42b2a280a64406a387348e25628dd8c4a77d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ant-Man y la avispa quantumania (2023)6.4" tvg-logo="https://northmennews.com/wp-content/uploads/2023/03/poster-608x900.jpg" group-title="PELICULAS ACESTREAM 2",Ant-Man y la avispa quantumania (2023)6.4
-acestream://0086f98daff674e0c298362a41f7bc40027ab628
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siete reyes deben morir (2023)7-2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlmNGE0ZGMtMzdkMC00MjQyLWI1ZjgtZTIxODAyNWJlZDFlXkEyXkFqcGdeQXVyNTQ4ODM2NjM@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Siete reyes deben morir (2023)7-2
-acestream://af52a6b14b9154ad96790f4c8168a639c3d77cad
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amenaza en las profundidades (2022)6.6" tvg-logo="https://pbs.twimg.com/media/FtBLt_fXoAEfl2B?format=jpg&name=large" group-title="PELICULAS ACESTREAM 2",Amenaza en las profundidades (2022)6.6
-acestream://9896d230a5b7ec6a17b9893c0434e66171e55b3c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hellraiser (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Hellraiser (2022)6.3
-acestream://e2ac7893211774202b2508f12a6ba6eaaec3e240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dig (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjJjNWNmYTUtOTY0MC00ZTNiLTllNDYtZWQ4YjQ1MjUxM2NmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Dig (2022)5.0
-acestream://76273834558a05cc42e2fa3c2ca3717a6fbdd473
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fenomenas (2022)5.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk0ZWUzYjAtMGQ2MC00YzM4LWEwZDctMzM0NTA3ZmI3NWVhXkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Fenomenas (2022)5.6
-acestream://60e19304bd05b4821ec1cb4ac04490f98f174450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disquiet (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmZThhMDgtOTMyYy00OTgyLWE3MGQtNTQzMDA1YjJmMjk4XkEyXkFqcGdeQXVyMjM1OTE5ODk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Disquiet (2023)6.0
-acestream://f7cda4f838dcaca395f849b98b0df50d6f18fdb3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eugenie Grandet (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiNjhiM2EtMjI5Yi00NzJjLWI4MzktMmZmMjkxNzk3NTE1XkEyXkFqcGdeQXVyNTMwNzY2MzM@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Eugenie Grandet (2023)6.0
-acestream://b0b26ade67e98446ab0e2c4b3d2fdb2f534b86f5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un extrano en nuestra cama (2022)5.3" tvg-logo="https://pbs.twimg.com/media/Ftlai-TXoAElm2K?format=jpg&name=large" group-title="PELICULAS ACESTREAM 2",Un extrano en nuestra cama (2022)5.3
-acestream://89005360003b6245cac08652a4aec729f6b301d9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nombre en clave Polonia (2022)6.0" tvg-logo="https://images.justwatch.com/poster/304892179/s332/kryptonim-polska-2022.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Nombre en clave Polonia (2022)6.0
-acestream://1bf859e193f0d881e5a0a729f3a9927f31c5cb72
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R.M.N. (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VkNjg0NjUtNTI5OC00NmQ2LThhMzgtYjA4MGMxYzQ2MGUzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",R.M.N. (2022)7.0
-acestream://b495fe0189476b00a6251611ce2de8812fe259e3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuga de reinas (2023)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkODNkZDEtN2ZhMC00MjliLWFhNDgtYWFlNTFjMDY5NWVjXkEyXkFqcGdeQXVyMTUzMDg0ODA0._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Fuga de reinas (2023)5.0
-acestream://e214b33e5bce79a10f65149139004632704a1c8c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lo inevitable (2021)4.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUyMmIzOTItZDU4Yi00NTc0LWEzMzAtOGMwMDMxZmZiMGU1XkEyXkFqcGdeQXVyNzY3OTY1NjQ@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lo inevitable (2021)4.6
-acestream://2d4c130691e0a83088c721e564d643ffbd7f86e1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sucias mentiras (2022)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UxYWI2ZWQtYTllZS00MTMzLWEwOTMtNzMyM2UxN2YwOGUyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Sucias mentiras (2022)8.2
-acestream://0053ab396b01a68c7aef7db851d594855d21f2dc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 dias de un buen hombre (2023)" tvg-logo="https://somosseries.com/wp-content/uploads/Poster-10-Dias-de-un-Buen-Hombre-Netflix-Pelicula-Turca-2023-201x300.jpg" group-title="PELICULAS ACESTREAM 2",10 dias de un buen hombre (2023)
+acestream://c8bf54c4f60361e4e0342a368f6ad69ce87ae4a4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 exorcismos (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk5MjU4Y2MtOWFhNC00OWQxLTk5YjQtYTAwNWY5MmYzZjg3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",13 exorcismos (2022)6.0
+acestream://515b96e5fbcf5a4dad79f9589e02b9733f0bab13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2050 Robot de compania (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJiMmJiZTgtOWEyZS00NjQ1LWFhYmQtZDAyOGQwMmUxZTM5XkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",2050 Robot de compania (2023)
+acestream://75bcce76a44fce4c64824de35df79f60c0f42e19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A la de tres (2023)6.7" tvg-logo="https://images.justwatch.com/poster/304410706/s592/on-the-count-of-three" group-title="PELICULAS ACESTREAM 2",A la de tres (2023)6.7
+acestream://f0614f64027af0738347008a7c823bfa65141fcd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A la intemperie (2023)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/4/w1280/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" group-title="PELICULAS ACESTREAM 2",A la intemperie (2023)
 acestream://0a228bcccceb7fef0c26c19bae0300cfbefbe234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La niña de la comunion (2023)5.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY4ZTcyNGUtNDQ3ZC00MTc2LWFkN2QtMDBiNzMyNGQzZWYxXkEyXkFqcGdeQXVyOTE1MjI5OTc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La niña de la comunion (2023)5.1
-acestream://245e5712bd46dc7128ae099e8680708c6005f7e1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infelices para siempre (2023)8.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ4ZmM4ZDEtOWZiMC00NTdmLWEyZDgtNzdjZDk2OWUwYTQ3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Infelices para siempre (2023)8.1
-acestream://4233380ebc96623b7c98296900ce5247d15f975e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shazam La furia de los dioses (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZkZWIwYjEtNzc2Yy00MDUyLWI4ZDctMzg2MGVmOGM3MTlmXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Shazam La furia de los dioses (2023)7.0
-acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Creed III (2023)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Creed III (2023)7.3
-acestream://2ab2433fbf732b96e2d1675e4aeb509139a441db
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operacion Fortune El gran engano (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Operacion Fortune El gran engano (2023)6.7
-acestream://922cc024115beb71f9024eb57389a0cc07da1228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A por todas Anima o muere (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJhOTA2N2MtYzg2NC00MmNhLTgxZWItYzU5ZDJiMmQ2NDM1XkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",A por todas Anima o muere (2022)6.3
+acestream://8b0cc3b26ae7323dd6937aa9837580f7ba420e30
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A todo tren 2 Si les ha pasado otra vez (2023)7.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliZWQyZTItMDEzNy00YzNlLTkyMjktMTBjYTQ5MWIzMDZiXkEyXkFqcGdeQXVyMTAxNDgyMjM4._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",A todo tren 2 Si les ha pasado otra vez (2023)7.8
+acestream://b85f326cafecefefbdb8ee1e73ab5e6c10fbc16a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Accion de Gracias con los Waltons (2022)6.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/ll3tEeNbNbagiA76JsfV0xJJmku.jpg" group-title="PELICULAS ACESTREAM 2",Accion de Gracias con los Waltons (2022)6.0
+acestream://67269a8466d252501960f3e316dfd7a4a578071d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adiccion perfecta (2023)6.1" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="PELICULAS ACESTREAM 2",Adiccion perfecta (2023)6.1
+acestream://85e93fae8408ecbc0a1dbc951008588f9bcdbcba
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrenalina (2023)4.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhlMmI2YTMtYWZiNy00ZTE5LTliNDItOTE0MjlmNzgwNjFjXkEyXkFqcGdeQXVyNjc0OTM0Njg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Adrenalina (2023)4.7
 acestream://33e3d66d27979d2bc5e9f8f7b84ead9dc8cf22f0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agente oculto (Rogue Agent) (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdkZjE4MzUtMzBhYy00ZGIwLWFmYmYtNzI4NzY1ZjRlYzUzXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Agente oculto (Rogue Agent) (2022)6.3
 acestream://6d346911bfac9d981eff5ac1e16f5c58ca2467e0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chupa (2023)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1YWRlMmItZDlmNy00YTM4LThmMDQtM2IwMzE2ZmZjZTllXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Chupa (2023)6.6
-acestream://feefc7b8dad9eaf57f088e43a15a129e977212ea
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Historias para no contar (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwZjI3Y2UtOGI2Yi00MWZhLTkzNzAtNmQ4MzI1ZjkyNDBlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Historias para no contar (2022)6.6
-acestream://9eba32683ea361d2d29e8b9a61e076909a20e6d0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuerpo Abierto (2022)7.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyMmIyNGItMjQ5Ny00NWYxLTg3MjUtNmYyOTM5ZGVhZGM3XkEyXkFqcGdeQXVyNDgwOTM3Nzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Cuerpo Abierto (2022)7.1
-acestream://4d19a0f46f054b4e3bf91260e0b9fba9b0ed43cb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Living (2022)7.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdiMWI1ZmUtOTk3OS00ZDYxLThjZWYtYjIwNWJkNTkxMmJlXkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Living (2022)7.1
-acestream://b49434ca97337133734868e835e400171926f353
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EO (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNiNjE0NzktYTA2Yi00MzRlLTk5NzUtMzE0MDczZmMyMDg2XkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",EO (2022)6.8
-acestream://5ad1f1efdd339a72680f99e1e3f6d8888d16e145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tormenta infinita (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RjMTQ1ZDMtMTJkMC00ZDJkLTk5MTEtNmQzZjkyZWNhZjdiXkEyXkFqcGdeQXVyMjcwMzM0OTI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Tormenta infinita (2022)6.1
-acestream://140ad428f611809901676db284bb5e273a50fc56
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La cancion del marinero (2022)7.0" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-cancion-del-marinero-poster-1161306_SPA-35_V.jpg" group-title="PELICULAS ACESTREAM 2",La cancion del marinero (2022)7.0
-acestream://d752eca82fea0941cf15e5fbe5dbc815abae9f76
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoe y Tempestad (2022)7.3" tvg-logo="https://image.tmdb.org/t/p/w342/nYO6WGAspCGu2pg9eeODTm0QBdg.jpg" group-title="PELICULAS ACESTREAM 2",Zoe y Tempestad (2022)7.3
-acestream://34af8d78f6a09a4fef008cf844af4b71f7342b26
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El piloto (2023)7.0" tvg-logo="https://mabuse.es/wp-content/uploads/2023/02/EL_PILOTO_2023.jpg" group-title="PELICULAS ACESTREAM 2",El piloto (2023)7.0
-acestream://928cc3055240e19fcc32f3d6af72efc748a79ba1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Momias (2023)7.0" tvg-logo="https://www.dvdsreleasedates.com/posters/800/M/Mummies-2023-movie-poster.jpg" group-title="PELICULAS ACESTREAM 2",Momias (2023)7.0
-acestream://6c47fe48e08a75357c090a59cfce4b1d80e8621d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El gato con botas El ultimo deseo (2022)8.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNiMjkzMDItOWNjMy00ODZjLTgwY2UtZTEyODYzNTI2NzI1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El gato con botas El ultimo deseo (2022)8.3
-acestream://5779606b661eaf8c011fb357a32e193a7d4d65b3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avatar el sentido del agua(2022)7.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title="PELICULAS ACESTREAM 2",Avatar el sentido del agua(2022)7.7
-acestream://50f86b209afdb40fd79c29cc4de84541852a8555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Medieval (2023) 7.2" tvg-logo="https://www.cine.com/peliculas4/105662/cartel/105662_cartel_orig.jpg" group-title="PELICULAS ACESTREAM 2",Medieval (2023) 7.2
-acestream://b559f5c161dc440f8f1aa9c5bba1cfe132bed2eb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A todo tren 2 Si les ha pasado otra vez (2023)7.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliZWQyZTItMDEzNy00YzNlLTkyMjktMTBjYTQ5MWIzMDZiXkEyXkFqcGdeQXVyMTAxNDgyMjM4._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",A todo tren 2 Si les ha pasado otra vez (2023)7.8
-acestream://b85f326cafecefefbdb8ee1e73ab5e6c10fbc16a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio 666 (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU5NjEzNmUtOGFhMC00M2E0LWE1NjYtZGRhZDcxYTRjNTcyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Studio 666 (2022)6.2
-acestream://20bed8cd3efbf40d3d430d2ef8ff054ae42ed120
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manticora (2023)8.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdlZWMyOTctMjYwZi00MzE0LWI3YTAtYjNjOGZlMDg5YTkxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Manticora (2023)8.3
-acestream://fb95004e8e98263aa1abc6e9cb94e3202ade520b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tetris (2023) 7.9" tvg-logo="https://mx.web.img2.acsta.net/pictures/23/03/03/09/17/4907700.jpg" group-title="PELICULAS ACESTREAM 2",Tetris (2023) 7.9
-acestream://c07eec69fa4e7d3f7266a2549dbd6728ef45506b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Till el crimen que lo cambio todo (2022)7.6" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/30/10/52/5648410.png" group-title="PELICULAS ACESTREAM 2",Till el crimen que lo cambio todo (2022)7.6
-acestream://dcd45a23f8b23c9ba680f98a61be690e93528834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A por todas Anima o muere (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJhOTA2N2MtYzg2NC00MmNhLTgxZWItYzU5ZDJiMmQ2NDM1XkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",A por todas Anima o muere (2022)6.3
-acestream://8b0cc3b26ae7323dd6937aa9837580f7ba420e30
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia Monster (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyYWQ2ZmEtYTEzZi00OGExLWE0YTItOGYyODBhY2M4NDI1XkEyXkFqcGdeQXVyNTYzMTc4MzY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La familia Monster (2022)6.0
-acestream://d1ea8f62d293b765ad661f804e69ef4eed25116c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor en Rye Lane (2023)7.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MWE4MTctYjExYS00MmViLTgwZjEtMmI1OTBkN2M2OGE2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Amor en Rye Lane (2023)7.7
-acestream://5b667b350e9d2207853b1db79284b5fa436eae20
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boksoon debe morir (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljYTk4MzMtZDQwNy00NDhiLTk4ZjUtMWFjZjJkYTU3MDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Boksoon debe morir (2023)7.0
-acestream://9f8835e45ef1b9a2af320aa935eace9159985a65
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Broker (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVlYjU5NzMtMmY3OS00MzRiLWJmNjYtNmMyMDRkOGYxOTRjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Broker (2022)7.2
-acestream://97236a5fa6d721067fd8521821ae0c1ca1497381
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Criminales a la vista (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/03/08/16/13/0804726.jpg" group-title="PELICULAS ACESTREAM 2",Criminales a la vista (2023)7.1
-acestream://508c4469864c7850e1586931280e3a742087c1ba
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El protector (The Enforcer) (2022)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/28/15/15/1936881.jpg" group-title="PELICULAS ACESTREAM 2",El protector (The Enforcer) (2022)7.3
-acestream://b4cf5f2cec758aca3b93c0de706c757b892b4dc7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Es su vida (2023)" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/05/22/27/5899413.jpg" group-title="PELICULAS ACESTREAM 2",Es su vida (2023)
-acestream://7d36cbdc480c7be1b4fb2948a562852bfff2d53e
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No mires a los ojos (2022)6.2" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9920/no_mires_a_los_ojos-cartel-10494.jpg" group-title="PELICULAS ACESTREAM 2",No mires a los ojos (2022)6.2
-acestream://8a639a1b9facce0bb2bd5afa6475aaec860cec88
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nostalgia (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc2YmNjYmItOTc4NS00OTkzLThmM2EtOTQ1MzEzNTg0NWNiXkEyXkFqcGdeQXVyMTM5NTczMjkz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Nostalgia (2022)7.2
-acestream://f7ff26a3fa415546745fff27faeb6a5af803c726
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Simone la mujer del siglo (2022)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk2NTE0MDMtY2IyOC00MDQ4LWFmYTUtMDk2YmMxYWQ3MWVmXkEyXkFqcGdeQXVyMTEzMTQzOTk2._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Simone la mujer del siglo (2022)8.2
-acestream://a68a6ce01620c98b9d623ff95c8d096c0743bc93
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pacto de graduacion (2023)7.2" tvg-logo="https://images.justwatch.com/poster/304190411/s718/prom-pact.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Pacto de graduacion (2023)7.2
-acestream://c1b2df0da8cb03ab4a7a95cff6de40102e54eae8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Maestra se comió a mi amigo (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y3ZDc2MjYtZTI3NS00MWZiLThjOGEtNzhhYmM4MmJmOTJmXkEyXkFqcGdeQXVyOTEwOTg3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Mi Maestra se comió a mi amigo (2023)7.0
-acestream://2f2a603a6a04e212d4ce23079967985e5d0fd710
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los constructores de la Alhambra(2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmM2FjNWItNzMwNC00NDUwLWFjOWEtZjMzY2Y1NGQxYmNlXkEyXkFqcGdeQXVyMjA4NzA2NDc@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Los constructores de la Alhambra(2022)6.6
-acestream://a218748f0672c99b1e9c02191dc5a1f2b8ba57a2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La elefanta del mago (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/03/08/15/44/0548573.jpg" group-title="PELICULAS ACESTREAM 2",La elefanta del mago (2023)7.3
-acestream://8a70bc7aa55b74ded37905117067372eba04d9ee
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The System (2022)8.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFhM2JiMTAtNTVlMC00NWQ4LWI3ZWItYThjOWU3OTJiMjBiXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",The System (2022)8.1
-acestream://dea8a798dc505f86db99daf4407e095278d65117
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuentos al caer la noche (Nightbooks) (2021)6.3" tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/20/08/26/1442753.jpg" group-title="PELICULAS ACESTREAM 2",Cuentos al caer la noche (Nightbooks) (2021)6.3
-acestream://44f4c19756453b8cc4e0e1058c3b5bd697d89035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suro (2023)9.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/21/16/33/3164617.jpg" group-title="PELICULAS ACESTREAM 2",Suro (2023)9.3
-acestream://18e3574886ebe574152b9c568b14a5a00f9e14df
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adiccion perfecta (2023)6.1" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="PELICULAS ACESTREAM 2",Adiccion perfecta (2023)6.1
-acestream://85e93fae8408ecbc0a1dbc951008588f9bcdbcba
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agujero en la cabeza (2020)5.3" tvg-logo="https://static.filmin.es/images/media/43639/2/poster_0_3.webp" group-title="PELICULAS ACESTREAM 2",Agujero en la cabeza (2020)5.3
+acestream://6bf2e69d3e2314906e3410b6ba8cf89a2fd1235d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alias (2023)BluRay XviD[7.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZKjDmCX5Vcl2c345EEnQVZTOAH.jpg" group-title="PELICULAS ACESTREAM 2",Alias (2023)BluRay XviD[7.0*]
+acestream://c1766f8eb1ac98e05d8d1db1f14d8e837a374b53
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amenaza en las profundidades (2022)6.6" tvg-logo="https://pbs.twimg.com/media/FtBLt_fXoAEfl2B?format=jpg&name=large" group-title="PELICULAS ACESTREAM 2",Amenaza en las profundidades (2022)6.6
+acestream://9896d230a5b7ec6a17b9893c0434e66171e55b3c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor al cuadrado otra vez (2023)5.8" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/03/11/23/1256691.jpg" group-title="PELICULAS ACESTREAM 2",Amor al cuadrado otra vez (2023)5.8
+acestream://e7fbe500e40f85072c305fe97fd3e7fe970be976
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor Bodas y otros Desastres (2023)6.1" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/06/30/21/50/4695528.jpg" group-title="PELICULAS ACESTREAM 2",Amor Bodas y otros Desastres (2023)6.1
 acestream://0bfe3138651c53e5a438f9cdef7c898f6198227e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor en Rye Lane (2023)7.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MWE4MTctYjExYS00MmViLTgwZjEtMmI1OTBkN2M2OGE2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Amor en Rye Lane (2023)7.7
+acestream://5b667b350e9d2207853b1db79284b5fa436eae20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ant-Man y la avispa quantumania (2023)6.4" tvg-logo="https://northmennews.com/wp-content/uploads/2023/03/poster-608x900.jpg" group-title="PELICULAS ACESTREAM 2",Ant-Man y la avispa quantumania (2023)6.4
+acestream://0086f98daff674e0c298362a41f7bc40027ab628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aqua Teen para siempre Plantasma (2023)6.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/31/17/11/0372672.jpg" group-title="PELICULAS ACESTREAM 2",Aqua Teen para siempre Plantasma (2023)6.3
+acestream://92a294ba4f53cca6e851bc63cbd1d1550069964a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arctic Void (Vacio artico)4.9--" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhYTEyYjEtMjgzNC00NTE3LThlNTYtZjRmZDUzMmM4MGE4XkEyXkFqcGdeQXVyNDg3MTQxOTg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Arctic Void (Vacio artico)4.9--
+acestream://07adb32e98c7ee5051017b76bcb877ece3218cf0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Armageddon Tales (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliY2UwY2EtMDg1OS00ZjZiLWE1YjEtZDMwYTA1MTc5ZTZmXkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Armageddon Tales (2023)6.1
+acestream://8241bb243fe77f55b2d8d9901e2a6f2c589d5cad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Armageddon Time (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjMTI2YTMtMmM5Yi00MWUyLWI0NWMtN2EyY2FmZjIwMTVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Armageddon Time (2022)6.7
+acestream://d33dd62bc098f72d2f139ea2b6c7fa357feac549
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avatar el sentido del agua(2022)7.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg" group-title="PELICULAS ACESTREAM 2",Avatar el sentido del agua(2022)7.7
+acestream://50f86b209afdb40fd79c29cc4de84541852a8555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Babylon (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUwMjYyNTktNDIyZC00NmU0LWFkNzAtZTVjMTNjZDY4MDlmXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Babylon (2022)7.6
+acestream://e592952c49d3d8948fb36c06e726d710b8c96449
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bad Blood (2021)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEYO75bZZAPCNOmJoSFcJmZQdLQ.jpg" group-title="PELICULAS ACESTREAM 2",Bad Blood (2021)BluRay Rip[6.6*]
+acestream://7735648b7391fc35b2768e7149023b520086c78e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bad Candy (2023)5.2" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/9HRQiPxTGsUpP9hqCC1R5D1gQZT.jpg" group-title="PELICULAS ACESTREAM 2",Bad Candy (2023)5.2
+acestream://10ae239f16447349d7edb66ab61543ee42afed54
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baila con la vida (2023)5.2" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/08/12/12/37/2843514.jpg" group-title="PELICULAS ACESTREAM 2",Baila con la vida (2023)5.2
+acestream://610f3f9301f5ede30aa3a28828abbfa3b5fb1cf6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barbie Skipper y su gran aventura como canguro (2023)7.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM2MDY2MGYtYjA1Ny00NDMzLTk5YmYtM2Y5M2M0MWI3ZGY5XkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Barbie Skipper y su gran aventura como canguro (2023)7.7
+acestream://438dc4fadc07f1f5b45c549ba374a1583b400368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Battle for Saipan (2023)BD1080[5.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg" group-title="PELICULAS ACESTREAM 2",Battle for Saipan (2023)BD1080[5.7*]
+acestream://adfb5054e49100767aa52e2b2105a089059b38a5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bellefond (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM4YTM0ZmItMWZlNi00N2QyLThiYjQtMzlhN2Q5NzViZDZhXkEyXkFqcGdeQXVyMTA1Mzk1MzU0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Bellefond (2022)6.6
+acestream://e13e15ee2028fc2962300769eec5a589cf0ffa2b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Belleza (Wunderschon) (2022)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFjN2M5NzctNzBhYS00ZDhkLTlhNWItMzY0ZTIxYmQ5OWE1XkEyXkFqcGdeQXVyNzEwNDc1NzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Belleza (Wunderschon) (2022)7.3
+acestream://17447638287d75c36352f707744b02581f87c177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bendita Suegra (2023)BluRay Rip[7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8uDGZ0HW8aKNTkUkaRHu4XSxGS.jpg" group-title="PELICULAS ACESTREAM 2",Bendita Suegra (2023)BluRay Rip[7.6*]
+acestream://afa021be568919a9dc04f12512a2b8d6337f75a1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Panther Wakanda Forever (2022)7.6" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/03/15/27/0389048.jpg" group-title="PELICULAS ACESTREAM 2",Black Panther Wakanda Forever (2022)7.6
+acestream://81af7427bfebf8df5feaf64e4f80f242e2cef025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Warrant (2022)4.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcxNTg2NmYtNjM2YS00YzI5LThiNjMtODE2MzMxYTZmNjI0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Black Warrant (2022)4.0
+acestream://fa06754f07c36a7d8be501c1d7de247902622448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blowback (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmEyYmI1M2EtYWQyNC00YzEwLTljOTItNTZkMmNmY2E4MjE0XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Blowback (2023)6.0
+acestream://165cb4d370138237ebb94e7cf8201635b1cae119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boksoon debe morir (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljYTk4MzMtZDQwNy00NDhiLTk4ZjUtMWFjZjJkYTU3MDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Boksoon debe morir (2023)7.0
+acestream://9f8835e45ef1b9a2af320aa935eace9159985a65
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brian y Charles (2022)4Kwebrip2160[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bo8jikEHykPXgi1b0esYao0zAzt.jpg" group-title="PELICULAS ACESTREAM 2",Brian y Charles (2022)4Kwebrip2160[6.7*]
+acestream://48f435f73578a5725743f637715b993585c933e7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Broker (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVlYjU5NzMtMmY3OS00MzRiLWJmNjYtNmMyMDRkOGYxOTRjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Broker (2022)7.2
+acestream://97236a5fa6d721067fd8521821ae0c1ca1497381
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Camila saldrá esta noche (2022)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9zmnc5e9RfOfxnuzJydT45wJvo.jpg" group-title="PELICULAS ACESTREAM 2",Camila saldrá esta noche (2022)BluRay Rip[6.0*]
+acestream://dfec7622357837939277f979780743bdccfd7fce
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Camino de la venganza (2023)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/18/10/44/0863400.jpg" group-title="PELICULAS ACESTREAM 2",Camino de la venganza (2023)6.0
+acestream://0794a962f62b0cb22b7bc4af1358e936452ac9f0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capitana Nova (2023)6.0" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEVgtTY-SoUl7MRFSp0p7M5AoEXCx-N--fg387oqwPY_OM54T-SMRHdqM9pc3FFNFpVqb2xQ4Nb-6pc_W3U-Lmoa3DuEKMbrVmIj3_TLKLcu_L337rR_frQ9LCZe2DiXEVcV6LvOlzYfKHcnbjFcgZJmuQ=w493-h702-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Capitana Nova (2023)6.0
+acestream://b7eecfb485f1d9d2e3559e4637e3f3462a1c50d9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caribe todo incluido (2023)5.5" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/12/12/47/5070373.jpg" group-title="PELICULAS ACESTREAM 2",Caribe todo incluido (2023)5.5
+acestream://990ad2836329bdacca35812f4a7ca1efce1f10de
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carino cuanto te odio (2021)7.6" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/24/10/16/2239861.jpg" group-title="PELICULAS ACESTREAM 2",Carino cuanto te odio (2021)7.6
+acestream://9906dca3c025ced2ce45240d01f2395cb359607d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casando a mi ex (2023)6.8" tvg-logo="https://w4.cuevana3.ai/wp-content/uploads/2023/02/casando-a-mi-ex-66826-poster.jpg" group-title="PELICULAS ACESTREAM 2",Casando a mi ex (2023)6.8
+acestream://4f24c70a7969dec0c36f27106faaa88be5c60258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cazadora (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFiNzcwMzgtMzE4ZC00YjM3LWJmNjAtZGE2ZjM1Yjg3NWRjXkEyXkFqcGdeQXVyODYzMTEyNzg@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Cazadora (2023)
+acestream://e889b1de8c5a96548a42fd55a177134124858344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chang machaca (2023)6.6" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w1280/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="PELICULAS ACESTREAM 2",Chang machaca (2023)6.6
+acestream://f372cd67227f3aa1b03ddb3098b21c2f369db5c3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chupa (2023)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1YWRlMmItZDlmNy00YTM4LThmMDQtM2IwMzE2ZmZjZTllXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Chupa (2023)6.6
+acestream://feefc7b8dad9eaf57f088e43a15a129e977212ea
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cita con el crimen (2022)7.1" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/g7FqMbARpI1yjoM3qp3e4clVsVJ.jpg" group-title="PELICULAS ACESTREAM 2",Cita con el crimen (2022)7.1
+acestream://7c8abc6c6eb9c405887fee8860e3404a457b050d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cliff Walkers (2023)6.9" tvg-logo="https://lh3.googleusercontent.com/DZlO10egdQvWu4zNx6NUB-frKvAkEI_fW4IAWvIQep1D6_Vo3fsiQoruiEKrXzmBuNpcNEqao6i3C4YsDyHDFQfpFpkTr2_-ErTebeXBqCLPiiLL6_7BmVbK9Z90nW3GmI_5x9L_WCM=w2400" group-title="PELICULAS ACESTREAM 2",Cliff Walkers (2023)6.9
+acestream://792eb37213d7f15a5bb72305eca81fbdbe98e3bb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clock (2023)BluRay XviD[8.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wgGZzSBYOZlNovVh5hh9cXbRO9.jpg" group-title="PELICULAS ACESTREAM 2",Clock (2023)BluRay XviD[8.3*]
+acestream://4623d7e43415600cb540ff2dfe660d773338138f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Close (2022)7.8" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/11/11/16/32/4303145.jpg" group-title="PELICULAS ACESTREAM 2",Close (2022)7.8
+acestream://1e56a0d75cb84edf9a0fceb74fb90c8c0cc927d1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coffee Wars (2022)6.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5ZTlkMmMtOTAxYS00ODE3LWIwNzItZDdmYWU2N2ZmZmM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Coffee Wars (2022)6.5
+acestream://1a2b9888ec39eb75cd2e44e090eab50cf98b4777
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como el buen vino (2023)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmZDIxZjctNTY2ZS00YTA2LTkyZjMtZDBmNjY1YjYzMTUyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Como el buen vino (2023)5.5
+acestream://d155c61138d6e1a2fae2801338a65559eca63d74
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como sobrevivir al instituto (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/07/12/23/0515949.jpg" group-title="PELICULAS ACESTREAM 2",Como sobrevivir al instituto (2022)6.0
+acestream://72d1d0d2bb0b4f25ac0ecd53b7eeac443591f3d1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Con su propia justicia (2021)4.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRjZjMyMjMtODUyZC00ZjA0LTk3YzMtNGQ0NjZmMTJmNGFkXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Con su propia justicia (2021)4.6
+acestream://9fb2f734dbcffadc9139368a645fa851f9b85895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Corten (Coupez)(2022)7.1" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEU7kSuL723yc6R2fjxfRFZVgtcN2INN8Wa_Go613ZWjKppzFJGBFYLwOz06bux3WmlKI74Ih5dZThrkqWqHNSeal7T_NtzDBRUhKIF55yY7rnwku4FTOSa0kwhsQ-rmiq1fYuuEIFZHlHW_7Q5V7PKcFg=w558-h697-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Corten (Coupez)(2022)7.1
+acestream://a64305c73e012d436bae32a9c768f781645c221e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cráter Un viaje inolvidable (2023)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppEvMrq2nvV9DfBHuCRilf2MBnm.jpg" group-title="PELICULAS ACESTREAM 2",Cráter Un viaje inolvidable (2023)BluRay Rip[6.6*]
+acestream://4b25dc928076ba9339b758b4332e32e6f4c8dfe6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Creed III (2023)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Creed III (2023)7.3
+acestream://2ab2433fbf732b96e2d1675e4aeb509139a441db
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Criminales a la vista (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/03/08/16/13/0804726.jpg" group-title="PELICULAS ACESTREAM 2",Criminales a la vista (2023)7.1
+acestream://508c4469864c7850e1586931280e3a742087c1ba
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuento de Primavera A Spring Tale (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRlNGFmMjMtMzNmMC00NmVkLWI3ZWItYWJiMTBhMDIwYWU3XkEyXkFqcGdeQXVyMTU4NzYyNDM4._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Cuento de Primavera A Spring Tale (2022)6.0
 acestream://5dae0d792dfd22c7c5235bc105190009af847967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El cobrador de deudas 2 (2023)6.2" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/La_deuda_2.jpg/revision/latest?cb=20201112211219&path-prefix=es" group-title="PELICULAS ACESTREAM 2",El cobrador de deudas 2 (2023)6.2
-acestream://10d22f32e4a460435fc5a98f097764cbba2fb70a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny (2023)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxOWIyNjItMzhkYS00NDMyLWIyNDctNjFkOTBlZDliY2EwXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Johnny (2023)7.6
-acestream://4a868795ed012089cc07fbeac10c3bad1cd4bff7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La balada de la mala suerte (2021)5.3" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/labaladadelamalasuerte.jpg" group-title="PELICULAS ACESTREAM 2",La balada de la mala suerte (2021)5.3
-acestream://40104891b2ff79c114647656b0ffb583373b67ac
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La emperatriz rebelde (2022)6.8" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/07/16/31/2111629.jpg" group-title="PELICULAS ACESTREAM 2",La emperatriz rebelde (2022)6.8
-acestream://408879d3b9cd69afc96a198ebbe30bb50654a67b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Hurts (2021)4.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/xuIUfp5BuuHj8SbyutauxSGm9gJ.jpg" group-title="PELICULAS ACESTREAM 2",Love Hurts (2021)4.0
-acestream://86fc597c42b43916ed29797060fa1dcaed0e8fde
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reza por el diablo (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/07/11/02/1639251.jpg" group-title="PELICULAS ACESTREAM 2",Reza por el diablo (2022)7.2
-acestream://f47ed7f6b4e5ca3ff12a605743d3fd6d42000f42
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo hombre sobre la Tierra(2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjZmJiMDctOWI4Yi00ZmEzLTgxYTgtYzY0YWE1NGI4Zjg4XkEyXkFqcGdeQXVyMTUzODk1Njc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El ultimo hombre sobre la Tierra(2022)6.0
-acestream://fd4a2d6c3bd6ef0e6d9180120e79fc480886f884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuentos al caer la noche (Nightbooks) (2021)6.3" tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/20/08/26/1442753.jpg" group-title="PELICULAS ACESTREAM 2",Cuentos al caer la noche (Nightbooks) (2021)6.3
+acestream://44f4c19756453b8cc4e0e1058c3b5bd697d89035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuerpo Abierto (2022)7.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcyMmIyNGItMjQ5Ny00NWYxLTg3MjUtNmYyOTM5ZGVhZGM3XkEyXkFqcGdeQXVyNDgwOTM3Nzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Cuerpo Abierto (2022)7.1
+acestream://4d19a0f46f054b4e3bf91260e0b9fba9b0ed43cb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darby y los espiritus (2023)6.6" tvg-logo="https://images.justwatch.com/poster/302603887/s718/darby-and-the-dead.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Darby y los espiritus (2023)6.6
+acestream://5a73bc063bfd99721930c420eafc58d0a6f921a6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desaparecida de nuevo (2022)7.3" tvg-logo="https://estatico.emisiondof6.com/recorte/n/dispficha/MA3P2188236" group-title="PELICULAS ACESTREAM 2",Desaparecida de nuevo (2022)7.3
+acestream://222ac0681dea0c6e323695f442e54695297810c2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deseo ardiente (2022)4.8" tvg-logo="https://album.mediaset.es/cimg/2023/02/22/deseoardiente-mitele-plus-700x1000_1bf4.jpeg" group-title="PELICULAS ACESTREAM 2",Deseo ardiente (2022)4.8
+acestream://f145a9f99297a411b5ea191020c4a9389d36c1e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deseo ardiente (2022)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hlNf1sIHkAyXZj7v7bhCvWF87Gr.jpg" group-title="PELICULAS ACESTREAM 2",Deseo ardiente (2022)BluRay Rip[6.0*]
+acestream://2adf161e3a525cf01a81a562c258c3faf0dccc25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Knight Ultima mision (2022)5.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZhNWM4YjYtNDE4ZC00ZjhlLWIwYTgtMTc0N2FmYTY4NTk2XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Detective Knight Ultima mision (2022)5.7
+acestream://9a79cb0866f4972ffaa30458610555bd571b7355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Devotion. Una historia de héroes (2022)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBYfbtWzmeKhQnlXdEzaPKwX9ii.jpg" group-title="PELICULAS ACESTREAM 2",Devotion. Una historia de héroes (2022)BD1080[7.3*]
+acestream://ae195b56d9c6fee8163021f47c0090a28f2604bc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diabolik (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY0MzJhMzAtMWRjYy00ODM5LWE3MTUtNjQwZDViYmMwZjkzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Diabolik (2022)6.1
+acestream://59cf6ae1e5c540f2876e438ab8830678de48f8f5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dig (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjJjNWNmYTUtOTY0MC00ZTNiLTllNDYtZWQ4YjQ1MjUxM2NmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Dig (2022)5.0
+acestream://76273834558a05cc42e2fa3c2ca3717a6fbdd473
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disquiet (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmZThhMDgtOTMyYy00OTgyLWE3MGQtNTQzMDA1YjJmMjk4XkEyXkFqcGdeQXVyMjM1OTE5ODk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Disquiet (2023)6.0
+acestream://f7cda4f838dcaca395f849b98b0df50d6f18fdb3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dungeons & Dragons (2023)BD1080[7.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="PELICULAS ACESTREAM 2",Dungeons & Dragons (2023)BD1080[7.6*]
+acestream://07ec069cf280130c044d3c1fe71892bc48de3309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Efecto nocebo (Nocebo) (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FkZjVlMDAtMmU2NS00NzI2LTg2NzctMGJhYTExOTExZDQ4XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Efecto nocebo (Nocebo) (2022)6.2
+acestream://7a45b9fb323f0116e823a667bc49a74230a8a350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El agua (2022)7.3" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/08/18/55/0364287.jpg" group-title="PELICULAS ACESTREAM 2",El agua (2022)7.3
+acestream://767c65f5613ba1a5fd5185449b1ab9b0af4792f7
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Asistente (2023)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE1YzUzYzMtMTlhYi00Mjg3LTk4ZmYtZDE1ODM1YzkyOGVhXkEyXkFqcGdeQXVyMTE5Njk2ODQ2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El Asistente (2023)7.3
 acestream://b269f373daa7ba4353f8fb61af34713c48bd466a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El atracador perfecto (2022)6.8" tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/18/17/14/3186016.jpg" group-title="PELICULAS ACESTREAM 2",El atracador perfecto (2022)6.8
+acestream://7b9557169f7411513ddaf9c7de99f7f76c8f6d7e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El buen vecino (2023)6.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="PELICULAS ACESTREAM 2",El buen vecino (2023)6.0
+acestream://d7b4918112d670b9495729b007bccd141e654a76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club de los asesinos (2023)4Kwebrip2160[7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="PELICULAS ACESTREAM 2",El club de los asesinos (2023)4Kwebrip2160[7.2*]
+acestream://e3396bab3bb32224f8f1f58e32e32027d593076e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El club del odio (2022)BluRay XviD[6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4NvQSecQMmpnxHbDWG07KOvf1Qi.jpg" group-title="PELICULAS ACESTREAM 2",El club del odio (2022)BluRay XviD[6.2*]
+acestream://9a26fd3d97594183cb4640108867bcb5e0eaf8fb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El cobrador de deudas 2 (2023)6.2" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/La_deuda_2.jpg/revision/latest?cb=20201112211219&path-prefix=es" group-title="PELICULAS ACESTREAM 2",El cobrador de deudas 2 (2023)6.2
+acestream://10d22f32e4a460435fc5a98f097764cbba2fb70a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El cuarto pasajero (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRmZjcwYjgtNGEzOC00ZDU0LTgwMjUtZWNmMGE2MmI4YzBlXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El cuarto pasajero (2022)6.6
+acestream://9a9747fc17cf2057f665903fe54fcc2d15e30841
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El estrangulador de Boston (2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FmYmM1ODctNjkzNC00MzcyLTkyOWYtZmZjNjY2ZmU3MmI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El estrangulador de Boston (2023)6.9
+acestream://1f6136654573058f514fd0c31cc572c0b1f5994f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El falsificador de pasaportes (2022)BluRay Rip[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a7DyvPLdrz41CyMRJy8LlNT1waO.jpg" group-title="PELICULAS ACESTREAM 2",El falsificador de pasaportes (2022)BluRay Rip[6.7*]
+acestream://dcf63601e542129d7fc869c598087b32ac4f33fa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El gato con botas El ultimo deseo (2022)8.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNiMjkzMDItOWNjMy00ODZjLTgwY2UtZTEyODYzNTI2NzI1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El gato con botas El ultimo deseo (2022)8.3
+acestream://5779606b661eaf8c011fb357a32e193a7d4d65b3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El gran Maurice (2023)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/05/13/02/2471557.jpg" group-title="PELICULAS ACESTREAM 2",El gran Maurice (2023)6.9
+acestream://3d871d8a29adaa6efc8b1a140035efc963694286
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El grito silencioso El caso Roe v. Wade (2022)" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/16/12/49/1307070.jpg" group-title="PELICULAS ACESTREAM 2",El grito silencioso El caso Roe v. Wade (2022)
+acestream://2611186b2f77e07eeced23db9817598feede3a71
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Hogar (2022)BluRay Rip[8.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jAU8PoS80O8ojsk6mMhF3Sekle.jpg" group-title="PELICULAS ACESTREAM 2",El Hogar (2022)BluRay Rip[8.0*]
+acestream://ceb2a66771b96d545151ff9279472d2516a2e592
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El imperio de la luz (2022)6.0" tvg-logo="https://www.ecartelera.com/carteles/17600/17631/002_m.jpg" group-title="PELICULAS ACESTREAM 2",El imperio de la luz (2022)6.0
+acestream://f73b25c4ea9cfcd0b00d313a42ad7deb77e1d0b6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El lado salvaje (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2ZTRlODItMDczMi00MDQ1LTg3MzItOGQ0MzEzNTU0MmI2XkEyXkFqcGdeQXVyNTMyMTI3MDI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El lado salvaje (2022)5.0
+acestream://a05a5dc013a18324750dc53dbc9e3259233a47a9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El metodo Tangalanga (2023)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgwYzlkYTQtNzA3MS00NDEyLWE4YjAtYWZhMzY3Y2YxODJkXkEyXkFqcGdeQXVyNDIzOTg5NTE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El metodo Tangalanga (2023)6.2
+acestream://241b2942aa59ca81f132a513cb8ad7be31aec26f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El oficio de aprender (2022)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/06/14/24/5392376.jpg" group-title="PELICULAS ACESTREAM 2",El oficio de aprender (2022)7.1
+acestream://c33518b7ecdac8456ade6188d0e4fa82a5ee58e7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El peor vecino del mundo (2022)7.7" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/03/17/06/5380553.jpg" group-title="PELICULAS ACESTREAM 2",El peor vecino del mundo (2022)7.7
+acestream://574bd70e307900bd7aef68e769c0c929d10422ea
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El piloto (2023)7.0" tvg-logo="https://mabuse.es/wp-content/uploads/2023/02/EL_PILOTO_2023.jpg" group-title="PELICULAS ACESTREAM 2",El piloto (2023)7.0
+acestream://928cc3055240e19fcc32f3d6af72efc748a79ba1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="el polloliebre (2022)7.6" tvg-logo="https://cinemagavia.es/wp-content/uploads/2022/10/Hopper-el-polloliebre.jpeg" group-title="PELICULAS ACESTREAM 2",el polloliebre (2022)7.6
+acestream://747fb3f0d747ccecf08c8aa8be7dc54083be45ed
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El protector (The Enforcer) (2022)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/28/15/15/1936881.jpg" group-title="PELICULAS ACESTREAM 2",El protector (The Enforcer) (2022)7.3
+acestream://b4cf5f2cec758aca3b93c0de706c757b892b4dc7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El que sabem (Lo que sabemos) (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNTg1MWMtNGZjNS00OGQ3LTkxYTEtMWQ1MTEzZTFjZmY1XkEyXkFqcGdeQXVyNjY0MDU3MzA@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El que sabem (Lo que sabemos) (2023)7.0
+acestream://8999522ed5604129a6ac3a30dd94ac3a308328ff
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El rey de las sombras (2023)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBhNGIxZWItYjZlMy00NWViLTk4MjItNWVmNzljZTE0YmYxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El rey de las sombras (2023)8.0
+acestream://b4e110fe037a692987c05d23e0c0a78443fb9900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El río de la ira (2022)BluRay Rip[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg" group-title="PELICULAS ACESTREAM 2",El río de la ira (2022)BluRay Rip[6.6*]
+acestream://422faeb77dfcf39714993de1d44da56a46546529
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El suplente(2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZTllNzItMWMyOC00MDkyLTlkNWEtOTI5MzIxZGE4NGY3XkEyXkFqcGdeQXVyNzA3Mzc2Mjc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El suplente(2022)6.0
+acestream://de7421fd73f8651d05d70d43f4e735320821f4d4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo baile de Magic Mike (2023)7.0" tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/22/12/20/19/23/5791184.jpg" group-title="PELICULAS ACESTREAM 2",El ultimo baile de Magic Mike (2023)7.0
+acestream://2529b9d255f3fa1a706f963cef67a67b94f3775e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El ultimo hombre sobre la Tierra(2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjZmJiMDctOWI4Yi00ZmEzLTgxYTgtYzY0YWE1NGI4Zjg4XkEyXkFqcGdeQXVyMTUzODk1Njc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El ultimo hombre sobre la Tierra(2022)6.0
+acestream://fd4a2d6c3bd6ef0e6d9180120e79fc480886f884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El vasco (2023)5.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQxZmMxOTctNTgwOC00NTA3LTk4ZWYtNjY4ZWY4ZDgyNTAwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",El vasco (2023)5.7
+acestream://e47de5c68d1dff201946b57d608f6fc15af09e4a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El visitante del futuro (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3OWYyODAtYTgxNi00MmI0LWExODEtZjk4YjAyMjUwYjczXkEyXkFqcGdeQXVyMTUzMzEyMTk0._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",El visitante del futuro (2023)6.7
+acestream://d77604a788daa0fa004bda6a88de0d434639186c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Embaucadores (Sharper) (2023)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JlN2Q2ZmYtYmU4OS00ZjNlLWE2OTEtOTc2ZDY5NjEwMTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Embaucadores (Sharper) (2023)6.8
+acestream://2eefce15bfad2246736b0da3391b20f00ba276091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emboscada (2023)5.6" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/01/04/17/53/1312273.jpg" group-title="PELICULAS ACESTREAM 2",Emboscada (2023)5.6
+acestream://70d73bf7b24bba4e65180117edcd0029efe80156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emily Bronte (2022)4Kwebrip2160[7.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gHRnvzxvcMGIDV2MiPkGRYKZoIS.jpg" group-title="PELICULAS ACESTREAM 2",Emily Bronte (2022)4Kwebrip2160[7.2*]
+acestream://bd68164edd6624beb372d04d6092ff2820fc3ea1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En el lugar equivocado (2022)4.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/05/18/36/3874024.png" group-title="PELICULAS ACESTREAM 2",En el lugar equivocado (2022)4.7
+acestream://f409e345496d45dd85479c879b9df4b0f62d26ee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En la universidad (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwNzNmNjUtNWQwMy00NDZkLWFhMzktMjE3YjBiZGFjNThiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",En la universidad (2023)7.0
+acestream://d53543e78d23e0fe25fd4ccd8eff1a12b11f7167
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="En los margenes (2022)7.1" tvg-logo="https://lh3.googleusercontent.com/eVKdss8sal8671zy69BmRcHbpaN8V_4JVfF8Um_iSVTS6vW0kPRN867Gn94Sfptwlxq5WjkIR1EIEZ-aaNVEWmrLERHMMaLhauGSBOHxcHoSgILvP0o6GKS4RpoS5umv6TpNv-a4X2w=w2400" group-title="PELICULAS ACESTREAM 2",En los margenes (2022)7.1
+acestream://ba28508ac10636091c048db3667d77607b921119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Encuentro con la muerte (2021)BluRay Rip[8.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPwmHDj7A9kJsvHOpgXpt2CRJ03.jpg" group-title="PELICULAS ACESTREAM 2",Encuentro con la muerte (2021)BluRay Rip[8.1*]
+acestream://9a2b614e1a3f796a194eb97e71f6a4c3b557e1d3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Entre las olas (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/01/15/51/3423570.jpg" group-title="PELICULAS ACESTREAM 2",Entre las olas (2023)7.3
+acestream://6637146280182ac728d36c1d9556a4e372fe3953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EO (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNiNjE0NzktYTA2Yi00MzRlLTk5NzUtMzE0MDczZmMyMDg2XkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",EO (2022)6.8
+acestream://5ad1f1efdd339a72680f99e1e3f6d8888d16e145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eres tu (2023)6.3" tvg-logo="https://decine21.com/img/upload/obras/eres-tu-45396/eres-tu-45396-c.jpg" group-title="PELICULAS ACESTREAM 2",Eres tu (2023)6.3
+acestream://934a27b12d927ba6d08ee80961211ae646ba3e01
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Es su vida (2023)" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/05/22/27/5899413.jpg" group-title="PELICULAS ACESTREAM 2",Es su vida (2023)
+acestream://7d36cbdc480c7be1b4fb2948a562852bfff2d53e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espiritu libre (2023)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/11/09/55/4676715.jpg" group-title="PELICULAS ACESTREAM 2",Espiritu libre (2023)6.9
+acestream://71821ad0380386958403af580bb188149be3747f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esta noche duermes conmigo (2023)6.0" tvg-logo="https://image.tmdb.org/t/p/w1280/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg" group-title="PELICULAS ACESTREAM 2",Esta noche duermes conmigo (2023)6.0
+acestream://ae59d75f843ab62afaf217297c8a9ccd792670e6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eugenie Grandet (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiNjhiM2EtMjI5Yi00NzJjLWI4MzktMmZmMjkxNzk3NTE1XkEyXkFqcGdeQXVyNTMwNzY2MzM@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Eugenie Grandet (2023)6.0
+acestream://b0b26ade67e98446ab0e2c4b3d2fdb2f534b86f5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fenomenas (2022)5.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk0ZWUzYjAtMGQ2MC00YzM4LWEwZDctMzM0NTA3ZmI3NWVhXkEyXkFqcGdeQXVyNDk3MzMwMTI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Fenomenas (2022)5.6
+acestream://60e19304bd05b4821ec1cb4ac04490f98f174450
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Folie a Familie (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmOThjMmQtYTA2Yi00NDdiLThkNTUtMTQxODM5Y2FkZWQ1XkEyXkFqcGdeQXVyNTE5MzQ0OTQ@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Folie a Familie (2023)6.0
+acestream://f7ff8f6ba60925ea18a752a0a98343f265b0387a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuerza bruta (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/02/21/06/5476334.png" group-title="PELICULAS ACESTREAM 2",Fuerza bruta (2022)7.2
+acestream://8cdbe3e1d9fe710d3af1486d72f8afd077d5c28d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuga de reinas (2023)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkODNkZDEtN2ZhMC00MjliLWFhNDgtYWFlNTFjMDY5NWVjXkEyXkFqcGdeQXVyMTUzMDg0ODA0._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Fuga de reinas (2023)5.0
+acestream://e214b33e5bce79a10f65149139004632704a1c8c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Girasoles silvestres (2022)" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/12/08/39/5169809.jpg" group-title="PELICULAS ACESTREAM 2",Girasoles silvestres (2022)
+acestream://7e05931e04723ba34434ffeade6d318d20b0df5c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold Run (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ5NmQ4MjktYzM0MC00NWNlLWIxNDItNDkyM2UwZGY3MTAzXkEyXkFqcGdeQXVyMTU0MTg5MjIz._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Gold Run (2022)6.3
+acestream://b2e753a8bc589f1429f971b260875820de0888eb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hellraiser (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Hellraiser (2022)6.3
+acestream://e2ac7893211774202b2508f12a6ba6eaaec3e240
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="High Heat (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMyNjFmNWYtY2M0Mi00OTkwLWI4MWUtMzQwOWY0MGFlZTk4XkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",High Heat (2022)6.1
+acestream://ecdec1227a40cf4ad4522353cc64a3d768c05575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hilma (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk1NDYyODktMmIxNi00ZTZjLWI4NWMtMmU2ZDc3YzEyMjdjXkEyXkFqcGdeQXVyMDYyODA2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Hilma (2022)6.0
+acestream://10e06fabe6c69972caab657d110094e27317b2c3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Historias para no contar (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwZjI3Y2UtOGI2Yi00MWZhLTkzNzAtNmQ4MzI1ZjkyNDBlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Historias para no contar (2022)6.6
+acestream://9eba32683ea361d2d29e8b9a61e076909a20e6d0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HP Lovecrafts Witch House (2023)4.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThmY2YwZDktYjk1YS00MWEwLTlmMDAtYzAwZWZmYmI1ODlmXkEyXkFqcGdeQXVyMjA5MTAwNDI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",HP Lovecrafts Witch House (2023)4.7
+acestream://6e2189768774029bd949d4a4799d1c0edf8d7b25
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hunt. Caza al espía (2022)BluRay XviD[6.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6P7qsJ46xAQsHlNBc9qkqEirSCy.jpg" group-title="PELICULAS ACESTREAM 2",Hunt. Caza al espía (2022)BluRay XviD[6.9*]
+acestream://93b0536dd3fff518fbe61e634aaa1a0f1db536b0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Icaro y el minotauro (2023)6.3" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/09/14/18/43/0044588.jpg" group-title="PELICULAS ACESTREAM 2",Icaro y el minotauro (2023)6.3
+acestream://46f7da1edc5136307ee2d0a28da857b90096b65e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infelices para siempre (2023)8.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ4ZmM4ZDEtOWZiMC00NTdmLWEyZDgtNzdjZDk2OWUwYTQ3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Infelices para siempre (2023)8.1
+acestream://4233380ebc96623b7c98296900ce5247d15f975e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infiesto (2023)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjBkYWUtNmYxNS00M2Q5LTkyN2MtYzA0NDMwMTlkNDA0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Infiesto (2023)6.3
+acestream://14779481ff913bf51ea73efa4a3d7a4696c99a8c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Irati (2023)BD1080[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uwbef3ip9qcoD0j36jy1Ik294J.jpg" group-title="PELICULAS ACESTREAM 2",Irati (2023)BD1080[6.7*]
+acestream://f4b899bbe55ae04dc40d07271b8cda5bee375c6e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jason Buscado por el FBI (2023)5.6" tvg-logo="https://musicart.xboxlive.com/7/55826400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="PELICULAS ACESTREAM 2",Jason Buscado por el FBI (2023)5.6
+acestream://ff6d8b988e2ea3cfea427e74d36e9bf4b8881c62
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jethica (2023)5.5" tvg-logo="https://de.web.img2.acsta.net/pictures/23/01/03/18/37/0362232.jpg" group-title="PELICULAS ACESTREAM 2",Jethica (2023)5.5
+acestream://781d46aaacbcc4b122dc87d59f82363c53f87b19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny (2023)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxOWIyNjItMzhkYS00NDMyLWIyNDctNjFkOTBlZDliY2EwXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Johnny (2023)7.6
+acestream://4a868795ed012089cc07fbeac10c3bad1cd4bff7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kompromat El expediente ruso (2022)6.6" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEXm29o2l3vBDzFLw1OLzYA80TDKhWmOJcJt7LiE_Ei1SP1blT8KAywaR-69z7B21-zMEeC4mwTMnO6LF8QI_yjYBftInCQsKBkvXm_-qX5ZNzbMyiOpPzNlJO4zjOBPQDrdHhMK7gEn96kWdvM7PEfT7g=w524-h697-no?authuser=0" group-title="PELICULAS ACESTREAM 2",Kompromat El expediente ruso (2022)6.6
+acestream://6eda75aaebcb303e75b41d12dad63e555ed0af7e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="L'immensita (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIyNWIyZWYtNzgxYS00OGQ3LWE0NTItMjI2YmM2OTdhYzZhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",L'immensita (2022)6.7
+acestream://67f71eb183497dd762a7b23cb8c0283cef499900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La balada de la mala suerte (2021)5.3" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/labaladadelamalasuerte.jpg" group-title="PELICULAS ACESTREAM 2",La balada de la mala suerte (2021)5.3
+acestream://40104891b2ff79c114647656b0ffb583373b67ac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La banda presidencial (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNlZTc1YTctOWEzYi00MmJlLTkxMzctODFlNDgyOTY2ZjViXkEyXkFqcGdeQXVyNDQxOTAyNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La banda presidencial (2022)5.0
+acestream://1b963504c673d64819ab377e150c2e49b196a7c4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Caja (2021)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg5NzY2M2MtOGM1OS00NGE0LTlmZjktN2EwYzkzZDI2NDEwXkEyXkFqcGdeQXVyMjg0NDI1MjU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La Caja (2021)6.6
+acestream://32016a0d8cab26df7ad9407c6ba8f2609dc664ef
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La cancion del marinero (2022)7.0" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-cancion-del-marinero-poster-1161306_SPA-35_V.jpg" group-title="PELICULAS ACESTREAM 2",La cancion del marinero (2022)7.0
+acestream://d752eca82fea0941cf15e5fbe5dbc815abae9f76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La cena perfecta (2022)6.9" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/29/11/11/1947143.jpg" group-title="PELICULAS ACESTREAM 2",La cena perfecta (2022)6.9
+acestream://7400ee7bfea34c26d934e094519541533d083c5e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La coartada (2022)6.3" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/wei2WoPJka60ITevLP9f73guSNn.jpg" group-title="PELICULAS ACESTREAM 2",La coartada (2022)6.3
+acestream://b8e06a4dbb0c2090c1ba438b6f01b6c2d78736f5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La consagracion de la primavera (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/30/17/25/5747478.jpg" group-title="PELICULAS ACESTREAM 2",La consagracion de la primavera (2023)7.3
+acestream://41f0ebdebf344fc5776d58191d459f852e401456
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La elefanta del mago (2023)7.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/03/08/15/44/0548573.jpg" group-title="PELICULAS ACESTREAM 2",La elefanta del mago (2023)7.3
+acestream://8a70bc7aa55b74ded37905117067372eba04d9ee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La emperatriz rebelde (2022)6.8" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/07/16/31/2111629.jpg" group-title="PELICULAS ACESTREAM 2",La emperatriz rebelde (2022)6.8
+acestream://408879d3b9cd69afc96a198ebbe30bb50654a67b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La espada de los 47 Ronin (2022)BluRay XviD[6.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYAHGYOBi5NPIb0wLQGDyVie2v9.jpg" group-title="PELICULAS ACESTREAM 2",La espada de los 47 Ronin (2022)BluRay XviD[6.7*]
+acestream://32283f5fa80acc2bdd1df8c9d87570cb1ca337bd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La exorcista (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU2Y2JiYTktODMxYi00OTZlLWEyNjQtM2RiYjg3ZDY5YzZmXkEyXkFqcGdeQXVyMTYyNjA4MzQ@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La exorcista (2022)6.8
+acestream://172977d7dd7b71fa0409918b39b324d19711dc17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia Monster (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyYWQ2ZmEtYTEzZi00OGExLWE0YTItOGYyODBhY2M4NDI1XkEyXkFqcGdeQXVyNTYzMTc4MzY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La familia Monster (2022)6.0
+acestream://d1ea8f62d293b765ad661f804e69ef4eed25116c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La familia tiene un precio (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4MGQ0YWYtN2IzYy00NjBhLWE0N2UtNWVjNTUyMmFlNzNiXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La familia tiene un precio (2023)6.1
+acestream://fa7c0db5aad0cd39aa246c2cb3eb1d941f65eb51
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La forja de un campeon (2022)6.8" tvg-logo="https://lh3.googleusercontent.com/urStNmZYM90l8FYagFhYpDxU39FY9C3BxtcvChODG7o0LlshhA4tcTyP1uNMF9kdLkpG-CJMS_9fcjal6q3LVM6ViUPKPE0AEmcjEdqcfYgie4ITdH3ta7h8E9vWKbu5hm0zsiI6jl4=w2400" group-title="PELICULAS ACESTREAM 2",La forja de un campeon (2022)6.8
+acestream://18b97ae5a1031828cbf00aad475079bf3f4ea643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La formula ganadora de Jerry y Marge (2022)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/pKbarYkAYFFZS4wiLvbwUCqRNFe.jpg" group-title="PELICULAS ACESTREAM 2",La formula ganadora de Jerry y Marge (2022)
+acestream://9ace30f8197fe9ded88c4114b75ab92468b0432d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La furia de una madre (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/06/15/59/2188475.jpg" group-title="PELICULAS ACESTREAM 2",La furia de una madre (2023)7.1
+acestream://a0674df5f62195cf59e0367e79bcb05f91e9e315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La gente como vosotros (2023)6.6" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2023/01/Ustedes-Poster-900x1333.jpg" group-title="PELICULAS ACESTREAM 2",La gente como vosotros (2023)6.6
+acestream://d07296cd5e8aa7ec22a318f63a974d6124842313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Gran Aventura De Blue (2022)BluRay Rip[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JV5nDPMYQLaZz2n0SmxQfMYfLn.jpg" group-title="PELICULAS ACESTREAM 2",La Gran Aventura De Blue (2022)BluRay Rip[7.3*]
+acestream://05d927def2fabd1372cc447d5df1595b6b953dad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La guarida (The Lair) (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/05/18/24/1142548.png" group-title="PELICULAS ACESTREAM 2",La guarida (The Lair) (2022)6.0
+acestream://c500b215e575ef47e9e3e423885cdef5d3580e5c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La integridad de Joseph Chambers (2022)4.0" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/30/20/11/3413901.png" group-title="PELICULAS ACESTREAM 2",La integridad de Joseph Chambers (2022)4.0
+acestream://8a5ab6c3f1c30021da9a90b98e776e4e8ca78d58
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La maternal (2022)8.4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1YjJmNTktNDMyZC00ZTc2LWE5NjUtYjhkNDkyYWJlMjRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La maternal (2022)8.4
+acestream://29d23c07318b769cd35dc0fdc20b3bd87e8ce907
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La niña de la comunion (2023)5.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY4ZTcyNGUtNDQ3ZC00MTc2LWFkN2QtMDBiNzMyNGQzZWYxXkEyXkFqcGdeQXVyOTE1MjI5OTc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La niña de la comunion (2023)5.1
+acestream://245e5712bd46dc7128ae099e8680708c6005f7e1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La orquesta terrestre (2022)7.3" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10149/la_orquesta_terrestre-cartel-10337.jpg" group-title="PELICULAS ACESTREAM 2",La orquesta terrestre (2022)7.3
+acestream://af7553d837949087827330c756e2e1db27fa8b14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La segunda oportunidad (2022)5.5" tvg-logo="https://lh3.googleusercontent.com/LWTrC_6-9tPb6YYTSnVF-KFWyDiO0H7UKQsYQY2B-w0Kqe_WSnDVeZFELMks1I8BRCdWE_CEPGPzOkmAh7KMk1mgrlDeUONygpEvzTu44rhe-WqOkKl5O3mOveou7rjCOVPPHfsjq8Y=w2400" group-title="PELICULAS ACESTREAM 2",La segunda oportunidad (2022)5.5
+acestream://e280f5a40fe300f9a0b895a502477e27ff355e0a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La sentencia (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkODQ1OGItZTY2Ni00ZTFmLTgyZTAtNDNjNWJjNDFjOWNjXkEyXkFqcGdeQXVyNjEwMTYyODM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",La sentencia (2022)5.0
+acestream://1ff1e489751b78974b8f0245ea9d62f5cdbe090c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La ultima aventura (2023)5.3" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-ultima-aventura-poster-1136579_SPA-94_V.jpg" group-title="PELICULAS ACESTREAM 2",La ultima aventura (2023)5.3
+acestream://387159c4593c97b7f3af1cb668fafeeb9052c867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Ultima cacerIa (The Last Manhunt) (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzODA1NmEtYmMxYy00YTQ5LWE4MjEtZjgyODRiMjAzYzk3XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",La Ultima cacerIa (The Last Manhunt) (2022)6.2
+acestream://3c1ccb5527d51aaba58b94544f2da7170dfa881f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las gemelas que no hablablan (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmJiZGUtNDE4OC00N2M3LWJkNzItYjM4MGM3YTJkODBlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Las gemelas que no hablablan (2022)7.0
+acestream://c1b3dbd4a23fdf56b69b506c5cbc2b2e3f833611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lazos rotos (2023)9.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMwOGQyOTAtZjBlNy00ODI0LWI5NTMtZTQwM2ZmYzBhMTY5XkEyXkFqcGdeQXVyOTM5MDYzNjY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Lazos rotos (2023)9.0
+acestream://64b567bc39ba11c5e93a702263d3d1b0c869d1ae
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legado de sangre (2023)BD1080[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJPtERjWqzST4S3cw5EQeqwOlby.jpg" group-title="PELICULAS ACESTREAM 2",Legado de sangre (2023)BD1080[6.3*]
+acestream://e3014af3ccb0b7e4e8ead7810cce34093d0ebad8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legiones (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxNGFhOTQtZjE0Ni00OTA0LTgxZWQtNGZlNWVkZWRmZGNjXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Legiones (2023)6.0
+acestream://b6370e9065800c2b3b0ff43e7315e41bb586ea45
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Living (2022)7.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdiMWI1ZmUtOTk3OS00ZDYxLThjZWYtYjIwNWJkNTkxMmJlXkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Living (2022)7.1
+acestream://b49434ca97337133734868e835e400171926f353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Llaman a la puerta (Knock at the Cabin) (2023)6.6" tvg-logo="https://es.web.img2.acsta.net/pictures/22/12/05/18/32/5169034.png" group-title="PELICULAS ACESTREAM 2",Llaman a la puerta (Knock at the Cabin) (2023)6.6
+acestream://d1d2444d4b6d9c8d1a428dc2483b50cb5521b143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lo inevitable (2021)4.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUyMmIzOTItZDU4Yi00NTc0LWEzMzAtOGMwMDMxZmZiMGU1XkEyXkFqcGdeQXVyNzY3OTY1NjQ@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lo inevitable (2021)4.6
+acestream://2d4c130691e0a83088c721e564d643ffbd7f86e1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo feroz (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViMzNlMGYtMDBhMy00ZGMxLTk0MjQtYTQzZjc1MjI4YWViXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lobo feroz (2023)6.7
+acestream://d7a4d6403245dc39d570c21e1a980af90ade7ccd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lobo vikingo (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ4NjUzYzgtNmEwMy00MGM0LWE1NWQtYzUzNjMwNTY2MmY4XkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Lobo vikingo (2022)6.6
+acestream://7378d52dbab9a1297b3365e72edafdd25a67835a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los buscamundos (2023)" tvg-logo="https://lh3.googleusercontent.com/NltM4gZBkQ4xD4Hk6v8a1KZAXAzUS5RVy2x5jBFIRAb6Taja7cmxh0lnk3IDOpjgws-1v7zN3yIEm2I1JTpzh2mHX227NBfRfzxqJ851KcLTU4AoqUsLXK3eJq9ju--DAbym_F7FWNg=w2400" group-title="PELICULAS ACESTREAM 2",Los buscamundos (2023)
+acestream://f46a2743c590b30629dfc01a649d4e3e7af291cb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los constructores de la Alhambra(2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmM2FjNWItNzMwNC00NDUwLWFjOWEtZjMzY2Y1NGQxYmNlXkEyXkFqcGdeQXVyMjA4NzA2NDc@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Los constructores de la Alhambra(2022)6.6
+acestream://a218748f0672c99b1e9c02191dc5a1f2b8ba57a2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los extraños (2023)6.3" tvg-logo="https://es.web.img2.acsta.net/pictures/23/02/16/17/51/5782884.jpg" group-title="PELICULAS ACESTREAM 2",Los extraños (2023)6.3
+acestream://4b2ddd55c8e47034e947c16d0c46a18801432790
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Fabelman (2022)7.9" tvg-logo="https://es.web.img2.acsta.net/pictures/23/01/26/16/53/1088090.jpg" group-title="PELICULAS ACESTREAM 2",Los Fabelman (2022)7.9
+acestream://e5f00036a4514c7f6ae98c693bb9ff5782638b3f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los pasajeros de la noche (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZmM2NjMjYtNDJmYy00NjA1LTgyZTItYjhiMTdjY2MyOTYwXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Los pasajeros de la noche (2022)7.0
+acestream://a6d759959663ea59f422e69c835e4f514ae5e9e7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los últimos 10 años (2022)BluRay Rip[6.9*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UysjGnbJ0z52gLZI7Hio4LEG95.jpg" group-title="PELICULAS ACESTREAM 2",Los últimos 10 años (2022)BluRay Rip[6.9*]
+acestream://8bf308af9c3405dfb29e0f1a6156f702fbab1655
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Hurts (2021)4.0" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/xuIUfp5BuuHj8SbyutauxSGm9gJ.jpg" group-title="PELICULAS ACESTREAM 2",Love Hurts (2021)4.0
+acestream://86fc597c42b43916ed29797060fa1dcaed0e8fde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III vs Cats Eye (2023)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MzI1N2ItOWNlMi00ZDA0LWJiYzctNDU2ZmQyODllMDhiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Lupin III vs Cats Eye (2023)6.6
+acestream://63755a2d90ae393251f6707eec8ab0a9b9492f2b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luther Cae la noche (2023)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQwMWFhYWMtZmE0OS00MmMxLWE3NzAtYjU1NzIyZjdmODNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Luther Cae la noche (2023)7.2
+acestream://e104f80f50961c62b176f419ca19c9baabfacd45
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luz Mala (2022)5.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQwMjFkZDItNmZiNi00OWJmLTk2Y2UtYWQwMTYxNTQ4OThhXkEyXkFqcGdeQXVyMTMyMzM1MzM5._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Luz Mala (2022)5.0
+acestream://1132ec134c4c221ef27965cdfa647e399a1fb739
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M3GAN (2022)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nODj4huoOcHwCQnfhZFCqUYcInU.jpg" group-title="PELICULAS ACESTREAM 2",M3GAN (2022)BD1080[7.3*]
+acestream://5d2e62135ee7c7275212dbb4487f1d50b120e447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malvada(2022)7.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJmZTQ2ZjYtODg2Zi00ZmNkLTk4NTktNTkxNTRkOWE2NTZiXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Malvada(2022)7.9
+acestream://6c2b51a1cbd862ed0395300a40b6ea20b82bc965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manticora (2023)8.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdlZWMyOTctMjYwZi00MzE0LWI3YTAtYjNjOGZlMDg5YTkxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Manticora (2023)8.3
+acestream://fb95004e8e98263aa1abc6e9cb94e3202ade520b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maton sangre de su sangre (2023)5.4" tvg-logo="https://images.justwatch.com/poster/303826181/s592/mi-padre" group-title="PELICULAS ACESTREAM 2",Maton sangre de su sangre (2023)5.4
+acestream://32def7e136f9899dec8c73273b1c5107b36ba2b7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Medieval (2023) 7.2" tvg-logo="https://www.cine.com/peliculas4/105662/cartel/105662_cartel_orig.jpg" group-title="PELICULAS ACESTREAM 2",Medieval (2023) 7.2
+acestream://b559f5c161dc440f8f1aa9c5bba1cfe132bed2eb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memorias de Paris (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/05/12/43/5501059.jpg" group-title="PELICULAS ACESTREAM 2",Memorias de Paris (2022)7.2
+acestream://a45547db4fee65123444d219ccda11ae87af65d0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi Maestra se comió a mi amigo (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y3ZDc2MjYtZTI3NS00MWZiLThjOGEtNzhhYmM4MmJmOTJmXkEyXkFqcGdeQXVyOTEwOTg3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Mi Maestra se comió a mi amigo (2023)7.0
+acestream://2f2a603a6a04e212d4ce23079967985e5d0fd710
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mi vida robada (2022)4.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY1NzJmYmEtODE3OS00MWQwLTliZTgtMDhmNmYwOGU5ZTAyXkEyXkFqcGdeQXVyMzY1NjUyNQ@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Mi vida robada (2022)4.8
+acestream://aeaafc7dd316c811f4baeb9b703c0376bfe4e564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mírame (2021) 7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQxNzAwNmYtN2QwZi00NDU4LTlkZmUtMDQxZTYxMTZjZDk3XkEyXkFqcGdeQXVyMjQxODc1ODc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Mírame (2021) 7.0
+acestream://2a17152eb9b78b62dbcdbc92785715fca0ebd32f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modelo 77 (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMxOTI2ODgtN2E3NC00OTcwLThjODAtNjM4MjM4MzY1ZTEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Modelo 77 (2022)7.6
+acestream://e8b84552ba2d8d267661ff713fe3b79b0d6fc7b2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Momias (2023)7.0" tvg-logo="https://www.dvdsreleasedates.com/posters/800/M/Mummies-2023-movie-poster.jpg" group-title="PELICULAS ACESTREAM 2",Momias (2023)7.0
+acestream://6c47fe48e08a75357c090a59cfce4b1d80e8621d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monster High La pelicula (2022)7.0" tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/26/23/46/5740207.jpg" group-title="PELICULAS ACESTREAM 2",Monster High La pelicula (2022)7.0
+acestream://d366a4708947cba2ee834f83fef5d309a335a01f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muere Hart (Die Hart the Movie) (2023)5.5" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/01/16/42/2726273.jpg" group-title="PELICULAS ACESTREAM 2",Muere Hart (Die Hart the Movie) (2023)5.5
+acestream://ec4693e4ab67654dd36bbec98f66f1049c18612b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muerte muerte muerte (2022)6.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2ZWExZTQtNzUzYS00YmZjLWFhNDMtZTAyNDY3ZDhiYzNlXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Muerte muerte muerte (2022)6.6
+acestream://46c4e79587811eddde3028f354e370f7e24c7d1a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muy lejos de aqui (2023)6.7" tvg-logo="https://es.web.img2.acsta.net/pictures/23/02/01/10/05/2132051.jpg" group-title="PELICULAS ACESTREAM 2",Muy lejos de aqui (2023)6.7
+acestream://9412efcf4fc9523e00b13b7dd38ed39e4898c25e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nadando en libertad (2022)BluRay XviD[6.2*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYjcXSRUhvYFAs5lft4d2qDEiks.jpg" group-title="PELICULAS ACESTREAM 2",Nadando en libertad (2022)BluRay XviD[6.2*]
+acestream://98e7a49ab1e5b870a1f256728aa658d27727b2ce
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nana (2022)8.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVlYTg2ZDktNGRhMC00ODM3LWE2NGYtNWJkNWVkODEyZjhjXkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Nana (2022)8.7
+acestream://fe89af4d05aa73af896ab7e35717034e30570b2d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Narvik (2023)6.9" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVlY2Q1OTUtZjRmYi00OTZiLTg5NzktM2M0ZGViNzczOThlXkEyXkFqcGdeQXVyMDMxMTgwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Narvik (2023)6.9
+acestream://c37c4a01518238a808a8120fc76ba78f312c2625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nieve neige (2022)5.8" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/ild7w4syr1hAP0YyFmiJsEYKR7Z.jpg" group-title="PELICULAS ACESTREAM 2",Nieve neige (2022)5.8
+acestream://856ea675ed7dca201d1979e739ea55e82a6407d3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Night Raiders (2023)5.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Night Raiders (2023)5.3
+acestream://8db3cafe7bafc3eacf362841556b34421dbbb4ac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="no hay santos (2022)5.4" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiMjFmZGQtMWJlMi00Y2FhLTljZDQtOGVlNjY5OTdiZWI1XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",no hay santos (2022)5.4
+acestream://f49fc5d10985692061aa0d80a4a0ba0d826fcc79
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No mires a los ojos (2022)6.2" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9920/no_mires_a_los_ojos-cartel-10494.jpg" group-title="PELICULAS ACESTREAM 2",No mires a los ojos (2022)6.2
+acestream://8a639a1b9facce0bb2bd5afa6475aaec860cec88
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No tendreis mi odio (2022)5.0" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/n/o/-/no-tendreis-mi-odio-poster-1153113_SPA-12_V.jpg" group-title="PELICULAS ACESTREAM 2",No tendreis mi odio (2022)5.0
+acestream://376198d7229c6a75feb5903744d86832324b61d4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noche sin paz (Violent Night)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM5ZjEzMjItZDk0ZC00M2U2LWI5YzgtYzk2YmE3MzhjY2IyXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Noche sin paz (Violent Night)7.6
+acestream://9c2b45eea6d7dd4960590a414dae1d45ed138769
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nombre en clave Polonia (2022)6.0" tvg-logo="https://images.justwatch.com/poster/304892179/s332/kryptonim-polska-2022.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Nombre en clave Polonia (2022)6.0
+acestream://1bf859e193f0d881e5a0a729f3a9927f31c5cb72
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nostalgia (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc2YmNjYmItOTc4NS00OTkzLThmM2EtOTQ1MzEzNTg0NWNiXkEyXkFqcGdeQXVyMTM5NTczMjkz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Nostalgia (2022)7.2
+acestream://f7ff26a3fa415546745fff27faeb6a5af803c726
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ojos que no ven (2022)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EwY2NmNzEtMzVkYS00MGJjLWI5YTEtYWEyMzFiYTZmYTI3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ojos que no ven (2022)6.0
+acestream://ffd71dffa1c23ec971a07525cdedc577efd2a00c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operación Bebé Oso (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/29/18/02/3021129.jpg" group-title="PELICULAS ACESTREAM 2",Operación Bebé Oso (2022)7.2
+acestream://73ea5ff5ef16a4cd79b5d8341bad11b28b2cdbd5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Operacion Fortune El gran engano (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Operacion Fortune El gran engano (2023)6.7
+acestream://922cc024115beb71f9024eb57389a0cc07da1228
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pacto de graduacion (2023)7.2" tvg-logo="https://images.justwatch.com/poster/304190411/s718/prom-pact.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Pacto de graduacion (2023)7.2
+acestream://c1b2df0da8cb03ab4a7a95cff6de40102e54eae8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Para entrar a vivir (2022)6.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/27/12/08/2536941.jpg" group-title="PELICULAS ACESTREAM 2",Para entrar a vivir (2022)6.7
+acestream://adfdabfcd665dca26e77c1743df6af4328e7fefa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paradise City (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdhNWE1YjAtNWMzMS00ZmUzLWFjN2EtOWJlMGRkMTdiNGQ4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Paradise City (2022)5.5
+acestream://a390d6b12e95f809e4cdc484bb094975b78f3b29
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Parque Salvaje (2023)4.9" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/09/07/12/24/2686804.jpg" group-title="PELICULAS ACESTREAM 2",Parque Salvaje (2023)4.9
+acestream://6022524bf9917d4972ae881e987f8dcb19035a20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peter Pan & Wendy (2023)BluRay XviD[6.6*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="PELICULAS ACESTREAM 2",Peter Pan & Wendy (2023)BluRay XviD[6.6*]
+acestream://4168c69ce85822d7005a89c8578c7e16230be05f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peter von Kant (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/07/16/24/5051478.jpg" group-title="PELICULAS ACESTREAM 2",Peter von Kant (2022)6.0
+acestream://125f8aa6bab1b7c5efc69c13aafa61536e858a86
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prancer A Christmas Tale (2022)6.6" tvg-logo="https://images.moviesanywhere.com/e60f2d85c8ee5e89c6ea222f87ef58ca/460a2f54-eb80-4f05-a8df-354d28f44851.jpg" group-title="PELICULAS ACESTREAM 2",Prancer A Christmas Tale (2022)6.6
+acestream://ea73394c55e9e9672cf08d0f9a42473552578b49
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Punto de fuga (2022)4.7" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/5jmbrS5563WNSMNWM3AFfuzYwVJ.jpg" group-title="PELICULAS ACESTREAM 2",Punto de fuga (2022)4.7
+acestream://e301372d9525237e5dd5f4be043f81a98eee3a7d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Querido David (2023)6.3" tvg-logo="https://es.web.img3.acsta.net/pictures/23/02/07/11/29/1816929.jpg" group-title="PELICULAS ACESTREAM 2",Querido David (2023)6.3
+acestream://c211e7eb2abe6857ad719d3fb7837d2215713af4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quiero Tu Vida (2023)BluRay Rip[6.1*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kH7W4ip1pU8chVdJXPU1HeW3JbY.jpg" group-title="PELICULAS ACESTREAM 2",Quiero Tu Vida (2023)BluRay Rip[6.1*]
+acestream://130628826f9c089454341151c3555fc60026e248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R.M.N. (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VkNjg0NjUtNTI5OC00NmQ2LThhMzgtYjA4MGMxYzQ2MGUzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",R.M.N. (2022)7.0
+acestream://b495fe0189476b00a6251611ce2de8812fe259e3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ray Donovan la pelicula (2022)6.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThkMTBiMDItZGVhOC00MWJkLThlZjgtNmJiMTA0NjFjMDgyXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Ray Donovan la pelicula (2022)6.8
+acestream://1804f2205dbf26cd144452d3ae01284d238048bc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reza por el diablo (2022)7.2" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/07/11/02/1639251.jpg" group-title="PELICULAS ACESTREAM 2",Reza por el diablo (2022)7.2
+acestream://f47ed7f6b4e5ca3ff12a605743d3fd6d42000f42
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ritual (2023)6.6" tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/14/17/42/070596.jpg" group-title="PELICULAS ACESTREAM 2",Ritual (2023)6.6
+acestream://ac5bf56837c3801865aab2162a69d8ffbc972366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robadas por su padre (2022)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ0YjIyMzktMDYzYy00YmIyLWI5YjktZGQxZDQyZjYwYzU5XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Robadas por su padre (2022)7.3
+acestream://023abbf115661721c6b1b3badf724a7b3a0e2ca4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ruido (2022)7.6" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFhODEyZGUtZTA3My00MjAwLTgyZjgtNmMxMTZmZDIxMjY1XkEyXkFqcGdeQXVyMjQxMDYzNzc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",ruido (2022)7.6
+acestream://bdabc6bfc2e6b1630970de2f2b385cdf4f8ef3f4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruido mental (noise) (2023)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjNjI3MTUtZjM5Mi00NzM2LWI1NWQtOTZhYjVlMjdjYzRiXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ruido mental (noise) (2023)8.2
+acestream://33f589fae7a5fbd5295ce09adc8219cde40a2d71
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sayen (2022)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE2NjIyYWMtOWRkOS00MjM3LTk0NWMtZjBiZmU2YmUxM2MxXkEyXkFqcGdeQXVyMTI4NjE0MTU2._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Sayen (2022)8.0
+acestream://14fb3e41a4d97d79a60a95ffe65a9700b420073a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scooby Doo conoce a Agallas el perro cobarde (2021)8.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODVmYmYtNjIwYS00MjNkLWIwNmItOWI1YzIyODkxOGYyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Scooby Doo conoce a Agallas el perro cobarde (2021)8.0
+acestream://27258f2f8da54919ee33501f0e6a290a12b2d91e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scream VI (2023)BD1080[7.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg" group-title="PELICULAS ACESTREAM 2",Scream VI (2023)BD1080[7.3*]
+acestream://eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secretos y traición (2022)8.0" tvg-logo="https://www.hispashare.org/images/cover.php?id=39085" group-title="PELICULAS ACESTREAM 2",Secretos y traición (2022)8.0
+acestream://767336e693d823bdbafd3005c4c353798631e470
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Separadamente juntos (2022)BluRay XviD[4.7*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TNyjDvGDnncYraTkUYgBwmMx53.jpg" group-title="PELICULAS ACESTREAM 2",Separadamente juntos (2022)BluRay XviD[4.7*]
+acestream://8b16edbd3b59c14a7ab7ffc05ce831de3e41c2db
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shazam La furia de los dioses (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZkZWIwYjEtNzc2Yy00MDUyLWI4ZDctMzg2MGVmOGM3MTlmXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Shazam La furia de los dioses (2023)7.0
+acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siete reyes deben morir (2023)7-2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlmNGE0ZGMtMzdkMC00MjQyLWI1ZjgtZTIxODAyNWJlZDFlXkEyXkFqcGdeQXVyNTQ4ODM2NjM@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Siete reyes deben morir (2023)7-2
+acestream://af52a6b14b9154ad96790f4c8168a639c3d77cad
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Simone la mujer del siglo (2022)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk2NTE0MDMtY2IyOC00MDQ4LWFmYTUtMDk2YmMxYWQ3MWVmXkEyXkFqcGdeQXVyMTEzMTQzOTk2._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Simone la mujer del siglo (2022)8.2
+acestream://a68a6ce01620c98b9d623ff95c8d096c0743bc93
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sintiendolo mucho(2022)8.6" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/17/18/09/2552370.jpg" group-title="PELICULAS ACESTREAM 2",Sintiendolo mucho(2022)8.6
+acestream://bfa3c4d7111f6b8f73e46dedc9a99137a205a736
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sharks (2020)BluRay XviD[5.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ne2xAzlgSaWvBrYGw2LkO8W5pHi.jpg" group-title="PELICULAS ACESTREAM 2",Sky Sharks (2020)BluRay XviD[5.0*]
+acestream://d62d6ddbb4a353c959117bc6141550a34ab7300a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Socios x accidente (2022)6.0" tvg-logo="https://cdn.colombia.com/cine/2022/9/socios-x-accidente-41418.jpg" group-title="PELICULAS ACESTREAM 2",Socios x accidente (2022)6.0
+acestream://3d9b3daa31c506f6729e2af40eea1ea15f3455bc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somebody I Used to Know (2023)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk5YzkzZDktY2M4NC00MTczLWI0ODgtNzQxZGMxMjA5ZjU5XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Somebody I Used to Know (2023)6.0
+acestream://c8bf6fd9533625e07c7a73fc7593fc95d962a38d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stromboli(2022)5.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA5OTY5ODgtN2YwNC00MTVlLThlN2MtNTllMGQ3MjhiMGE0XkEyXkFqcGdeQXVyMDEyNTM2Mg@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Stromboli(2022)5.3
+acestream://ed60d35abfa679cba4d5818140332266e60bee45
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio 666 (2022)6.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU5NjEzNmUtOGFhMC00M2E0LWE1NjYtZGRhZDcxYTRjNTcyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Studio 666 (2022)6.2
+acestream://20bed8cd3efbf40d3d430d2ef8ff054ae42ed120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sucias mentiras (2022)8.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UxYWI2ZWQtYTllZS00MTMzLWEwOTMtNzMyM2UxN2YwOGUyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Sucias mentiras (2022)8.2
+acestream://0053ab396b01a68c7aef7db851d594855d21f2dc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Celda (2023)7.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI5ZGUzNDAtOGY0Yy00NzU0LWE0NmYtNGNlOGI0YjVlZTk4XkEyXkFqcGdeQXVyODQ0NjU1OTE@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Super Celda (2023)7.3
+acestream://01cbce38ee83598d46c49adff1013b720768a542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suro (2023)9.3" tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/21/16/33/3164617.jpg" group-title="PELICULAS ACESTREAM 2",Suro (2023)9.3
+acestream://18e3574886ebe574152b9c568b14a5a00f9e14df
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAR (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",TAR (2022)7.2
+acestream://716cb8d428a9056f3c957fe6f9e3ccaedf40eb85
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terrifier 2 (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Terrifier 2 (2022)7.0
+acestream://bb932baefbf5c540267461631aa9c6db42b10b13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tetris (2023) 7.9" tvg-logo="https://mx.web.img2.acsta.net/pictures/23/03/03/09/17/4907700.jpg" group-title="PELICULAS ACESTREAM 2",Tetris (2023) 7.9
+acestream://c07eec69fa4e7d3f7266a2549dbd6728ef45506b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Fearway (2023)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiNDVjOGYtNTgwMi00MWQ5LTg0MmEtNzBjNDczMWM4NTBmXkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",The Fearway (2023)5.5
+acestream://7a82cc418bbff5e0cd5b18b08b27ee0420e6d778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Hanging Sun (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliM2JhNzgtNTQ4Yy00NWE0LTkzZTgtNWVlZTU0Y2E3MTRkXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",The Hanging Sun (2022)5.5
+acestream://21fb4431e7c1a8dc1cca1f0a0d5b8428084c0cb2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The System (2022)8.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFhM2JiMTAtNTVlMC00NWQ4LWI3ZWItYThjOWU3OTJiMjBiXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",The System (2022)8.1
+acestream://dea8a798dc505f86db99daf4407e095278d65117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Till el crimen que lo cambio todo (2022)7.6" tvg-logo="https://es.web.img3.acsta.net/pictures/22/12/30/10/52/5648410.png" group-title="PELICULAS ACESTREAM 2",Till el crimen que lo cambio todo (2022)7.6
+acestream://dcd45a23f8b23c9ba680f98a61be690e93528834
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Todo queda en casa (2022)BluRay Rip[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tU2EMoIPCn7CcCtLW8lRAoJYKYK.jpg" group-title="PELICULAS ACESTREAM 2",Todo queda en casa (2022)BluRay Rip[6.3*]
+acestream://0214629e5f3a33c0676135b109eef4296e92e55a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tormenta infinita (2022)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RjMTQ1ZDMtMTJkMC00ZDJkLTk5MTEtNmQzZjkyZWNhZjdiXkEyXkFqcGdeQXVyMjcwMzM0OTI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Tormenta infinita (2022)6.1
+acestream://140ad428f611809901676db284bb5e273a50fc56
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tu casa o la mia (2023)6.6" tvg-logo="https://es.web.img2.acsta.net/pictures/23/01/18/08/40/5351683.jpg" group-title="PELICULAS ACESTREAM 2",Tu casa o la mia (2023)6.6
+acestream://dc30b7251ffe94f82d560375af46f04272c1dd60
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un año una noche (2022) 7.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/10/16/20/5061802.jpg" group-title="PELICULAS ACESTREAM 2",Un año una noche (2022) 7.0
+acestream://b825b3bf9fa067caabef0a6d3b3b3c54f45c7bef
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un extrano en nuestra cama (2022)5.3" tvg-logo="https://pbs.twimg.com/media/Ftlai-TXoAElm2K?format=jpg&name=large" group-title="PELICULAS ACESTREAM 2",Un extrano en nuestra cama (2022)5.3
+acestream://89005360003b6245cac08652a4aec729f6b301d9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fantasma anda suelto por casa (2023)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/23/01/31/10/30/0967185.jpg" group-title="PELICULAS ACESTREAM 2",Un fantasma anda suelto por casa (2023)7.1
+acestream://67c8b4e4ab83408f6b41848fcaa4110fbae9b0ab
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Un fin de semana estupendo (2023)BluRay XviD[8.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9O8jKruyHRYTdGJg5I1u7b2JbVE.jpg" group-title="PELICULAS ACESTREAM 2",Un fin de semana estupendo (2023)BluRay XviD[8.0*]
+acestream://2a80848f70da26e9da4b3e3b4b26d99439b8c4a2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una boda explosiva (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/10/05/17/22/2285214.png" group-title="PELICULAS ACESTREAM 2",Una boda explosiva (2022)6.0
+acestream://f28c78cf31a09d50a32d591878d67a9255020bb8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una buena pelicula de accion (2023)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VjZmZhYzktM2I2Yi00MDQ5LWFlZDQtODdiOGI4Zjc5OGU2XkEyXkFqcGdeQXVyMzUzMDM3MA@@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="PELICULAS ACESTREAM 2",Una buena pelicula de accion (2023)6.7
+acestream://87145a769f245965c8ba71f7b584d26a39be4ecc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una estafa celestial (2021)6.2" tvg-logo="https://images.justwatch.com/poster/303952230/s718/jugando-a-ser-dios.%7Bformat%7D" group-title="PELICULAS ACESTREAM 2",Una estafa celestial (2021)6.2
+acestream://b9e19fd9983c3726fb89b2d03abb79cf798c5b5a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una herencia peliaguda (2023)6.6" tvg-logo="https://cratercraft.coffee/wp-content/uploads/2023/01/una-herencia-peliaguda-(poster99).jpg" group-title="PELICULAS ACESTREAM 2",Una herencia peliaguda (2023)6.6
+acestream://c7ce24e9aaf89a0e94cad90b446a3796ac06f81a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Una leccion criminal (2022)7.8" tvg-logo="https://lh3.googleusercontent.com/i5ZzwGduzERQ1kmE8QJ5kpC2RT7qFo6_YVJvYUQPuIknZ9yXMxEIhAp9eCShv7chtlua96CFB7SoZTF-gtMJp4I2fdbYTNo1MVp70IVKzs5pp_ZcbDtxWEzUTaklcTVmhfy13WLVqCE=w2400" group-title="PELICULAS ACESTREAM 2",Una leccion criminal (2022)7.8
+acestream://0322cfc22974783747a26fd549a4ebbbd57d17b5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unicorn wars (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdhM2Q3YTQtNzg4Yi00MWI5LWIyODEtZDZkNjllZDYxYjg1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Unicorn wars (2022)7.0
+acestream://f9299579639ca462d4e982e6f69bf30a9300bb9f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uno para morir (2023)BluRay Rip[6.3*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg" group-title="PELICULAS ACESTREAM 2",Uno para morir (2023)BluRay Rip[6.3*]
+acestream://6e4fc8e875b68498427e72cabc109e1a0227d2f7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ustedes deciden (2023)BluRay Rip[6.0*]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/QhyBSSw9dsDlyNvsXLKpHsQgI9.jpg" group-title="PELICULAS ACESTREAM 2",Ustedes deciden (2023)BluRay Rip[6.0*]
+acestream://3b0a40af70ae3cc93fdce79a72545ae0b4fbe135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasil (2022)6.0" tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/15/09/58/1065000.jpg" group-title="PELICULAS ACESTREAM 2",Vasil (2022)6.0
+acestream://892b30a43bd4e8fec8b26dc37b361805876ec118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus (2022)7.2" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/14/11/55/0376139.jpg" group-title="PELICULAS ACESTREAM 2",Venus (2022)7.2
+acestream://bc021ceaf5c7f089781f81e973837984266025b1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Whitney Houston I Wanna Dance with Somebody (2022)7.1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/06/17/38/5484570.jpg" group-title="PELICULAS ACESTREAM 2",Whitney Houston I Wanna Dance with Somebody (2022)7.1
+acestream://52fee24989a58a483f1be5ec8478e3aa3e7dea2a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wicked Witches (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVjYTc4MzctMzBlNS00ZDNlLWFhMWEtMjNkYzhhOTE1NTA1XkEyXkFqcGdeQXVyNTUxMzAyNzM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Wicked Witches (2023)6.1
+acestream://97fac5433a12e31e76d2f8d64cb35d885df2fd1c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="y algunas mentiras (2023)6.1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U3MmE5ZGUtMzRmNy00NzNhLWJiMTgtYWIxYWQ5MGUwNzYzXkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",y algunas mentiras (2023)6.1
+acestream://3b4046dbe234138517ba81fa5895d5a6180b68d7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ya era hora (2023)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjg0NjYtZWE3MC00NDJhLTliODUtMzEwZTZlZDNmMjdhXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Ya era hora (2023)7.0
+acestream://8daff5325f210a3a5d29b46eb2a68d1f7e60cbea
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yuku y la flor del Himalaya (2022)7.2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzNGYyYzgtNzM1Zi00NWY5LWJhOGUtMDU4MjUwZDhlYTczXkEyXkFqcGdeQXVyNjkwMDkzNTk@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Yuku y la flor del Himalaya (2022)7.2
+acestream://bbcf42b2a280a64406a387348e25628dd8c4a77d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoe y Tempestad (2022)7.3" tvg-logo="https://image.tmdb.org/t/p/w342/nYO6WGAspCGu2pg9eeODTm0QBdg.jpg" group-title="PELICULAS ACESTREAM 2",Zoe y Tempestad (2022)7.3
+acestream://34af8d78f6a09a4fef008cf844af4b71f7342b26
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1945 tres mujeres (2022)7.6" tvg-logo="https://mejortorrent.se/wp-content/uploads/2023/04/1945:-tres-mujeres-(poster72).jpg" group-title="PELICULAS ACESTREAM",1945 tres mujeres (2022)7.6
