@@ -2476,7 +2476,7 @@ https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f
 #EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 1 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Surf" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/931/726/original/bali-surfing-graphic-element-illustration-png.png" group-title="SURF ACESTREAM PT",Surf
+#EXTINF:-1 tvg-id="ext" tvg-name="Surf" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/931/726/original/bali-surfing-graphic-element-illustration-png.png" group-title="SURF ACESTREAM",Surf
 https://fdd0a769b16845d981dce6fd9c9f6195.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SurfChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 2 PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-R_-LLcIAi3FM4uR_yMHX_jNGAasmCj4jQ&usqp=CAU" group-title="DEPORTES ACESTREAM PT",Eleven Sports 2 PT
