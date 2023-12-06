@@ -1144,18 +1144,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46635
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46636
 #EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="ES : M+ LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LIGA DE CAMPEONES 13
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46637
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd definitivo" tvg-logo="" group-title="ZAPEANDO MOVISTAR",fhd definitivo
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD DEFINITIVO" tvg-logo="" group-title="ZAPEANDO MOVISTAR",HD DEFINITIVO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sd final" tvg-logo="" group-title="ZAPEANDO MOVISTAR",sd final
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd a 4k" tvg-logo="" group-title="ZAPEANDO MOVISTAR",fhd a 4k
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49474
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="hd mejorado fhd" tvg-logo="" group-title="ZAPEANDO MOVISTAR",hd mejorado fhd
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720" tvg-logo="" group-title="ZAPEANDO MOVISTAR",720
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49463
 
 
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aab581550279e56c78f6907c2c41197f.png" group-title="Spain ➾ Sports",ES: #VAMOS
