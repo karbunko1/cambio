@@ -2092,6 +2092,9 @@ acestream://adff389d5576b91baf762307d3b9fea4d48745bd
 acestream://c3b0868326975770b4b299bd58c1968adb3e7d7e
 #EXTINF:-1 tvg-id="ext" tvg-name="jukebox music" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",jukebox music
 acestream://b4b6a6a7d42a995fd6d3a3ac576f5987016954f3
+#EXTINF:-1 tvg-id="ext" tvg-name="Música costa rica" tvg-logo="https://png.pngtree.com/png-clipart/20190619/original/pngtree-music-note-icon-png-image_3995408.jpg" group-title="ACESTREAM MUSICA",Música costa rica
+acestream://ef9da23024cc5c2db803a7483fa9f6443665cd32
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Alcarria tv" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logotipo_web_alcarria_plus.png" group-title="ACESTREAM AUTONOMICOS",Alcarria tv
 acestream://a919c7c15704533133da0bdc808d659ca62c6d1c
 #EXTINF:-1 tvg-id="ext" tvg-name="TV galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ACESTREAM AUTONOMICOS",TV galicia
@@ -2310,6 +2313,8 @@ acestream://626fc7cf70680d1d77b4b5293be94f63c910ee92
 
 #EXTINF:-1 tvg-id="exit" tvg-name=" canal latino" tvg-logo="https://img.utdstc.com/icon/9a2/632/9a26321ead6dc2243ffa0cd06fde157730458923f17ba36f21b8b926774f0b56:200" group-title="LATINO ACESTREAM",canal latino
 acestream://134a33c13d51e146ab00c3f2fd0180d1ee9f7573
+#EXTINF:-1 tvg-id="exit" tvg-name="Cali tv" tvg-logo="https://img.utdstc.com/icon/9a2/632/9a26321ead6dc2243ffa0cd06fde157730458923f17ba36f21b8b926774f0b56:200" group-title="LATINO ACESTREAM",Cali tv
+acestream://ae5ed4e0dcde8ebaa1df885958d7578a1548baef
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD ep  c021" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="DAZN F1",DAZN F1 UHD ep  c021
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
