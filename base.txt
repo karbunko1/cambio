@@ -1747,8 +1747,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285752
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295246
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Ibiza Global TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/eb2c075b206e452cd2726da805356cf5.png" group-title="Spain ➾ Music",ES: Ibiza Global TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285763
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MTV 90s" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/5fd3b41f837b1e3a1200cdfe0fa4dbdb.svg" group-title="Spain ➾ Music",ES: MTV 90s
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281795
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MTV Espana" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" group-title="Spain ➾ Music",ES: MTV Espana
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5308
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: 7 La Rioja" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/698e77022b116a10ba33505e5457fd61.png" group-title="Spain ➾ LifeStyle",ES: 7 La Rioja
@@ -1827,8 +1826,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2208
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269932
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Onda Cadiz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/af2a2ce6ea374131378fdbe2386d0910.png" group-title="Spain ➾ LifeStyle",ES: Onda Cadiz
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/66953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Portal Foxmix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/7722046ea70b0b4b8c4fdefd5bfba703.png" group-title="Spain ➾ LifeStyle",ES: Portal Foxmix
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295008
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Solidaria TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/747286dfc3b254abd7fbaa3853ebc797.png" group-title="Spain ➾ LifeStyle",ES: Solidaria TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285810
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: TeleMadrid" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/8da652483fb3f50740b1034d2c5edc74.png" group-title="Spain ➾ LifeStyle",ES: TeleMadrid
@@ -1847,10 +1845,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281806
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281808
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Ubeat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/81d15e5ac2ba45feeedb488788d8dc7c.svg" group-title="Spain ➾ LifeStyle",ES: Ubeat
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/147368
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: 13 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/9d383e6bdd11c82c7b6ce4971a6caf77.jpg" group-title="Spain ➾ Movie",ES: 13 TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/34043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: 8TV Madrid" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/df7cee210286e5178a276bf27eb31b05.png" group-title="Spain ➾ Movie",ES: 8TV Madrid
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/75902
+
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" group-title="Spain ➾ Movie",ES: AMC
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1174
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: AMC Break" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg" group-title="Spain ➾ Movie",ES: AMC Break
@@ -1871,8 +1866,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/75926
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1168
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: Canal Hollywood" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png" group-title="Spain ➾ Movie",ES: Canal Hollywood
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1154
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Canal Sierra de Cadiz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/eb9568c0b214316b5cdac6d8014b725c.png" group-title="Spain ➾ Movie",ES: Canal Sierra de Cadiz
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285744
+4
 #EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db6dade6b271dd39ebb5e9fedc50c9a6.png" group-title="Spain ➾ Movie",ES: Comedy Central
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1164
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: Cosmopolitan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54105373185aef75593582f1f169e83a.png" group-title="Spain ➾ Movie",ES: Cosmopolitan TV
@@ -1891,8 +1885,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1158
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295164
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/976acf130ccf46f13c6e2ccce64d3a75.png" group-title="Spain ➾ Movie",ES: HBO
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/85e0cf48a4bbd14f52259279b78d8eb3.jpg" group-title="Spain ➾ Movie",ES: HBO Signature
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/91989
+
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR Accion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Spain ➾ Movie",ES: MOVISTAR Accion
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1148
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR Cine Espanol" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="Spain ➾ Movie",ES: MOVISTAR Cine Espanol
@@ -1903,20 +1896,15 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281773
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1146
 #EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="Spain ➾ Movie",ES: MOVISTAR Drama
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1144
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR Estrenos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="Spain ➾ Movie",ES: MOVISTAR Estrenos
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR Estrenos 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png" group-title="Spain ➾ Movie",ES: MOVISTAR Estrenos 2
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295135
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR Indie" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain ➾ Movie",ES: MOVISTAR Indie
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300840
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png" group-title="Spain ➾ Movie",ES: MOVISTAR Series
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1140
 #EXTINF:-1 tvg-id="nova.es" tvg-name="ES: Nova" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png" group-title="Spain ➾ Movie",ES: Nova
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2189
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: Paramount Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57ee199bc6bfdff7e9f893f47d366195.png" group-title="Spain ➾ Movie",ES: Paramount Network
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2209
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Popular TV Melilla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/fa6f5888174acc1383fe43a75aafc633.png" group-title="Spain ➾ Movie",ES: Popular TV Melilla
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/270090
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Rakuten 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2a1ca75d1fd7071b9615a0dc2985186d.png" group-title="Spain ➾ Movie",ES: Rakuten 1
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285802
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Rakuten 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/4b1c087a2bc0033effbe3d636677ced7.png" group-title="Spain ➾ Movie",ES: Rakuten 2
@@ -1967,14 +1955,12 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281802
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/7731
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Crime District" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cae0add4c12c6a739cc706f2cf399130.png" group-title="Spain ➾ Documentary",ES: Crime District
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298744
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9716e02c572ed87f290c388a94ee05d6.png" group-title="Spain ➾ Documentary",ES: Crime+ Investigation
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5292
+
 #EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: Discovery World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png" group-title="Spain ➾ Documentary",ES: Discovery World
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1162
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Spain ➾ Documentary",ES: Historia
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a803d238410485830062214859e54978.png" group-title="Spain ➾ Documentary",ES: Investigation Discovery
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/27790
+
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Spain ➾ Documentary",ES: NAT GEO
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1138
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: RTVC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/f8c4059f43a5edc2586ffa36bd305d28.png" group-title="Spain ➾ Documentary",ES: RTVC
@@ -1991,32 +1977,25 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285737
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2216
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Canal 45 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0c178103d3b60af2e6cae56a7b16a3e9.png" group-title="Spain",ES: Canal 45 TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Canal Extremadura Sat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d2354da291a52bee872a480fd45abdcc.png" group-title="Spain",ES: Canal Extremadura Sat
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298736
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Canal Taronja Osona" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/53d2c1faca8460edb3b304a719cc7c29.png" group-title="Spain",ES: Canal Taronja Osona
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285746
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: CMM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/0aa1e8e2156fc39bf1cc69cce33f1a23.svg" group-title="Spain",ES: CMM TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/81353
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Condavision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/1674821adf31602bfcdccca66acf174a.png" group-title="Spain",ES: Condavision
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/200662
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Cultura 24 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/91fa434b56816b425920b27c94d78d93.png" group-title="Spain",ES: Cultura 24 TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/197864
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain",ES: DAZN LaLiga
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297787
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: El 33" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0b1cecd26db2672961160340951caf89.png" group-title="Spain",ES: El 33
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/294892
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: EL Pinguino TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8001eedd35de43149a920591e6cb2080.png" group-title="Spain",ES: EL Pinguino TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/53887
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Enfamilia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/838b1bec29f32000808a7ecf9d11eaa8.png" group-title="Spain",ES: Enfamilia
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300838
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: ESNE TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e5c1a90ef82927e66376aa02b3110410.png" group-title="Spain",ES: ESNE TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/76224
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Fuengirola TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e33c1ac300716a2eadb5553ca7832eb3.png" group-title="Spain",ES: Fuengirola TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299530
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Galicia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Spain",ES: Galicia TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: GCM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a7c14fd2505d67d23a3b7d31d63326da.png" group-title="Spain",ES: GCM TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285760
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Goiena Eus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/2f13b8988146a2ab11c3b5bb49f267ef.png" group-title="Spain",ES: Goiena Eus
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285761
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Gol Play" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/ccb91032c19e700decd75fbfd56e7bda.jpg" group-title="Spain",ES: Gol Play
@@ -2027,12 +2006,10 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285762
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297243
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Junta Castilla y Leon" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Spain",ES: Junta Castilla y Leon
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285767
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: La URBAN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/df6495ddbc6ae04e870112469438bda7.png" group-title="Spain",ES: La URBAN TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285780
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: LaLiga TV Hypermotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ccef25607c0695c121d55b5b40bb82a.png" group-title="Spain",ES: LaLiga TV Hypermotion
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: LaLiga TV Hypermotion 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8b9d814866130fd62e4ccc22e7ebffe8.png" group-title="Spain",ES: LaLiga TV Hypermotion 2
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300831
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: LaLiga TV Hypermotion 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: LaLiga TV Hypermotion 3
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300832
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Locomotion TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Spain",ES: Locomotion TV
@@ -2049,12 +2026,10 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285845
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2190
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Melilla TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8f8a161557c55e7bc8f2672ed1a19ce2.png" group-title="Spain",ES: Melilla TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/270089
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar DAZN Redifusion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar DAZN Redifusion
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300834
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="Spain",ES: Movistar Deportes
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/227121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar Deportes 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/94066c6ba9258ffcca2b523d4bb15503.png" group-title="Spain",ES: Movistar Deportes 5
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285690
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar Deportes 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png" group-title="Spain",ES: Movistar Deportes 6
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/198066
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Movistar Documentales" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar Documentales
@@ -2147,16 +2122,12 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285797
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/64711
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Spain ➾ Football",ES: DAZN 2
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/64712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="Spain ➾ Football",ES: DAZN 3
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269912
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269911
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Laliga Smartbank TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Laliga Smartbank TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297791
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Laliga Smartbank TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297790
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Laliga Smartbank TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3
@@ -2169,8 +2140,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1141
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5311
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 3
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 4
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/269466
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR LaLiga 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 5
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281792
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: MOVISTAR LIGA DE CAMPEONES
