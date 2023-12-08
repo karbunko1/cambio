@@ -1679,8 +1679,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46624
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46625
 #EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="ES : M+ PLUS 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ PLUS 2
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46626
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="ES : LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ZAPEANDO MOVISTAR",ES : LALIGA TV HYPERMOTION 3
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46627
+
 #EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="ES : M+ LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LIGA DE CAMPEONES 4
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46628
 #EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="ES : M+ LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LIGA DE CAMPEONES 5
@@ -2074,8 +2073,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2774
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/145619
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: TeleRibera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/de6b41bcec3ed5c0fd8a761bb90f6d20.png" group-title="Spain",ES: TeleRibera
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: TeleVigo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/3aef8e4dccfba0a77bd93a64bb82fd11.png" group-title="Spain",ES: TeleVigo
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285825
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Ten" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2dbbe518daac468a3c136de76bd93820.jpg" group-title="Spain",ES: Ten
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/5306
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: TOROLÉ TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/79dc3bc64ac776646890959589873234.png" group-title="Spain",ES: TOROLÉ TV
@@ -2090,8 +2088,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/270092
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299430
 #EXTINF:-1 tvg-id="la2.es" tvg-name="ES: TVE La 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png" group-title="Spain",ES: TVE La 2
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1150
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: TVE Star" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ce9decba19f1e47cc39caa363416cdc5.png" group-title="Spain",ES: TVE Star
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/31779
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Ventdelnord TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/29789ce6637ba9ef623148cbc4dadca9.jfif" group-title="Spain",ES: Ventdelnord TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/285832
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="Spain ➾ Kids",ES: Baby TV
@@ -2151,8 +2148,7 @@ http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/81096
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/8110
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: Real Madrid TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/854d5bca5c7796bd6f64a874a5d3ae17.png" group-title="Spain ➾ Football",ES: Real Madrid TV
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Sevilla FC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/689064c08b917d7d1b5354c32a16f80f.png" group-title="Spain ➾ Football",ES: Sevilla FC TV
-http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/169002
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Cacavision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/20e52019b8a59e1af91962063d2d1568.png" group-title="Spain ➾ Nature",ES: Cacavision
 http://37.49.225.197:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/286374
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: Canal Odisea" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Spain ➾ Nature",ES: Canal Odisea
