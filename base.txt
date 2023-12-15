@@ -2053,7 +2053,7 @@ acestream://3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
 acestream://52d3738871536dce27db50f044d3294a4c52253d
 #EXTINF:-1 tvg-id="24 horas" tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="ACESTREAM TDT",24 horas
 acestream://2191383ed85d20f5f6759785e14a4aff8a3ab8f4
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="TDT",GOL PLAY
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="ACESTREAM TDT",GOL PLAY
 http://relectro.xyz:8080/0A3r0lAdTS/RfAR6aBCcs/212
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="ACESTREAM TDT",Teledeporte
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
