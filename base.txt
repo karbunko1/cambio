@@ -937,9 +937,9 @@ acestream://bbcf42b2a280a64406a387348e25628dd8c4a77d
 acestream://34af8d78f6a09a4fef008cf844af4b71f7342b26
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona prohibida (2022)6.9" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/07/12/24/5241864.jpg" group-title="PELICULAS ACESTREAM 2",Zona prohibida (2022)6.9
 acestream://73ec7ef5fae35abb83418a7c5476c5af40185206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bajo vigilancia (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg5NzI3NWYtOGVmMi00OGQxLTgwNmQtNTcxMzgwMjBhMzg4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="(no group)",Bajo vigilancia (2022)6.7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bajo vigilancia (2022)6.7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg5NzI3NWYtOGVmMi00OGQxLTgwNmQtNTcxMzgwMjBhMzg4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Bajo vigilancia (2022)6.7
 acestream://c600902d667868c287d64e53e887fba299e1e352
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Hawk Derribado (2001)7.7" tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/05/10/02/222501.jpg" group-title="(no group)",Black Hawk Derribado (2001)7.7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Hawk Derribado (2001)7.7" tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/05/10/02/222501.jpg" group-title="PELICULAS ACESTREAM 2",Black Hawk Derribado (2001)7.7
 acestream://9884db122c67f44fdb5dc07cc58267de2f995aa3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Knight Rogue (2022)4.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzNmNmNTctMjgyNy00OWNjLTgxNTctOTc2NWVhZDNiNWY4XkEyXkFqcGdeQXVyMTMzMDU5MjY2._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Detective Knight Rogue (2022)4.8
 acestream://ab28c8a875ed47fc78c25c12e02779c0cfd282c6
