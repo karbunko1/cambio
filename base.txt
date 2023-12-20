@@ -941,11 +941,11 @@ acestream://73ec7ef5fae35abb83418a7c5476c5af40185206
 acestream://c600902d667868c287d64e53e887fba299e1e352
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Hawk Derribado (2001)7.7" tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/05/10/02/222501.jpg" group-title="(no group)",Black Hawk Derribado (2001)7.7
 acestream://9884db122c67f44fdb5dc07cc58267de2f995aa3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Knight Rogue (2022)4.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzNmNmNTctMjgyNy00OWNjLTgxNTctOTc2NWVhZDNiNWY4XkEyXkFqcGdeQXVyMTMzMDU5MjY2._V1_FMjpg_UX1000_.jpg" group-title="(no group)",Detective Knight Rogue (2022)4.8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Knight Rogue (2022)4.8" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzNmNmNTctMjgyNy00OWNjLTgxNTctOTc2NWVhZDNiNWY4XkEyXkFqcGdeQXVyMTMzMDU5MjY2._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Detective Knight Rogue (2022)4.8
 acestream://ab28c8a875ed47fc78c25c12e02779c0cfd282c6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amores permitidos (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2YmUzNTAtZWE1ZC00ODRlLThkY2MtM2NjNDBkMjMwNTBiXkEyXkFqcGdeQXVyNjgxNzc4NjI@._V1_.jpg" group-title="(no group)",Amores permitidos (2022)7.0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amores permitidos (2022)7.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2YmUzNTAtZWE1ZC00ODRlLThkY2MtM2NjNDBkMjMwNTBiXkEyXkFqcGdeQXVyNjgxNzc4NjI@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",Amores permitidos (2022)7.0
 acestream://2b7b7c1a7f828e16e68c63b65198f98bba711e8a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Navidades en la Granja (2022)7.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/31/22/02/0984695.jpg" group-title="(no group)",Navidades en la Granja (2022)7.7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Navidades en la Granja (2022)7.7" tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/31/22/02/0984695.jpg" group-title="PELICULAS ACESTREAM 2",Navidades en la Granja (2022)7.7
 acestream://3b69e32f244ad38dfdd74010518cb8ef50f23327
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
