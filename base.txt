@@ -1271,13 +1271,13 @@ acestream://bbcf42b2a280a64406a387348e25628dd8c4a77d
 acestream://34af8d78f6a09a4fef008cf844af4b71f7342b26
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona prohibida (2022)6.9" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/07/12/24/5241864.jpg" group-title="PELICULAS ACESTREAM 2",Zona prohibida (2022)6.9
 acestream://73ec7ef5fae35abb83418a7c5476c5af40185206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El contratista (2022)6.6" tvg-logo="https://decine21.com/img/upload/obras/el-contratista-46209/el-contratista-46209-c.jpg" group-title="(no group)",El contratista (2022)6.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El contratista (2022)6.6" tvg-logo="https://decine21.com/img/upload/obras/el-contratista-46209/el-contratista-46209-c.jpg" group-title="PELICULAS ACESTREAM 2",El contratista (2022)6.6
 acestream://0badd151ad87d18be417f9205f423ccf88c3c402
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Gold Brick (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyN2UzZjEtODExNy00MjJkLWJmZGYtYmM2OTY3ZDM1MzI4XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_FMjpg_UX1000_.jpg" group-title="(no group)",Big Gold Brick (2022)5.5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Gold Brick (2022)5.5" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyN2UzZjEtODExNy00MjJkLWJmZGYtYmM2OTY3ZDM1MzI4XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Big Gold Brick (2022)5.5
 acestream://e5060e533eac9ca99db1d16239417da7e72926d4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secuestro en directo (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAzMmFlMGMtNzQ4Mi00NGM1LTk4MzYtOGNjYzczNzUyNmU5XkEyXkFqcGdeQXVyMjAxMDczOTQ@._V1_FMjpg_UX1000_.jpg" group-title="(no group)",Secuestro en directo (2022)6.3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Secuestro en directo (2022)6.3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAzMmFlMGMtNzQ4Mi00NGM1LTk4MzYtOGNjYzczNzUyNmU5XkEyXkFqcGdeQXVyMjAxMDczOTQ@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS ACESTREAM 2",Secuestro en directo (2022)6.3
 acestream://455ee50faf3d2dd9672fdfcdcbc7af98453c1472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eLvestido de la novia(2020)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYzZGZmOWMtYzBiOC00ZGE5LThjNzEtM2ZhNmU4YmMxNDAxXkEyXkFqcGdeQXVyMjAzMjY5OTM@._V1_.jpg" group-title="(no group)",eLvestido de la novia(2020)6.0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eLvestido de la novia(2020)6.0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYzZGZmOWMtYzBiOC00ZGE5LThjNzEtM2ZhNmU4YmMxNDAxXkEyXkFqcGdeQXVyMjAzMjY5OTM@._V1_.jpg" group-title="PELICULAS ACESTREAM 2",eLvestido de la novia(2020)6.0
 acestream://1b60adb7b7b6967073b9606ddbc9a1034ef63a31
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
