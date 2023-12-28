@@ -1629,9 +1629,9 @@ acestream://536ec7aa66ff16b2da07f551b91e284a1c75f200
 acestream://34af8d78f6a09a4fef008cf844af4b71f7342b26
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zona prohibida (2022)6.9" tvg-logo="https://es.web.img2.acsta.net/pictures/22/11/07/12/24/5241864.jpg" group-title="PELICULAS ACESTREAM 2",Zona prohibida (2022)6.9
 acestream://73ec7ef5fae35abb83418a7c5476c5af40185206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los habitantes (2023)7.1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cDk11Icc9Ug0AYZ5kOKWk4RIciu.jpg" group-title="(no group)",Los habitantes (2023)7.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los habitantes (2023)7.1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cDk11Icc9Ug0AYZ5kOKWk4RIciu.jpg" group-title="PELICULAS ACESTREAM 2",Los habitantes (2023)7.1
 acestream://5fc4fa21beb7a57cee63120406439ff61e4ce21b
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los iniciados (2023)7.6" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51sVbW7cwa7UU6rPsCOqsM5dUec.jpg" group-title="(no group)",Los iniciados (2023)7.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los iniciados (2023)7.6" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51sVbW7cwa7UU6rPsCOqsM5dUec.jpg" group-title="PELICULAS ACESTREAM 2",Los iniciados (2023)7.6
 acestream://be2790828fe236c20f12822e15c987add810c510
 #EXTINF:-1 tvg-id="10 días de un mal hombre(2023)" tvg-name="10 días de un mal hombre(2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRdglkdgsbRD2ANxmnyQAxrarmiKmQaSKw&usqp=CAU" group-title="PELICULAS ACESTREAM",10 días de un mal hombre(2023)
 acestream://77a77e48cca430616dbbf6c2e6a20dc32efb0a14
